@@ -21,7 +21,7 @@ package:
     - .git/**
 
 functions:
-  test:
-    handler: http
+  cohort-bundles-test:
+    handler: cohort_bundles_test
     events:
       - http: path

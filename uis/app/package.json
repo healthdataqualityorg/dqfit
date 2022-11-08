@@ -1,6 +1,6 @@
 {
-  "name": "create-react-app",
-  "version": "5.0.0",
+  "name": "dqfit",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -12,8 +12,10 @@
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
+    "axios": "^1.1.3",
     "react": "latest",
     "react-dom": "latest",
+    "react-json-pretty": "^2.2.0",
     "react-scripts": "latest"
   },
   "browserslist": {
