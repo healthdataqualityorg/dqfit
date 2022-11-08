@@ -3,6 +3,4 @@ plotly
 ipykernel
 nbformat
 black
-flask
-flask_cors
 dqfit
