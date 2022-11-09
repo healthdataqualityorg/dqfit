@@ -1,3 +1,5 @@
+import pandas as pd
+
 class ResourceHelper:
     @staticmethod
     def get_id(resource) -> str:
@@ -17,7 +19,7 @@ class ResourceHelper:
             resourceType = resource["resourceType"]
             if resourceType == "Patient":
                 return None
-            if resourceType == "MedicationDispense":
+            elif resourceType == "MedicationDispense":
                 date = resource["whenHandedOver"]
             elif resourceType == "Procedure":
                 try:
@@ -33,6 +35,8 @@ class ResourceHelper:
                 date = resource["effectiveDateTime"]
             elif resourceType == "Claim":
                 date = resource["created"]
+            elif resourceType == "Immunization":
+                date = resource["occurrenceDateTime"]
             return date[0:10]  # really wish casting to date here wasnt so slow
         except Exception as e:
             print(resourceType, e)
@@ -44,6 +48,8 @@ class ResourceHelper:
             return None
         elif resource["resourceType"] == "MedicationDispense":
             return resource["medicationCodeableConcept.coding"]
+        elif resource["resourceType"] == "Immunization":
+            return resource["vaccineCode.coding"]
         else:
             return resource["code.coding"]
 
@@ -65,13 +71,19 @@ class ResourceHelper:
 
     @staticmethod
     def get_patient_reference(resource):
-        if resource["resourceType"] == "Patient":
-            key = f"Patient/{resource['id']}"
-        elif resource["resourceType"] == "Claim":
-            key = resource["patient.reference"]
-        else:
-            key = resource["subject.reference"]
-        return key.split(".")[-1]
+        try:
+            if resource["resourceType"] == "Patient":
+                key = f"{resource['id']}"
+            elif resource["resourceType"] in ["Claim","Immunization"]:
+                key = resource["patient.reference"]
+            else:
+                key = resource["subject.reference"]
+            key = key.replace("Patient/Patient.","")
+            key = key.replace("urn:uuid:","") # from synthea pass
+            return key.split(".")[-1]
+        except Exception as e:
+            print(e, resource)
+
 
     @staticmethod
     def get_patient_gender(resource) -> int:
@@ -89,8 +101,8 @@ class ResourceHelper:
     @staticmethod
     def get_patient_age_decile(resource) -> int:
         """
-        returns int 0-9
-        Enables normalization against US Census, e.g. census max is 85+
+            returns int 0-9
+            Enables normalization against US Census, e.g. census max is 85+
         """
         if resource["resourceType"] != "Patient":
             return None

@@ -11,8 +11,7 @@ class BundleQuery:
     @staticmethod
     def zipfile_query(cohort_zip_path: str) -> pd.DataFrame:
         zf = ZipFile(cohort_zip_path)
-        filenames = zf.namelist()[1::]
-        bundles = [json.load(zf.open(f)) for f in filenames]
+        bundles = [json.load(zf.open(f)) for f in zf.namelist()[1::]]
         return pd.DataFrame(bundles)
 
     @staticmethod
