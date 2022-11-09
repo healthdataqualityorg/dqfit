@@ -1,10 +1,12 @@
 import json
 from zipfile import ZipFile
+
 import pandas as pd
+
 
 class BundleQuery:
 
-    """ Returns n x m DataFrame where n is count of FHIR Bundles in Cohort """
+    """Returns n x m DataFrame where n is count of FHIR Bundles in Cohort"""
 
     @staticmethod
     def zipfile_query(cohort_zip_path: str) -> pd.DataFrame:
@@ -12,7 +14,7 @@ class BundleQuery:
         filenames = zf.namelist()[1::]
         bundles = [json.load(zf.open(f)) for f in filenames]
         return pd.DataFrame(bundles)
-    
+
     @staticmethod
     def directory_query(cohort_dir: str) -> pd.DataFrame:
         ...
@@ -30,7 +32,6 @@ class BundleQuery:
 
 
 class ResourceQuery:
-
     @staticmethod
     def query():
         ...
