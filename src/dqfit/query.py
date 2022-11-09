@@ -20,3 +20,17 @@ class BundleQuery:
     @staticmethod
     def big_query() -> pd.DataFrame:
         ...
+
+
+# class ResourceQuery:
+
+#     @staticmethod
+#     def query():
+#         ...
+
+
+class ResourceQuery:
+
+    @staticmethod
+    def query():
+        ...

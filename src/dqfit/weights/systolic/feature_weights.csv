@@ -1,0 +1,5 @@
+feature,weight
+timeliness, 1
+lng_range, 0.5
+lng_gap, 0.1
+val_z, 0.3
