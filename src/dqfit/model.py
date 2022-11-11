@@ -6,17 +6,23 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from pathlib import Path
 
 
-SUPPORTED_RESOURCES = [
-    "Patient",
-    "Procedure",
-    "Condition",
-    "Observation",
-    "Immunization",
-    # "AllergyIntolerance", getting erros on synthrea
-]
-
 # could be an abstraction
 class DQIModel:
+
+    SUPPORTED_RESOURCES = [
+        "Patient",
+        "Procedure",
+        "Condition",
+        "Observation",
+        "Immunization",
+        "MedicationDispense",
+        "Claim",
+        "ClaimResponse",
+        "Coverage",
+        # "Encounter", #DSFE
+        # "AllergyIntolerance", getting erros on synthrea
+    ]
+
     def __init__(self, context="systolic") -> None:
         """Does stuff"""
         self.context = context
@@ -45,7 +51,9 @@ class DQIModel:
         else:
             scored_bundles = self._alt_transform(bundles)
 
-        scored_bundles = scored_bundles.sort_values(["group", "fitness_score"], ascending=False).reset_index(drop=True)
+        scored_bundles = scored_bundles.sort_values(
+            ["group", "fitness_score"], ascending=False
+        ).reset_index(drop=True)
         print(f"Context: {self.context}")
         print(scored_bundles["group"].value_counts())
         return scored_bundles
@@ -92,7 +100,6 @@ class DQIModel:
             lambda x: "pass" if x > 7 else "fail"
         )
 
-        
         return bundles
 
     def visualize(self, scored_bundles: pd.DataFrame) -> None:
