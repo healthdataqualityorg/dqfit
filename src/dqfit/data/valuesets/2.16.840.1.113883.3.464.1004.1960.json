@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33062",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:41:03.843-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1960",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1960"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "FOBT_Test_Result_or_Finding",
+  "title": "FOBT Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:07-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167667006",
+        "display": "Fecal occult blood: negative"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "389076003",
+        "display": "Fecal occult blood: trace"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "59614000",
+        "display": "Occult blood in stools"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33104",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:37:14.793-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1355",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1355"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Personality_Disorder",
+  "title": "Personality Disorder",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:39-04:00",
+    "total": 13,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20010003",
+        "display": "Borderline personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191765005",
+        "display": "Emotionally unstable personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231527003",
+        "display": "Explosive personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "55341008",
+        "display": "Histrionic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191773001",
+        "display": "Immature personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191766006",
+        "display": "Psychoinfantile personality"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.0",
+        "display": "Cyclothymic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.3",
+        "display": "Borderline personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.4",
+        "display": "Histrionic personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.10",
+        "display": "Factitious disorder imposed on self, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.11",
+        "display": "Factitious disorder imposed on self, with predominantly psychological signs and symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.12",
+        "display": "Factitious disorder imposed on self, with predominantly physical signs and symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.13",
+        "display": "Factitious disorder imposed on self, with combined psychological and physical signs and symptoms"
+      }
+    ]
+  }
+}

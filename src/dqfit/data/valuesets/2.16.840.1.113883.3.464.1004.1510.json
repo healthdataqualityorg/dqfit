@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33015",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:40:01.588-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1510",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1510"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "38_Weeks_Gestation",
+  "title": "38 Weeks Gestation",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:13-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13798002",
+        "display": "Gestation period, 38 weeks"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.38",
+        "display": "38 weeks gestation of pregnancy"
+      }
+    ]
+  }
+}

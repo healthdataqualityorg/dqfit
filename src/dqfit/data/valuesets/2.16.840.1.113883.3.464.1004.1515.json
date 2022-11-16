@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33020",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:41:56.871-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1515",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1515"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "43_Weeks_Gestation",
+  "title": "43 Weeks Gestation",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:16-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.49",
+        "display": "Greater than 42 weeks gestation of pregnancy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33623",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:36:24.012-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1554",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1554"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Meperidine_Promethazine_Medications",
+  "title": "Meperidine Promethazine Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:37-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "861578",
+        "display": "meperidine hydrochloride 50 MG / promethazine hydrochloride 25 MG Oral Capsule"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51293062201",
+        "display": "meperidine hydrochloride 50 MG / promethazine hydrochloride 25 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

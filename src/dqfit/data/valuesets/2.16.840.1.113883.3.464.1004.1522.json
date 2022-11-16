@@ -1,0 +1,114 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33260",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:42:55.387-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1522",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1522"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Absence_of_Cervix_Diagnosis",
+  "title": "Absence of Cervix Diagnosis",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:29-04:00",
+    "total": 15,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "V88.01",
+        "display": "Acquired absence of both cervix and uterus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723171001",
+        "display": "Acquired absence of cervix and uterus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "V88.03",
+        "display": "Acquired absence of cervix with remaining uterus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "752.43",
+        "display": "Cervical agenesis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "37687000",
+        "display": "Congenital absence of cervix"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "429290001",
+        "display": "History of radical hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428078001",
+        "display": "History of total hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "429763009",
+        "display": "History of total hysterectomy with bilateral salpingo-oophorectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10738891000119107",
+        "display": "History of total hysterectomy without abnormal cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "473171009",
+        "display": "History of vaginal hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "618.5",
+        "display": "Prolapse of vaginal vault after hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "248911005",
+        "display": "Uterine cervix absent"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Q51.5",
+        "display": "Agenesis and aplasia of cervix"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z90.710",
+        "display": "Acquired absence of both cervix and uterus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z90.712",
+        "display": "Acquired absence of cervix with remaining uterus"
+      }
+    ]
+  }
+}

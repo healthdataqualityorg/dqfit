@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33034",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:07:04.265-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1043",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1043"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Bilateral_Modifier",
+  "title": "Bilateral Modifier",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:40:15-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "50",
+        "display": "Bilateral Procedure [50]"
+      }
+    ]
+  }
+}

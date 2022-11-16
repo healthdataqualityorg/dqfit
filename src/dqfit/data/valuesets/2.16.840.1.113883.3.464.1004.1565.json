@@ -1,0 +1,480 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33633",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:46:28.388-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1565",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1565"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Tapentadol_Medications",
+  "title": "Tapentadol Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:43-04:00",
+    "total": 76,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1148797",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1149367",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1148800",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1149370",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1148803",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1149373",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1148807",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1149376",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1148809",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1149378",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "825409",
+        "display": "tapentadol 100 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "854140",
+        "display": "tapentadol 100 MG Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "825411",
+        "display": "tapentadol 50 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "854142",
+        "display": "tapentadol 50 MG Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "825413",
+        "display": "tapentadol 75 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "854144",
+        "display": "tapentadol 75 MG Oral Tablet [Nucynta]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510005001",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510005010",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510005801",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510005860",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510007501",
+        "display": "tapentadol 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510007510",
+        "display": "tapentadol 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510010001",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510010010",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510011601",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510011660",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510017401",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510017460",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510023201",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510023260",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510029101",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24510029160",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356052530",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356061130",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356061160",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458082004",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458083004",
+        "display": "tapentadol 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458084002",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458084004",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086001",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086002",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086101",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086102",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086201",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086202",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086301",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086302",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086401",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458086402",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700055560",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700056560",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700060630",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700079230",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700079660",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700079760",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629461101",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629461102",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629461103",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071083291",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071083391",
+        "display": "tapentadol 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865021001",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865021002",
+        "display": "tapentadol 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865022001",
+        "display": "tapentadol 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865022002",
+        "display": "tapentadol 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865023001",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865023002",
+        "display": "tapentadol 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865024001",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865024002",
+        "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865024501",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865024502",
+        "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865025001",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865025002",
+        "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865026001",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865026002",
+        "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865026501",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69865026502",
+        "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

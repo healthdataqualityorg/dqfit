@@ -1,0 +1,456 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33090",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:10:23.046-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1351",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1351"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Major_Depression_or_Dysthymia",
+  "title": "Major Depression or Dysthymia",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:36-04:00",
+    "total": 72,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14183003",
+        "display": "Chronic major depressive disorder, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2618002",
+        "display": "Chronic recurrent major depressive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78667006",
+        "display": "Dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2506003",
+        "display": "Early onset dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "300706003",
+        "display": "Endogenous depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "274948002",
+        "display": "Endogenous depression - recurrent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231499006",
+        "display": "Endogenous depression first episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19694002",
+        "display": "Late onset dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63412003",
+        "display": "Major depression in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30605009",
+        "display": "Major depression in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "42810003",
+        "display": "Major depression in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "70747007",
+        "display": "Major depression single episode, in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "320751009",
+        "display": "Major depression, melancholic type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36923009",
+        "display": "Major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "370143000",
+        "display": "Major depressive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "42925002",
+        "display": "Major depressive disorder, single episode with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69392006",
+        "display": "Major depressive disorder, single episode with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63778009",
+        "display": "Major depressive disorder, single episode with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "25922000",
+        "display": "Major depressive disorder, single episode with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87512008",
+        "display": "Mild major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79298009",
+        "display": "Mild major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40379007",
+        "display": "Mild recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "832007",
+        "display": "Moderate major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15639000",
+        "display": "Moderate major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18818009",
+        "display": "Moderate recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83176005",
+        "display": "Primary dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38451003",
+        "display": "Primary dysthymia early onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "67711008",
+        "display": "Primary dysthymia late onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "66344007",
+        "display": "Recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46244001",
+        "display": "Recurrent major depression in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33135002",
+        "display": "Recurrent major depression in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38694004",
+        "display": "Recurrent major depressive disorder with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "39809009",
+        "display": "Recurrent major depressive disorder with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "319768000",
+        "display": "Recurrent major depressive disorder with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71336009",
+        "display": "Recurrent major depressive disorder with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268621008",
+        "display": "Recurrent major depressive episodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191610000",
+        "display": "Recurrent major depressive episodes, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191611001",
+        "display": "Recurrent major depressive episodes, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191613003",
+        "display": "Recurrent major depressive episodes, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85080004",
+        "display": "Secondary dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "3109008",
+        "display": "Secondary dysthymia early onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36170009",
+        "display": "Secondary dysthymia late onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "73867007",
+        "display": "Severe major depression with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33736005",
+        "display": "Severe major depression with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "60099002",
+        "display": "Severe major depression with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "75084000",
+        "display": "Severe major depression without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "430852001",
+        "display": "Severe major depression, single episode, with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "77911002",
+        "display": "Severe major depression, single episode, with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20250007",
+        "display": "Severe major depression, single episode, with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76441001",
+        "display": "Severe major depression, single episode, without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28475009",
+        "display": "Severe recurrent major depression with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33078009",
+        "display": "Severe recurrent major depression with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15193003",
+        "display": "Severe recurrent major depression with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36474008",
+        "display": "Severe recurrent major depression without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19527009",
+        "display": "Single episode of major depression in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191604000",
+        "display": "Single major depressive episode, severe, with psychosis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.0",
+        "display": "Major depressive disorder, single episode, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.1",
+        "display": "Major depressive disorder, single episode, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.2",
+        "display": "Major depressive disorder, single episode, severe without psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.3",
+        "display": "Major depressive disorder, single episode, severe with psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.4",
+        "display": "Major depressive disorder, single episode, in partial remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.5",
+        "display": "Major depressive disorder, single episode, in full remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.9",
+        "display": "Major depressive disorder, single episode, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.0",
+        "display": "Major depressive disorder, recurrent, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.1",
+        "display": "Major depressive disorder, recurrent, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.2",
+        "display": "Major depressive disorder, recurrent severe without psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.3",
+        "display": "Major depressive disorder, recurrent, severe with psychotic symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.40",
+        "display": "Major depressive disorder, recurrent, in remission, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.41",
+        "display": "Major depressive disorder, recurrent, in partial remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.42",
+        "display": "Major depressive disorder, recurrent, in full remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.9",
+        "display": "Major depressive disorder, recurrent, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.1",
+        "display": "Dysthymic disorder"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33523",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:34:29.006-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1745",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1745"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "DTaP_Vaccine_Procedure",
+  "title": "DTaP Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:36-04:00",
+    "total": 44,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "390865008",
+        "display": "Administration of booster dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "390846000",
+        "display": "Administration of booster dose of diphtheria and acellular pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "770616000",
+        "display": "Administration of first dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "310306005",
+        "display": "Administration of first dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "866158005",
+        "display": "Administration of first dose of diphtheria, pertussis, and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412762002",
+        "display": "Administration of first dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412755006",
+        "display": "Administration of first dose of diphtheria and acellular pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "414259000",
+        "display": "Administration of first dose of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313383003",
+        "display": "Administration of fourth dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "310307001",
+        "display": "Administration of second dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "770617009",
+        "display": "Administration of second dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "866159002",
+        "display": "Administration of second dose of diphtheria, pertussis, and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412763007",
+        "display": "Administration of second dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412756007",
+        "display": "Administration of second dose of diphtheria and acellular pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "415507003",
+        "display": "Administration of second dose of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "16298561000119108",
+        "display": "Administration of tetanus, diphtheria, and acellular pertussis vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "770618004",
+        "display": "Administration of third dose of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "310308006",
+        "display": "Administration of third dose of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "866226006",
+        "display": "Administration of third dose of diphtheria, pertussis, and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412764001",
+        "display": "Administration of third dose of diphtheria and acellular pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412757003",
+        "display": "Administration of third dose of diphtheria and acellular pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "415712004",
+        "display": "Administration of third dose of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "770608009",
+        "display": "Administration of diphtheria and Haemophilus influenzae type B and hepatitis B and pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "312870000",
+        "display": "Administration of diphtheria and Haemophilus influenzae type B and pertussis and poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "787436003",
+        "display": "Administration of diphtheria and Haemophilus influenzae type B and pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399014008",
+        "display": "Administration of diphtheria, pertussis, and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "572561000119108",
+        "display": "Administration of diphtheria and hepatitis B and acellular pertussis and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16290681000119103",
+        "display": "Administration of diphtheria and acellular pertussis and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "571571000119105",
+        "display": "Administration of diphtheria and acellular pertussis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "414620004",
+        "display": "Administration of low dose diphtheria and acellular pertussis five component and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "414001002",
+        "display": "Administration of diphtheria and Haemophilus influenza B and five component acellular pertussis and inactivated poliomyelitis and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170399005",
+        "display": "Diphtheria, pertussis and tetanus triple and polio vaccination"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90698",
+        "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, Haemophilus influenzae type b, and inactivated poliovirus vaccine, (DTaP-IPV/Hib), for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90723",
+        "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, hepatitis B, and inactivated poliovirus vaccine (DTaP-HepB-IPV), for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90697",
+        "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90700",
+        "display": "Diphtheria, tetanus toxoids, and acellular pertussis vaccine (DTaP), when administered to individuals younger than 7 years, for intramuscular use"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170400003",
+        "display": "First diphtheria, pertussis and tetanus triple and polio vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170395004",
+        "display": "First diphtheria, pertussis and tetanus triple vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170401004",
+        "display": "Second diphtheria, pertussis and tetanus triple and polio vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170396003",
+        "display": "Second diphtheria, pertussis and tetanus triple vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428251000124104",
+        "display": "Tetanus, diphtheria and acellular pertussis vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170402006",
+        "display": "Third diphtheria, pertussis and tetanus triple and polio vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "170397007",
+        "display": "Third diphtheria, pertussis and tetanus triple vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "787438002",
+        "display": "Vaccination for diphtheria, pertussis, tetanus, poliomyelitis, Hepatitis B virus and Haemophilus influenzae type b"
+      }
+    ]
+  }
+}

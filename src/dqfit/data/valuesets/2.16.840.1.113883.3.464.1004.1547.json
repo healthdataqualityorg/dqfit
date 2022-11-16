@@ -1,0 +1,4254 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33601",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:06:17.329-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1547",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1547"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Acetaminophen_Codeine_Medications",
+  "title": "Acetaminophen Codeine Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:22-04:00",
+    "total": 705,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993755",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993763",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Suspension"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993767",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Suspension [Capital and Codeine]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993770",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993781",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993837",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet [Tylenol with Codeine]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993890",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "993892",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet [Tylenol with Codeine]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093005001",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093015001",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093015010",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093035001",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093035005",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093035010",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121050400",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121050404",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121050405",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121050412",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121050416",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121100800",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121100812",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00187000301",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048301",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048401",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048403",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048410",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048420",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048423",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048450",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048462",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048501",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406048505",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702010",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702012",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702015",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702020",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702030",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702081",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702085",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702610",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702612",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702615",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702620",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702630",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702681",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702685",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00440702740",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603102058",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233721",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233802",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233804",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233821",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233832",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233921",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603233928",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603901354",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603901358",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00615810239",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544003215",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544003220",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544010010",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544010015",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544010020",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052600",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052601",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052640",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052650",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052655",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052659",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052665",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052666",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052671",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052680",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052682",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052685",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052691",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052694",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634052696",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634097506",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005801",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005805",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005830",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005899",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005901",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005905",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005930",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107005999",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107006001",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107006005",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107006030",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107006099",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856007901",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856007902",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856007904",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856007905",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000102",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000103",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000104",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000107",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000110",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000112",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000114",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000115",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000118",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000120",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000121",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000124",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000125",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000128",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000140",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000142",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000148",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000150",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000160",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000164",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000172",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000184",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000190",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000202",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000208",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000210",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000212",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000214",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000215",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000220",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000221",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000225",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000228",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000230",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000240",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000242",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000248",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000250",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000256",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000260",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261000290",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261047001",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000100",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000101",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000115",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000120",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000140",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000150",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000160",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000190",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000200",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358000260",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063001403",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063001404",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063001406",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063001412",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055404",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055406",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055410",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055412",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055415",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055418",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055420",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055424",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055425",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055428",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055430",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055460",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055490",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063055498",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063076315",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001040",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001045",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001050",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001060",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001070",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001075",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43353001090",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865043930",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865043960",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046630",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046649",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046651",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046660",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046690",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672056116",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999002601",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999002630",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999002640",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999002660",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999002690",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006000",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006001",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006020",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006024",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006030",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006050",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006060",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999006090",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090000602",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090021500",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193300",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193301",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193302",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193303",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193304",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193307",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193309",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193400",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193401",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193406",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090193500",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301100",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301101",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301102",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301103",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301104",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301105",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301106",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301107",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090301108",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090387100",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461000",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461001",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461002",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461003",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461004",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461007",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090461101",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090519800",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520000",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520001",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520002",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520003",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520004",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520007",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520100",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520101",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090520401",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383007905",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383007906",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383007912",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383007913",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383007916",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383033705",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383033706",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383033810",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383033811",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383033912",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383033913",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383034015",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383034017",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436322701",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436322702",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436322707",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436322709",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458051360",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458051560",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458051570",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51079016101",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51079016120",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51079016121",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51079016196",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51079016199",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51655080253",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51655080254",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51655080852",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51655080853",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51655080854",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51655080887",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000300",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000302",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000304",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000306",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000310",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000312",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000314",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000315",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000316",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000320",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000324",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000325",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000328",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000340",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000342",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000345",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000350",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000360",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000375",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000384",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959000390",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959014103",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959014104",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959020815",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959020830",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044600",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044602",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044615",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044620",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044624",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044630",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044650",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044660",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959044690",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53002010101",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53002010102",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53002010103",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53002010105",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53002341001",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217021301",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217037020",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "54348001501",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55154755300",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000506",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000510",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000512",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000515",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000518",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000520",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000524",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000525",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000530",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000560",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000590",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289000598",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289004815",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289044915",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289091620",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289091630",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289091690",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700021310",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700021312",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700021315",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700021320",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700021330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700021360",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887095150",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58118048508",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58118448408",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58864000415",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58864000420",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58864000430",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60432024504",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60432024516",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687060401",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687060411",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687061501",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687061511",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760002215",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760002230",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760046630",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090306",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090310",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090315",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090320",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090396",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502090397",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919002330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919002360",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919002371",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919002390",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919005330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919005360",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919005371",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919027390",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919032830",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919032860",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919032871",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919032890",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919047260",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919047290",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919048430",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919048460",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919048471",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919048490",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919090560",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919090590",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187010615",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187010620",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187010630",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187010660",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187010690",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187029104",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187047030",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187047060",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187047090",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187049120",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187049130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187049160",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187049190",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187081515",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187081520",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187081530",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187081560",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304056101",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304056105",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304056201",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304056205",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304056210",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629118501",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629118601",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629118701",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629118801",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629118901",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629119001",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149400",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149401",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149402",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149403",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149404",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149405",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149406",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149407",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149408",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629149409",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629294501",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303101",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303102",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303103",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303104",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303105",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303106",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303107",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303108",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629303109",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629766801",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629766802",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739000410",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874025903",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874026715",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874026730",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64720030450",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64850064112",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64850064212",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64850064312",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162003310",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162003311",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162003350",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000106",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000110",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000112",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000115",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000120",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000124",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000140",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000160",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000184",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000190",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000191",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000220",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000230",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000240",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000260",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000284",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267000290",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267022130",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267075902",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267075904",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267075906",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267099704",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267100500",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005906",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005910",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005912",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005915",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005916",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005920",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005924",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005930",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005940",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336005960",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090230",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090307",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090314",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090315",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090320",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090321",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090328",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090360",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046090830",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67046092930",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296004102",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296006501",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296006502",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296006503",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296006504",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296006506",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296054401",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296054402",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296054403",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296065101",
+        "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296151601",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296151602",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296151605",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296151606",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296177206",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000209",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000215",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000220",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000230",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000240",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000245",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000246",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000250",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000253",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000254",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000255",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000260",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000270",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000272",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000275",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000280",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000285",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000290",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000293",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000353",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000360",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000370",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000380",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544000390",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544047430",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544047453",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544047460",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544047470",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544047480",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544047490",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088215",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088220",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088230",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088240",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088245",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088246",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088250",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088253",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088254",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088255",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088260",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088270",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088272",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088275",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088280",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67544088290",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071305902",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071305904",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071305906",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071306102",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071306104",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071306106",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071310002",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071310003",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071310004",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071310005",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071310006",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071310008",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071327201",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071327202",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071327203",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071327206",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071443002",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071443003",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071443004",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071443005",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071443006",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071443008",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071447502",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071447504",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071447506",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071453302",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071453303",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071453304",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071453305",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071453306",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071453308",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071466806",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071467302",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071467303",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071467304",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071467305",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071474906",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071501006",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071502506",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084037201",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084037211",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084037301",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084037311",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780101",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780102",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780103",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780106",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780201",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780202",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780203",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788780206",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788783501",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788783502",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788783503",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788783506",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785901",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785902",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785903",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785906",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788922901",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788922902",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788922903",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788922906",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788922909",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788930001",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788930002",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788930003",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788930006",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788930009",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518021200",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518159200",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518262800",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518276400",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518298900",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518305100",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70934079915",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70934079930",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205000115",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205000120",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205000130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205000160",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205000190",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025600",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025601",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025602",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025603",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025604",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025605",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025606",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025607",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025608",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335025609",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033601",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033602",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033603",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033604",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033605",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033606",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033607",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033608",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335033609",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054500",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054501",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054502",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054503",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054504",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054505",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054506",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054507",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054508",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335054509",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070101",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070102",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070103",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070104",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070105",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070106",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070107",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070108",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070109",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152200",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152201",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152202",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152203",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152204",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152205",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152206",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152207",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152208",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335152209",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184600",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184601",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184602",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184603",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184604",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184605",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184606",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184607",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184608",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335184609",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011130",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011145",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011146",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011153",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011154",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011160",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011170",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011172",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011175",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011180",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71610011190",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930005412",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930005452",
+        "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930005512",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930005552",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930005612",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930005652",
+        "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010303",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010310",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010320",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010330",
+        "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

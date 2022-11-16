@@ -1,0 +1,78 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33030",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:58:50.246-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1477",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1477"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Anatomic_or_Functional_Asplenia",
+  "title": "Anatomic or Functional Asplenia",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:46-04:00",
+    "total": 9,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1003551006",
+        "display": "Agenesis of spleen"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "759.0",
+        "display": "Anomalies of spleen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "707147002",
+        "display": "Asplenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724639003",
+        "display": "Asplenia following surgical procedure"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17604001",
+        "display": "Bilateral right-sidedness sequence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "93030006",
+        "display": "Congenital absence of spleen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "726708009",
+        "display": "Familial isolated congenital asplenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38096003",
+        "display": "Functional asplenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Q89.01",
+        "display": "Asplenia (congenital)"
+      }
+    ]
+  }
+}

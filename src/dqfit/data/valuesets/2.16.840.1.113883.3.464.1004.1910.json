@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33077",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:55:21.392-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1910",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1910"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "History_of_Colonoscopy",
+  "title": "History of Colonoscopy",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:07-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "851000119109",
+        "display": "History of colonoscopy"
+      }
+    ]
+  }
+}

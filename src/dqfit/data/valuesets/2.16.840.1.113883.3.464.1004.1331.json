@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33076",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:55:00.690-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1331",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1331"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "History_of_Bilateral_Mastectomy",
+  "title": "History of Bilateral Mastectomy",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:40:18-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428529004",
+        "display": "History of bilateral mastectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "136071000119101",
+        "display": "History of bilateral prophylactic mastectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z90.13",
+        "display": "Acquired absence of bilateral breasts and nipples"
+      }
+    ]
+  }
+}

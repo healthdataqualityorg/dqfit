@@ -1,0 +1,258 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33261",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:43:59.326-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1016",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1016"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Acute_Bronchitis",
+  "title": "Acute Bronchitis",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:31:15-04:00",
+    "total": 39,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5505005",
+        "display": "Acute bronchiolitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "233603001",
+        "display": "Acute bronchiolitis due to adenovirus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195739001",
+        "display": "Acute bronchiolitis due to respiratory syncytial virus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15199004",
+        "display": "Acute bronchiolitis with bronchospasm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "718004",
+        "display": "Acute bronchiolitis with obstruction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10509002",
+        "display": "Acute bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "138389411000119105",
+        "display": "Acute bronchitis caused by SARS-CoV-2"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "196020005",
+        "display": "Acute bronchitis due to chemical fumes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195728004",
+        "display": "Acute bronchitis due to rhinovirus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "714203003",
+        "display": "Acute bronchitis co-occurrent with bronchiectasis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "785745000",
+        "display": "Acute bronchitis co-occurrent with wheeze"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "80257001",
+        "display": "Acute bronchitis with bronchospasm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5875001",
+        "display": "Acute bronchitis with obstruction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195725001",
+        "display": "Acute coxsackievirus bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195729007",
+        "display": "Acute echovirus bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195737004",
+        "display": "Acute exudative bronchiolitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195714005",
+        "display": "Acute fibrinous bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "275495004",
+        "display": "Acute fibrinous laryngotracheobronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "312371005",
+        "display": "Acute infective bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "312400008",
+        "display": "Acute infective tracheobronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735464006",
+        "display": "Acute noninfective bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195726000",
+        "display": "Acute parainfluenza virus bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195717003",
+        "display": "Acute purulent bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195727009",
+        "display": "Acute respiratory syncytial virus bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35301006",
+        "display": "Acute tracheobronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "233602006",
+        "display": "Acute viral bronchiolitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "233601004",
+        "display": "Acute viral bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "445102008",
+        "display": "Bronchiolitis due to Human metapneumovirus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.3",
+        "display": "Acute bronchitis due to coxsackievirus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.4",
+        "display": "Acute bronchitis due to parainfluenza virus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.5",
+        "display": "Acute bronchitis due to respiratory syncytial virus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.6",
+        "display": "Acute bronchitis due to rhinovirus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.7",
+        "display": "Acute bronchitis due to echovirus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.8",
+        "display": "Acute bronchitis due to other specified organisms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J20.9",
+        "display": "Acute bronchitis, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J21.0",
+        "display": "Acute bronchiolitis due to respiratory syncytial virus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J21.1",
+        "display": "Acute bronchiolitis due to human metapneumovirus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J21.8",
+        "display": "Acute bronchiolitis due to other specified organisms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J21.9",
+        "display": "Acute bronchiolitis, unspecified"
+      }
+    ]
+  }
+}

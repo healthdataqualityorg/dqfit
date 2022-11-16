@@ -1,0 +1,66 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33281",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:49:26.111-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1756",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1756"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "HbA1c_Test_Result_or_Finding",
+  "title": "HbA1c Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:45-04:00",
+    "total": 7,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "451051000124101",
+        "display": "Hemoglobin A1c between 7%-9% indicating borderline diabetic control"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "451061000124104",
+        "display": "Hemoglobin A1c greater than 9% indicating poor diabetic control"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "165679005",
+        "display": "Hemoglobin A1c less than 7 percent indicating good diabetic control"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3051F",
+        "display": "Most recent hemoglobin A1c (HbA1c) level greater than or equal to 7.0% and less than 8.0% (DM)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3052F",
+        "display": "Most recent hemoglobin A1c (HbA1c) level greater than or equal to 8.0% and less than or equal to 9.0% (DM)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3044F",
+        "display": "Most recent hemoglobin A1c (HbA1c) level less than 7.0% (DM)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3046F",
+        "display": "Most recent hemoglobin A1c level greater than 9.0% (DM)"
+      }
+    ]
+  }
+}

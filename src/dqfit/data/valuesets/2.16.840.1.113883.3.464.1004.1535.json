@@ -1,0 +1,258 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33622",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:36:18.801-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1535",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1535"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Meperidine_Medications",
+  "title": "Meperidine Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:37-04:00",
+    "total": 39,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "861479",
+        "display": "meperidine hydrochloride 10 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "861455",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "861517",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet [Demerol]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1655058",
+        "display": "meperidine hydrochloride 150 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "861467",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "861525",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet [Demerol]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1655060",
+        "display": "meperidine hydrochloride 75 MG Oral Tablet"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00024033505",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054354563",
+        "display": "meperidine hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054459525",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054459625",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054859511",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00555038102",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00555039202",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603441521",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603441621",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "30698033501",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "30698033701",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806005001",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806005030",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806005101",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672082910",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672082950",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672083010",
+        "display": "meperidine hydrochloride 75 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672083110",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672083150",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672083210",
+        "display": "meperidine hydrochloride 150 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083730",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083801",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083830",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887005130",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60429053401",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60429053501",
+        "display": "meperidine hydrochloride 100 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629454901",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629454902",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629454903",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629454904",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629454905",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071076030",
+        "display": "meperidine hydrochloride 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

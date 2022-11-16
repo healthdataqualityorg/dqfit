@@ -1,0 +1,1380 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33624",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:36:29.258-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1536",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1536"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Methadone_Medications",
+  "title": "Methadone Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:38-04:00",
+    "total": 226,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864761",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864706",
+        "display": "methadone hydrochloride 10 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864708",
+        "display": "methadone hydrochloride 10 MG Oral Tablet [Dolophine]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864712",
+        "display": "methadone hydrochloride 10 MG Oral Tablet [Methadose]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "991147",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "991149",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution [Methadose]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864769",
+        "display": "methadone hydrochloride 2 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864978",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1990745",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension [Diskets]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864980",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension [Methadose]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864718",
+        "display": "methadone hydrochloride 5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864720",
+        "display": "methadone hydrochloride 5 MG Oral Tablet [Dolophine]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "864737",
+        "display": "methadone hydrochloride 5 MG Oral Tablet [Methadose]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054039168",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054039268",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054070920",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054070925",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054071020",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054071025",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054355344",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054355563",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054355663",
+        "display": "methadone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054421825",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054421925",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054453825",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054457025",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054457125",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054855324",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054855424",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052710",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052715",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406054034",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406254001",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406345434",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406412303",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406412310",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406575501",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406575523",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406575562",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406577101",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406577123",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406577162",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406622105",
+        "display": "methadone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406622505",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406697434",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406872510",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406872515",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527192636",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527192639",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527192736",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527192739",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904653060",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904653061",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107008801",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107008830",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107008899",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107008901",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107008930",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107008999",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856039201",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856039202",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856052601",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856052602",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856052701",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856052702",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856052703",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856069401",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856069402",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856192701",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856192702",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856192703",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856192704",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856192705",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355301",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355302",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355401",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355402",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355403",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355501",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355502",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355504",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355505",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355508",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355605",
+        "display": "methadone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856355606",
+        "display": "methadone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722094601",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722094701",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083401",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083430",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083460",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083490",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083530",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083560",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083590",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806031701",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806031801",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063022260",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063022290",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063022293",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063022298",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084130",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084160",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999096360",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959038602",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959038630",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959038660",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959038690",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959043502",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959043530",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959043560",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959043590",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289081430",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289081460",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289081490",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289081493",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289081498",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289081499",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700088201",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700088230",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700088260",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700088290",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887009030",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887009060",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887020001",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887020005",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887020010",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887020020",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887020030",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887020050",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664060288",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664060388",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687020932",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687020933",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687021401",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687021411",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919067030",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919067060",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919067090",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629102701",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629190501",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629190601",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629209801",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377100",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377101",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377102",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377103",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377104",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377105",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377106",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377107",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377108",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629377109",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378801",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378802",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378803",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378804",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378805",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739000610",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689069430",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689069479",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689069530",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689069579",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689071116",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689071216",
+        "display": "methadone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689081010",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689082010",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689083699",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689089840",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67877011601",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084073801",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084073811",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084097733",
+        "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094003159",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094003162",
+        "display": "methadone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094003201",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094003258",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68462080001",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68462080101",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70166028401",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70166028402",
+        "display": "methadone hydrochloride 10 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011900",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011901",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011902",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011903",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011904",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011905",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011906",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011907",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011908",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011909",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049301",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049302",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049303",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049304",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049305",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049306",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335049307",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073500",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073501",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073502",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073503",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073504",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073505",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073506",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073507",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073508",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073509",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110601",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110602",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110603",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110604",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110605",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110606",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335110607",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136000",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136001",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136002",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136003",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136004",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136005",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136006",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136007",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136008",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335136009",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865012001",
+        "display": "methadone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865012101",
+        "display": "methadone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

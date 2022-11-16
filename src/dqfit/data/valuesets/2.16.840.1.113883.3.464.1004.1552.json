@@ -1,0 +1,5256 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33603",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:06:28.120-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1552",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1552"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Acetaminophen_Oxycodone_Medications",
+  "title": "Acetaminophen Oxycodone Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:25-04:00",
+    "total": 872,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1491832",
+        "display": "12 HR acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1491834",
+        "display": "12 HR acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Extended Release Oral Tablet [Xartemis]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1014599",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1537120",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet [Primlev]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2279510",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet [Prolate]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1037259",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2045500",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet [Nalocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1014615",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1537116",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet [Primlev]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2279512",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet [Prolate]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1014632",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1537122",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet [Primlev]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2279514",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet [Prolate]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049214",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049216",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Endocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049625",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049635",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1487288",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet [Endocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049637",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet [Percocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049221",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049223",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet [Endocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049640",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet [Percocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1050490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet [Roxicet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049225",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049227",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet [Endocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049642",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet [Percocet]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049251",
+        "display": "acetaminophen 400 MG / oxycodone hydrochloride 10 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049260",
+        "display": "acetaminophen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2105822",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2281851",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution [Prolate]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049580",
+        "display": "acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1049582",
+        "display": "acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution [Roxicet]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054055124",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054055125",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054055129",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228298111",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228298150",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228298211",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228298311",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378710301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378710401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378710501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378710601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406051201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406051205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406051223",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406051262",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406051291",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052223",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052262",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052323",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406052362",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406855350",
+        "display": "acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527166901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527166905",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527167101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527167105",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603497821",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603497921",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603497928",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603498221",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603498228",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603499821",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603499828",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904643761",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904643861",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904643961",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904709361",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904709461",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904709561",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544028706",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544028715",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544028720",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544028730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544028750",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544062106",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544062110",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544062115",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544062120",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544062130",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10544062150",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018410",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018450",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018510",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018550",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018610",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018650",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018710",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702018750",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702023850",
+        "display": "acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634094240",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634094260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634094271",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634094280",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004330",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004399",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004499",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004505",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004530",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004599",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107004699",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "23635011501",
+        "display": "12 HR acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24090068188",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24090068288",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "24090068388",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "29033040535",
+        "display": "acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019105",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722019405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722094801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722094805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722094901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722094905",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722095001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722095005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722095101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722095105",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261019606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261019610",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261019615",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261019620",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261019630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358013020",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358013040",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358013060",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358027910",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358027930",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358027960",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358027990",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358028120",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358028130",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358028160",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358028190",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356076160",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356076260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356076290",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080130",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080160",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080190",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080215",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080230",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080240",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080290",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081715",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081720",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081740",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081760",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356081790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356093701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356093715",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356093730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356093760",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356093790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291064501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291064601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806011401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806011501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806011601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010210",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010250",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010310",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010350",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010410",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858010450",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063002502",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063002504",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063002506",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063002512",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063021398",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027904",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027906",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027910",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027912",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027918",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027920",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027924",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027930",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027940",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027960",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027986",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027990",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027993",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027998",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027999",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052312",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052320",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052330",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052806",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052820",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052830",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052860",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052890",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063052898",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065304",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065306",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065310",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065312",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065315",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065318",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065320",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065324",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065330",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065340",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065356",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065360",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065388",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065390",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063065398",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063080906",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049010",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049105",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049110",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049210",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386049310",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43598054601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43598054605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43598054701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43598054705",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865086040",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019303",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019310",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019350",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019403",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019410",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019450",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019503",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019510",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019550",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019603",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019610",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672019650",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672064804",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "46672064855",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781019601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781019605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781019663",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781022901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781022905",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781023001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781023005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781023063",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999085201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999085301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999085405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268064411",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268064415",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268064511",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268064515",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268064611",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268064615",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436020302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436020305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436298201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436298202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436298301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436298302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436391301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436391302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436391305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436416501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436416502",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436416503",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436416601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436416602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959011902",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959011920",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959011930",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959011960",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959011990",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055402",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055690",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746020301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746020305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746020401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746020405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095110",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095112",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095115",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095120",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095124",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095130",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095140",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095156",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095160",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095173",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095186",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095190",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095193",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095198",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289095199",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700037301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700037330",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700037340",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700037360",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700037390",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049614",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049615",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049621",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049690",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049728",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049760",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049810",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049814",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049815",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049820",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049821",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049824",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049828",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049830",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049840",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049856",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049860",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700049890",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065814",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065815",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065820",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065821",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065824",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065830",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065840",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065856",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065860",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700065890",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55887012901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664015513",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664015588",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664015688",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664016088",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687064201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687064211",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020030",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020040",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020060",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020090",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020092",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760020492",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760027430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760027440",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760027460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760027630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760027660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760027690",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760093340",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760093360",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951060270",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951060285",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951070070",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951070170",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951071270",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091506",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091510",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091515",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091520",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091530",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091596",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61502091597",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919024830",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919024860",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919024890",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919041230",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919041260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919043230",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919043260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919043290",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919043730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919043760",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919043790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919047560",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919052490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919061230",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919061260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919061290",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919061430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919061460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919061490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919083530",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919083560",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919087130",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919087160",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919087190",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187036312",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187036315",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187036320",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187036330",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187036360",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187040615",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187040620",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187040630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187040660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187071912",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187071915",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187071920",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187071930",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187071960",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187072115",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187072120",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187072130",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187072160",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187072190",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082315",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082320",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082330",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082360",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082390",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082410",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082412",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082415",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082420",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187082490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187098410",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187098412",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187098415",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187098430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187098460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481062370",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481062385",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481062770",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481062870",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481062970",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629190701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629190801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629190901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629191001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629191101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629191201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629194201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629194301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629218701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629218801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629218901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629219001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306603",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306604",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306607",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306608",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629306609",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395303",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395304",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395306",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395307",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395308",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629395309",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629406805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629406806",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629406807",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629406808",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629406809",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774802",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774803",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774804",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774806",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774807",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774808",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629774809",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629782401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629782501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629782601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883402",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883403",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883404",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883406",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883407",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883408",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629883409",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629887601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629887901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629887902",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629887903",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629888801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629888802",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629888803",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629888804",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629888805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629888806",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739021710",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739063610",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739070910",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739073910",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874122700",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874122701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874122703",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874122706",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874122709",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874123300",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874123303",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874123306",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874123309",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162020703",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162020710",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162020750",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336014724",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336014730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336014755",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336014760",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336014790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336014794",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035502",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035503",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035504",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035505",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035506",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296035507",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296052201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296052202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296052203",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296052204",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296052206",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296130101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296130106",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139200",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139203",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139204",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139206",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139207",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139208",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296139209",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296140101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296140106",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296140108",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153102",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153103",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153104",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153106",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153107",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296153108",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162402",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162403",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162406",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162407",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162408",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296162409",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296177306",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181500",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181502",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181503",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181504",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181505",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181506",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181507",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181508",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296181509",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015810",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015812",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015820",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015830",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015840",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015860",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015890",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015891",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071015906",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071022420",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071022430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028690",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034230",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034260",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034410",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034420",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034430",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034440",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034460",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034481",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034490",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034491",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034492",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071259802",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071259804",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071259806",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071483906",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071485202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071505406",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071516902",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084035501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084035511",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084069901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084069911",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084071001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084071011",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094001359",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094001361",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308040547",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308047547",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308048047",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308084001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308084101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308084201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308084301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010066701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010066705",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010066801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010066805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010066901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010066905",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010067001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70010067005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70700010501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710132701",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710132801",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710132805",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710132901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710132905",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710133001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70710133005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205032910",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205032930",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205032960",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205032990",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205034712",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205034715",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205034720",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205034730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205034760",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205034790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205048630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205048660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205048690",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014600",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014603",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014604",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014607",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014608",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335014609",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019300",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019303",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019304",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019306",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019307",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019308",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335019309",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021600",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021603",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021604",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021607",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021608",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335021609",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022100",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022101",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022102",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022103",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022104",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022105",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022106",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022107",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022108",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335022109",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031600",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031603",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031604",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031607",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031608",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335031609",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072200",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072203",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072204",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072206",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072207",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072208",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335072209",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103603",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103604",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103607",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103608",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335103609",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107002",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107003",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107004",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107006",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107007",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107008",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335107009",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121600",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121602",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121603",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121604",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121606",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121607",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121608",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335121609",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142001",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142002",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142003",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142004",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142005",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142006",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142007",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142008",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335142009",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147200",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147203",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147204",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147206",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147207",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147208",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147209",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335147301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149200",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149202",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149203",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149204",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149206",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149207",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149208",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335149209",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335190901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335190902",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195300",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195302",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195303",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195304",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195306",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195307",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195308",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195309",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195901",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195902",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195903",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195904",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195905",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195906",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195907",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335195908",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930004512",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930004552",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930004612",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930004652",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930004712",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71930004752",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72022058201",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72022058205",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72022058301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72022058305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72022058401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72022058405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72189025530",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72189025630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72189025660",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72189025730",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72189025790",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245019303",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245019310",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245064812",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245064850",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245068103",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245068110",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245068203",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245068210",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245068303",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72245068310",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011301",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011305",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011401",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011405",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011501",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011505",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011601",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865011605",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72887019303",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72887064812",
+        "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72887068103",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72887068203",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72887068303",
+        "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420013630",
+        "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

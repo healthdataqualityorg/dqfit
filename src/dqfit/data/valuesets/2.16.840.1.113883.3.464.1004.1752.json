@@ -1,0 +1,108 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33278",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:46:49.080-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1752",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1752"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Glucose_Test_Result_or_Finding",
+  "title": "Glucose Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:44-04:00",
+    "total": 14,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166914001",
+        "display": "Blood glucose 0-1.4 mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166915000",
+        "display": "Blood glucose 1.5-2.4 mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166919006",
+        "display": "Blood glucose 10-13.9 mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166923003",
+        "display": "Blood glucose 14+ mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166916004",
+        "display": "Blood glucose 2.5-4.9 mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166917008",
+        "display": "Blood glucose 5-6.9 mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166918003",
+        "display": "Blood glucose 7-9.9 mmol/L"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166922008",
+        "display": "Blood glucose abnormal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166921001",
+        "display": "Blood glucose normal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "444780001",
+        "display": "High glucose level in blood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442545002",
+        "display": "Random blood glucose abnormal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166891009",
+        "display": "Random blood sugar low"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166890005",
+        "display": "Random blood sugar normal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166892002",
+        "display": "Random blood sugar raised"
+      }
+    ]
+  }
+}

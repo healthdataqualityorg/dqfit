@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33554",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:56:56.124-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1788",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1788"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Rotavirus_Vaccine_(3_Dose_Schedule)_Procedure",
+  "title": "Rotavirus Vaccine (3 Dose Schedule) Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:55-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "434731000124109",
+        "display": "Rotavirus vaccination, 3 dose schedule"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90680",
+        "display": "Rotavirus vaccine, pentavalent (RV5), 3 dose schedule, live, for oral use"
+      }
+    ]
+  }
+}

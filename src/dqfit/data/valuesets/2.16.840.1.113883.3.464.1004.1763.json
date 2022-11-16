@@ -1,0 +1,48 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33285",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:58:33.079-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1763",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1763"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "HPV_Immunization",
+  "title": "HPV Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:10-04:00",
+    "total": 4,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "137",
+        "display": "HPV, unspecified formulation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "165",
+        "display": "Human Papillomavirus 9-valent vaccine"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "118",
+        "display": "human papilloma virus vaccine, bivalent"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "62",
+        "display": "human papilloma virus vaccine, quadrivalent"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3929 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33298",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:29:43.142-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1463",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1463"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Other_Malignant_Neoplasm_of_Skin",
+  "title": "Other Malignant Neoplasm of Skin",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:30:41-04:00",
+    "total": 649,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254654004",
+        "display": "Acantholytic squamous cell carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254711000",
+        "display": "Adenoid cystic eccrine carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "721762007",
+        "display": "Adult T-cell leukemia/lymphoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404136008",
+        "display": "Aggressive NK-cell leukemia involving skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404135007",
+        "display": "Angiocentric NK/T-cell malignant lymphoma involving skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "255102004",
+        "display": "Angioendotheliomatosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254794007",
+        "display": "Angiosarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16091171000119106",
+        "display": "Angiosarcoma of skin of cheek"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403949007",
+        "display": "Apocrine adenocarcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402524007",
+        "display": "Basal cell carcinoma - adamantinoid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402525008",
+        "display": "Basal cell carcinoma - adenoid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402544001",
+        "display": "Basal cell carcinoma - first recurrence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402526009",
+        "display": "Basal cell carcinoma - follicular"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402527000",
+        "display": "Basal cell carcinoma - infiltrative"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402528005",
+        "display": "Basal cell carcinoma - keratotic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402529002",
+        "display": "Basal cell carcinoma - micronodular"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402547008",
+        "display": "Basal cell carcinoma - multiple recurrences (more than three times)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402536001",
+        "display": "Basal cell carcinoma - primary"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402545000",
+        "display": "Basal cell carcinoma - second recurrence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402546004",
+        "display": "Basal cell carcinoma - third recurrence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402516002",
+        "display": "Basal cell carcinoma of abdomen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402500004",
+        "display": "Basal cell carcinoma of ala nasi"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402515003",
+        "display": "Basal cell carcinoma of anterior chest"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "400174005",
+        "display": "Basal cell carcinoma of antihelix of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402512000",
+        "display": "Basal cell carcinoma of antitragus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "424666005",
+        "display": "Basal cell carcinoma of auricle of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423463003",
+        "display": "Basal cell carcinoma of back"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402507001",
+        "display": "Basal cell carcinoma of cheek"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423535002",
+        "display": "Basal cell carcinoma of chest wall"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402508006",
+        "display": "Basal cell carcinoma of chin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402511007",
+        "display": "Basal cell carcinoma of conchal bowl of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402498000",
+        "display": "Basal cell carcinoma of dorsum of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402820007",
+        "display": "Basal cell carcinoma of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399954008",
+        "display": "Basal cell carcinoma of earlobe"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423325007",
+        "display": "Basal cell carcinoma of external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231832009",
+        "display": "Basal cell carcinoma of eyelid"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.11",
+        "display": "Basal cell carcinoma of eyelid, including canthus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402519009",
+        "display": "Basal cell carcinoma of face"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403916003",
+        "display": "Basal cell carcinoma of forehead"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403918002",
+        "display": "Basal cell carcinoma of glabella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402520003",
+        "display": "Basal cell carcinoma of hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402510008",
+        "display": "Basal cell carcinoma of helix of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402496001",
+        "display": "Basal cell carcinoma of lateral canthus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402499008",
+        "display": "Basal cell carcinoma of lateral side wall of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402518001",
+        "display": "Basal cell carcinoma of lower back"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402522006",
+        "display": "Basal cell carcinoma of lower extremity"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402494003",
+        "display": "Basal cell carcinoma of lower eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402506005",
+        "display": "Basal cell carcinoma of lower lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402495002",
+        "display": "Basal cell carcinoma of medial canthus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "61471000119100",
+        "display": "Basal cell carcinoma of naris"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402503002",
+        "display": "Basal cell carcinoma of nasal columella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402504008",
+        "display": "Basal cell carcinoma of nasolabial groove"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402509003",
+        "display": "Basal cell carcinoma of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402818009",
+        "display": "Basal cell carcinoma of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402514004",
+        "display": "Basal cell carcinoma of obverse of pinna"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.81",
+        "display": "Basal cell carcinoma of other specified sites of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "400057007",
+        "display": "Basal cell carcinoma of pinnal sulcus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399897004",
+        "display": "Basal cell carcinoma of postauricular skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399934007",
+        "display": "Basal cell carcinoma of preauricular skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402497005",
+        "display": "Basal cell carcinoma of root of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403915004",
+        "display": "Basal cell carcinoma of scalp"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.41",
+        "display": "Basal cell carcinoma of scalp and skin of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254701007",
+        "display": "Basal cell carcinoma of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.21",
+        "display": "Basal cell carcinoma of skin of ear and external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402819001",
+        "display": "Basal cell carcinoma of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.01",
+        "display": "Basal cell carcinoma of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.71",
+        "display": "Basal cell carcinoma of skin of lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.31",
+        "display": "Basal cell carcinoma of skin of other and unspecified parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.51",
+        "display": "Basal cell carcinoma of skin of trunk, except scrotum"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.61",
+        "display": "Basal cell carcinoma of skin of upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.91",
+        "display": "Basal cell carcinoma of skin, site unspecified"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402501000",
+        "display": "Basal cell carcinoma of supratip of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403917007",
+        "display": "Basal cell carcinoma of temple"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402502007",
+        "display": "Basal cell carcinoma of tip of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402513005",
+        "display": "Basal cell carcinoma of tragus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402523001",
+        "display": "Basal cell carcinoma of truncal skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402517006",
+        "display": "Basal cell carcinoma of upper back"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402521004",
+        "display": "Basal cell carcinoma of upper extremity"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403919005",
+        "display": "Basal cell carcinoma of upper eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402505009",
+        "display": "Basal cell carcinoma of upper lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "717731002",
+        "display": "Basal cell carcinoma of vulva"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402540005",
+        "display": "Basal cell carcinoma recurrent following Mohs' excision"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402542002",
+        "display": "Basal cell carcinoma recurrent following cryosurgery"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402541009",
+        "display": "Basal cell carcinoma recurrent following curettage"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402539008",
+        "display": "Basal cell carcinoma recurrent following excision"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402543007",
+        "display": "Basal cell carcinoma recurrent following radiotherapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254710004",
+        "display": "Basal cell carcinoma with eccrine differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402531006",
+        "display": "Basal cell carcinoma with granular cell change"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402530007",
+        "display": "Basal cell carcinoma with matrical differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402532004",
+        "display": "Basal cell carcinoma with monster cells"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402533009",
+        "display": "Basal cell carcinoma with sebaceous differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402534003",
+        "display": "Basal cell carcinoma with signet ring change"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254702000",
+        "display": "Basosquamous carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404115006",
+        "display": "Bullous mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404131003",
+        "display": "CD-30 negative T-immunoblastic cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404129007",
+        "display": "CD-30 negative anaplastic large T-cell cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404128004",
+        "display": "CD-30 negative cutaneous T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404130002",
+        "display": "CD-30 negative pleomorphic large T-cell cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404127009",
+        "display": "CD-30 positive T-immunoblastic cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "404125001",
+        "display": "CD-30 positive anaplastic large T-cell cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404126000",
+        "display": "CD-30 positive pleomorphic large T-cell cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "255068000",
+        "display": "Carcinoma of bone, connective tissue, skin and breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1145245004",
+        "display": "Carcinoma of meibomian gland"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "286891000",
+        "display": "Carcinoma of skin of head/neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372125008",
+        "display": "Carcinoma of skin of lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372127000",
+        "display": "Carcinoma of skin of trunk"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372129002",
+        "display": "Carcinoma of skin of upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423349005",
+        "display": "Carcinoma of tip of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404092006",
+        "display": "Carcinomatous metastasis in skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404087009",
+        "display": "Carcinosarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403951006",
+        "display": "Ceruminous gland adenocarcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403910009",
+        "display": "Circumscribed solid basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "765328000",
+        "display": "Classic mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403940006",
+        "display": "Clear cell eccrine hidradenocarcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254652000",
+        "display": "Clear cell squamous cell carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254748009",
+        "display": "Cutaneous fibrosarcoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254771006",
+        "display": "Cutaneous leiomyosarcoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404047004",
+        "display": "Cutaneous leiomyosarcoma with granular cell change"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403912001",
+        "display": "Cystic basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276799004",
+        "display": "Dermatofibrosarcoma protuberans"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "448296006",
+        "display": "Dermatofibrosarcoma protuberans of skin of chest"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "447710003",
+        "display": "Dermatofibrosarcoma protuberans of skin of shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404010004",
+        "display": "Dermatofibrosarcoma protuberans with giant cell fibroblastoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404009009",
+        "display": "Dermatofibrosarcoma protuberans with granular cell change"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404008001",
+        "display": "Dermatofibrosarcoma protuberans with myoid differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449217008",
+        "display": "Diffuse non-Hodgkin's lymphoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254709009",
+        "display": "Digital papillary eccrine carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "400173004",
+        "display": "Eccrine carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403939009",
+        "display": "Eccrine ductal carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254708001",
+        "display": "Eccrine porocarcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254800003",
+        "display": "Epithelioid cell sarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404045007",
+        "display": "Epithelioid leiomyosarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "275265005",
+        "display": "Epithelioma basal cell"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404114005",
+        "display": "Erythrodermic mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254727007",
+        "display": "Extramammary Paget's disease of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254703005",
+        "display": "Fibroepithelioma of Pinkus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254820002",
+        "display": "Follicular atrophoderma and basal cell epitheliomata"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404109006",
+        "display": "Follicular mucinosis type mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "448865007",
+        "display": "Follicular non-Hodgkin's lymphoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404121005",
+        "display": "Generalized pagetoid reticulosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404016005",
+        "display": "Giant cell malignant fibrous histiocytoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69408002",
+        "display": "Gorlin syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404155008",
+        "display": "Granulocytic sarcoma affecting skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404112009",
+        "display": "Granulomatous mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402882001",
+        "display": "Hodgkin's disease affecting skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404110001",
+        "display": "Hypomelanotic mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403996004",
+        "display": "Infantile fibrosarcoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404017001",
+        "display": "Inflammatory malignant fibrous histiocytoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423829008",
+        "display": "Invasive vulval Paget's disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "109386008",
+        "display": "Kaposi's sarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10976631000119101",
+        "display": "Leiomyosarcoma of skin of chest"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404124002",
+        "display": "Leukemic infiltration of skin (T-cell lymphoblastic leukemia)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404123008",
+        "display": "Leukemic infiltration of skin (T-cell prolymphocytic leukemia)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404122003",
+        "display": "Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404156009",
+        "display": "Leukemic infiltration of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404152006",
+        "display": "Leukemic infiltration of skin in acute myeloid leukemia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404153001",
+        "display": "Leukemic infiltration of skin in chronic myeloid leukemia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404151004",
+        "display": "Leukemic infiltration of skin in myeloid leukemia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "314975005",
+        "display": "Local recurrence of malignant tumor of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "255191003",
+        "display": "Localized malignant reticulohistiocytoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404120006",
+        "display": "Localized pagetoid reticulosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403458008",
+        "display": "Localized skin involvement by breast carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404106004",
+        "display": "Lymphomatoid papulosis with Hodgkin's disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404111002",
+        "display": "Lymphomatoid papulosis-associated mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "429114002",
+        "display": "Malignant basal cell neoplasm of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403943008",
+        "display": "Malignant chondroid syringoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403941005",
+        "display": "Malignant cylindroma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403942003",
+        "display": "Malignant eccrine spiradenoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254650008",
+        "display": "Malignant epithelial neoplasm of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449416001",
+        "display": "Carcinoma of skin of anus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402873007",
+        "display": "Malignant fibrohistiocytic tumor of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404014008",
+        "display": "Malignant fibrous histiocytoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254797000",
+        "display": "Malignant hemangiopericytoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404091004",
+        "display": "Malignant infiltration of skin by underlying tumor"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271467005",
+        "display": "Malignant neoplasm of bone, connective tissue, skin and breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188102008",
+        "display": "Malignant neoplasm of scalp and/or skin of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372130007",
+        "display": "Malignant neoplasm of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403742006",
+        "display": "Arsenic-induced skin malignancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372122006",
+        "display": "Malignant neoplasm of skin head and neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188110009",
+        "display": "Malignant neoplasm of skin of abdominal wall"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188090007",
+        "display": "Malignant neoplasm of skin of auricle (ear)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188107002",
+        "display": "Malignant neoplasm of skin of axillary fold"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188095002",
+        "display": "Malignant neoplasm of skin of cheek, external"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188089003",
+        "display": "Malignant neoplasm of skin of ear and external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188091006",
+        "display": "Malignant neoplasm of skin of external auditory meatus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423425006",
+        "display": "Malignant neoplasm of skin of eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443136000",
+        "display": "Malignant neoplasm of skin of face"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188122007",
+        "display": "Malignant neoplasm of skin of forearm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188138001",
+        "display": "Malignant neoplasm of skin of great toe"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188135003",
+        "display": "Malignant neoplasm of skin of heel"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188133005",
+        "display": "Malignant neoplasm of skin of lower leg"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372124007",
+        "display": "Malignant neoplasm of skin of lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "188127001",
+        "display": "Malignant neoplasm of skin of lower limb and hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188099008",
+        "display": "Malignant neoplasm of skin of nose (external)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188132000",
+        "display": "Malignant neoplasm of skin of popliteal fossa area"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188103003",
+        "display": "Malignant neoplasm of scalp"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "311779007",
+        "display": "Malignant neoplasm of skin of scapular region"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449309003",
+        "display": "Malignant neoplasm of skin of scrotum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188100000",
+        "display": "Malignant neoplasm of skin of temple"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188125009",
+        "display": "Malignant neoplasm of skin of thumb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372126009",
+        "display": "Malignant neoplasm of skin of trunk"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188121000",
+        "display": "Malignant neoplasm of skin of upper arm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372128005",
+        "display": "Malignant neoplasm of skin of upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "188119005",
+        "display": "Malignant neoplasm of skin of upper limb and shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "788979007",
+        "display": "Malignant pilonidal cyst"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "255093003",
+        "display": "Malignant tumor of epidermal appendage"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254726003",
+        "display": "Malignant skin tumor with apocrine differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254707006",
+        "display": "Malignant skin tumor with eccrine differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "255096006",
+        "display": "Malignant tumor of dermis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254908006",
+        "display": "Malignant tumor of skin of penis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276750003",
+        "display": "Malignant tumor of skin with pilar differentiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402652009",
+        "display": "Malignant vascular tumor of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "253001006",
+        "display": "Merkel cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "135931000119106",
+        "display": "Merkel cell carcinoma of buttock"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133841000119105",
+        "display": "Merkel cell carcinoma of face"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352071000119105",
+        "display": "Merkel cell carcinoma of left lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133881000119100",
+        "display": "Merkel cell carcinoma of lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133851000119107",
+        "display": "Merkel cell carcinoma of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "351461000119100",
+        "display": "Merkel cell carcinoma of right lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133861000119109",
+        "display": "Merkel cell carcinoma of scalp"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133891000119102",
+        "display": "Merkel cell carcinoma of trunk"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133871000119103",
+        "display": "Merkel cell carcinoma of upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "285631006",
+        "display": "Metastasis to skin of unknown primary"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402537005",
+        "display": "Metastatic basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254712007",
+        "display": "Microcystic adnexal carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403954003",
+        "display": "Mixed eccrine/pilar adnexal carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403950007",
+        "display": "Moll's gland adenocarcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403913006",
+        "display": "Morpheic basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254714008",
+        "display": "Mucinous eccrine carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254713002",
+        "display": "Mucoepidermoid carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "118618005",
+        "display": "Mycosis fungoides (clinical)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94715001",
+        "display": "Mycosis fungoides of extranodal AND/OR solid organ site"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16775311000119107",
+        "display": "Mycosis fungoides of facial lymph node"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "686981000119108",
+        "display": "Mycosis fungoides of inguinal lymph node"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94707004",
+        "display": "Mycosis fungoides of intra-abdominal lymph nodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94708009",
+        "display": "Mycosis fungoides of intrapelvic lymph nodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94709001",
+        "display": "Mycosis fungoides of intrathoracic lymph nodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "686991000119106",
+        "display": "Mycosis fungoides of lower limb lymph node"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94710006",
+        "display": "Mycosis fungoides of lymph nodes of axilla AND/OR upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94711005",
+        "display": "Mycosis fungoides of lymph nodes of head, face AND/OR neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "94712003",
+        "display": "Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188627002",
+        "display": "Mycosis fungoides of lymph nodes of multiple sites"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94714002",
+        "display": "Mycosis fungoides of spleen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404116007",
+        "display": "Mycosis fungoides with systemic infiltration"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "400175006",
+        "display": "Myxofibrosarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "253042009",
+        "display": "Myxoid dermatofibrosarcoma protuberans"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404046008",
+        "display": "Myxoid leiomyosarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "716274007",
+        "display": "Nodular basal cell carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403911008",
+        "display": "Nodulo-ulcerative basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "448447004",
+        "display": "Non-Hodgkin's lymphoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "722712000",
+        "display": "Occupational cancer of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.19",
+        "display": "Other specified malignant neoplasm of eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.89",
+        "display": "Other specified malignant neoplasm of other specified sites of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.49",
+        "display": "Other specified malignant neoplasm of scalp and skin of neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.29",
+        "display": "Other specified malignant neoplasm of skin of ear and external auditory canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.09",
+        "display": "Other specified malignant neoplasm of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.79",
+        "display": "Other specified malignant neoplasm of skin of lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.39",
+        "display": "Other specified malignant neoplasm of skin of other and unspecified parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.59",
+        "display": "Other specified malignant neoplasm of skin of trunk, except scrotum"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.69",
+        "display": "Other specified malignant neoplasm of skin of upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.99",
+        "display": "Other specified malignant neoplasm of skin, site unspecified"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "109264009",
+        "display": "Overlapping malignant neoplasm of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "236811000119101",
+        "display": "Paget disease of anal canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403946000",
+        "display": "Paget's disease of nipple"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "447738006",
+        "display": "Paget's disease of skin of scrotum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254898001",
+        "display": "Paget's disease of vulva"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404119000",
+        "display": "Pagetoid reticulosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404107008",
+        "display": "Patch/plaque stage mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402911002",
+        "display": "Penile verrucous carcinoma of Buschke-Löwenstein"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403947009",
+        "display": "Perianal Paget's disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254764001",
+        "display": "Peripheral neuroepithelioma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403909004",
+        "display": "Pigmented basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "398670003",
+        "display": "Pigmented dermatofibrosarcoma protuberans of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "307610008",
+        "display": "Pilomatrix carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254655003",
+        "display": "Plantar verrucous carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "398903003",
+        "display": "Pleomorphic malignant fibrous histiocytoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "404132005",
+        "display": "Pleomorphic small/medium-sized cell cutaneous T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404108003",
+        "display": "Poikilodermatous mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79281000119106",
+        "display": "Primary adenocarcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "721540005",
+        "display": "Primary adnexal carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16091131000119108",
+        "display": "Primary angiosarcoma of skin of forehead"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16091411000119109",
+        "display": "Primary angiosarcoma of skin of lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16091251000119109",
+        "display": "Primary angiosarcoma of skin of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16091371000119108",
+        "display": "Primary angiosarcoma of skin of temporal region"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079101000119105",
+        "display": "Primary basal cell carcinoma of left ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079111000119108",
+        "display": "Primary basal cell carcinoma of left eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905501000119104",
+        "display": "Primary basal cell carcinoma of left lower eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079131000119103",
+        "display": "Primary basal cell carcinoma of left lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905381000119100",
+        "display": "Primary basal cell carcinoma of left upper eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079091000119100",
+        "display": "Primary basal cell carcinoma of left upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079161000119106",
+        "display": "Primary basal cell carcinoma of right ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079171000119100",
+        "display": "Primary basal cell carcinoma of right eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905461000119104",
+        "display": "Primary basal cell carcinoma of right lower eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079191000119104",
+        "display": "Primary basal cell carcinoma of right lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905421000119109",
+        "display": "Primary basal cell carcinoma of right upper eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079151000119109",
+        "display": "Primary basal cell carcinoma of right upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16774671000119108",
+        "display": "Primary basal cell carcinoma of skin of labium majus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15950141000119105",
+        "display": "Primary basal cell carcinoma of skin of left breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16774551000119100",
+        "display": "Primary basal cell carcinoma of skin of left hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079121000119101",
+        "display": "Primary basal cell carcinoma of skin of left hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079141000119107",
+        "display": "Primary basal cell carcinoma of skin of left shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "690141000119103",
+        "display": "Primary basal cell carcinoma of skin of male genitalia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "682541000119106",
+        "display": "Primary basal cell carcinoma of skin of perianal area"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15950101000119108",
+        "display": "Primary basal cell carcinoma of skin of right breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16774591000119105",
+        "display": "Primary basal cell carcinoma of skin of right hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079181000119102",
+        "display": "Primary basal cell carcinoma of skin of right hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1079201000119101",
+        "display": "Primary basal cell carcinoma of skin of right shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "690121000119109",
+        "display": "Primary basal cell carcinoma of skin of scrotum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402881008",
+        "display": "Primary cutaneous B-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "128875000",
+        "display": "Primary cutaneous CD30+ large T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "765136002",
+        "display": "Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "400122007",
+        "display": "Primary cutaneous T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "404145009",
+        "display": "Primary cutaneous anaplastic large cell B-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "773995001",
+        "display": "Primary cutaneous anaplastic large cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404144008",
+        "display": "Primary cutaneous diffuse large cell B-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735332000",
+        "display": "Primary cutaneous diffuse large cell B-cell lymphoma of lower extremity"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404143002",
+        "display": "Primary cutaneous follicular center B-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "733627006",
+        "display": "Primary cutaneous gamma-delta-positive T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404141000",
+        "display": "Primary cutaneous immunocytoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402880009",
+        "display": "Primary cutaneous large T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "400001003",
+        "display": "Primary cutaneous lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404140004",
+        "display": "Primary cutaneous marginal zone B-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404142007",
+        "display": "Primary cutaneous plasmacytoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "93956001",
+        "display": "Primary malignant neoplasm of perianal skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94000008",
+        "display": "Primary malignant neoplasm of sebaceous gland"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94047004",
+        "display": "Primary malignant neoplasm of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724866001",
+        "display": "Primary malignant neoplasm of skin due to and following radiotherapy caused by ionizing radiation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403711001",
+        "display": "PUVA therapy-associated skin malignancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372123001",
+        "display": "Primary malignant neoplasm of skin head and neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94007006",
+        "display": "Primary malignant neoplasm of skin of abdomen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "688381000119106",
+        "display": "Primary malignant neoplasm of skin of ala nasi"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94008001",
+        "display": "Primary malignant neoplasm of skin of ankle"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94010004",
+        "display": "Primary malignant neoplasm of skin of axilla"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94011000",
+        "display": "Primary malignant neoplasm of skin of back"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94012007",
+        "display": "Primary malignant neoplasm of skin of breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "688321000119107",
+        "display": "Primary malignant neoplasm of skin of bridge of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94013002",
+        "display": "Primary malignant neoplasm of skin of buttock"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94014008",
+        "display": "Primary malignant neoplasm of skin of cheek"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94015009",
+        "display": "Primary malignant neoplasm of skin of chest"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94016005",
+        "display": "Primary malignant neoplasm of skin of chin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94017001",
+        "display": "Primary malignant neoplasm of skin of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94018006",
+        "display": "Primary malignant neoplasm of skin of elbow"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94019003",
+        "display": "Primary malignant neoplasm of skin of external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94020009",
+        "display": "Primary malignant neoplasm of skin of eyebrow"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94021008",
+        "display": "Primary malignant neoplasm of skin of eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94022001",
+        "display": "Primary malignant neoplasm of skin of face"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94023006",
+        "display": "Primary malignant neoplasm of skin of finger"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94024000",
+        "display": "Primary malignant neoplasm of skin of foot"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94025004",
+        "display": "Primary malignant neoplasm of skin of forearm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94026003",
+        "display": "Primary malignant neoplasm of skin of forehead"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94027007",
+        "display": "Primary malignant neoplasm of skin of groin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94028002",
+        "display": "Primary malignant neoplasm of skin of hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94029005",
+        "display": "Primary malignant neoplasm of skin of hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94030000",
+        "display": "Primary malignant neoplasm of skin of knee"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15950221000119108",
+        "display": "Primary malignant neoplasm of skin of left breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352391000119109",
+        "display": "Primary malignant neoplasm of skin of left ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905541000119102",
+        "display": "Primary malignant neoplasm of skin of left lower eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352481000119103",
+        "display": "Primary malignant neoplasm of skin of left lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352421000119102",
+        "display": "Primary malignant neoplasm of skin of left shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905581000119107",
+        "display": "Primary malignant neoplasm of skin of left upper eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352381000119106",
+        "display": "Primary malignant neoplasm of skin of left upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94032008",
+        "display": "Primary malignant neoplasm of skin of lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449634005",
+        "display": "Primary malignant neoplasm of skin of lower leg"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94033003",
+        "display": "Primary malignant neoplasm of skin of lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94034009",
+        "display": "Primary malignant neoplasm of skin of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94035005",
+        "display": "Primary malignant neoplasm of skin of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94036006",
+        "display": "Primary malignant neoplasm of skin of perineum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94037002",
+        "display": "Primary malignant neoplasm of skin of popliteal area"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15950061000119105",
+        "display": "Primary malignant neoplasm of skin of right breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352431000119104",
+        "display": "Primary malignant neoplasm of skin of right ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905341000119105",
+        "display": "Primary malignant neoplasm of skin of right lower eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352461000119107",
+        "display": "Primary malignant neoplasm of skin of right lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "352471000119101",
+        "display": "Primary malignant neoplasm of skin of right shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16905141000119107",
+        "display": "Primary malignant neoplasm of skin of right upper eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "355141000119106",
+        "display": "Primary malignant neoplasm of skin of right upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94038007",
+        "display": "Primary malignant neoplasm of skin of scalp"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94039004",
+        "display": "Primary malignant neoplasm of skin of shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94040002",
+        "display": "Primary malignant neoplasm of skin of temporal region"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94041003",
+        "display": "Primary malignant neoplasm of skin of thigh"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "688411000119109",
+        "display": "Primary malignant neoplasm of skin of tip of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94042005",
+        "display": "Primary malignant neoplasm of skin of toe"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94043000",
+        "display": "Primary malignant neoplasm of skin of trunk"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94044006",
+        "display": "Primary malignant neoplasm of skin of umbilicus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94045007",
+        "display": "Primary malignant neoplasm of skin of upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94046008",
+        "display": "Primary malignant neoplasm of skin of wrist"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "93663003",
+        "display": "Primary malignant neoplasm of adnexa of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94081005",
+        "display": "Primary malignant neoplasm of sweat gland"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "721541009",
+        "display": "Primary malignant sarcoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276738009",
+        "display": "Primary signet ring cell carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "689211000119102",
+        "display": "Primary squamous cell carcinoma of perianal skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16899941000119102",
+        "display": "Primary squamous cell carcinoma of skin of anus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "455733521000119103",
+        "display": "Primary squamous cell carcinoma of skin of head and/or neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15949941000119101",
+        "display": "Primary squamous cell carcinoma of skin of left breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16782241000119104",
+        "display": "Primary squamous cell carcinoma of skin of left hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082091000119101",
+        "display": "Primary squamous cell carcinoma of skin of left hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082101000119106",
+        "display": "Primary squamous cell carcinoma of skin of left lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082131000119104",
+        "display": "Primary squamous cell carcinoma of skin of left shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082051000119106",
+        "display": "Primary squamous cell carcinoma of skin of left upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16218761000119102",
+        "display": "Primary squamous cell carcinoma of skin of lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15950021000119100",
+        "display": "Primary squamous cell carcinoma of skin of right breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16782321000119104",
+        "display": "Primary squamous cell carcinoma of skin of right hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082211000119104",
+        "display": "Primary squamous cell carcinoma of skin of right hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082221000119106",
+        "display": "Primary squamous cell carcinoma of skin of right lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082261000119101",
+        "display": "Primary squamous cell carcinoma of skin of right shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1082171000119101",
+        "display": "Primary squamous cell carcinoma of skin of right upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254792006",
+        "display": "Proliferating angioendotheliomatosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403712008",
+        "display": "PUVA therapy-associated basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403713003",
+        "display": "PUVA therapy-associated squamous cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403729006",
+        "display": "Radiation-induced skin malignancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402538000",
+        "display": "Recurrent basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404093001",
+        "display": "Sarcomatous metastasis in skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "307599002",
+        "display": "Sebaceous adenocarcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231833004",
+        "display": "Sebaceous adenocarcinoma of eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "91231000119104",
+        "display": "Secondary adenocarcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94159002",
+        "display": "Secondary malignant neoplasm of adnexa of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94483003",
+        "display": "Secondary malignant neoplasm of perianal skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94532000",
+        "display": "Secondary malignant neoplasm of sebaceous gland"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94579000",
+        "display": "Secondary malignant neoplasm of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94539009",
+        "display": "Secondary malignant neoplasm of skin of abdomen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94540006",
+        "display": "Secondary malignant neoplasm of skin of ankle"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94542003",
+        "display": "Secondary malignant neoplasm of skin of axilla"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94543008",
+        "display": "Secondary malignant neoplasm of skin of back"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94544002",
+        "display": "Secondary malignant neoplasm of skin of breast"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94545001",
+        "display": "Secondary malignant neoplasm of skin of buttock"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94546000",
+        "display": "Secondary malignant neoplasm of skin of cheek"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94547009",
+        "display": "Secondary malignant neoplasm of skin of chest"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94548004",
+        "display": "Secondary malignant neoplasm of skin of chin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94549007",
+        "display": "Secondary malignant neoplasm of skin of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94550007",
+        "display": "Secondary malignant neoplasm of skin of elbow"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94551006",
+        "display": "Secondary malignant neoplasm of skin of external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94552004",
+        "display": "Secondary malignant neoplasm of skin of eyebrow"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94553009",
+        "display": "Secondary malignant neoplasm of skin of eyelid"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94554003",
+        "display": "Secondary malignant neoplasm of skin of face"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94555002",
+        "display": "Secondary malignant neoplasm of skin of finger"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94556001",
+        "display": "Secondary malignant neoplasm of skin of foot"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94557005",
+        "display": "Secondary malignant neoplasm of skin of forearm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94558000",
+        "display": "Secondary malignant neoplasm of skin of forehead"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94559008",
+        "display": "Secondary malignant neoplasm of skin of groin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94560003",
+        "display": "Secondary malignant neoplasm of skin of hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188454009",
+        "display": "Secondary malignant neoplasm of skin of head"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94561004",
+        "display": "Secondary malignant neoplasm of skin of hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "188459004",
+        "display": "Secondary malignant neoplasm of skin of hip and leg"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "827186009",
+        "display": "Secondary malignant neoplasm of skin of hip and skin of lower leg"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94562006",
+        "display": "Secondary malignant neoplasm of skin of knee"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94564007",
+        "display": "Secondary malignant neoplasm of skin of lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449630001",
+        "display": "Secondary malignant neoplasm of skin of lower leg"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94565008",
+        "display": "Secondary malignant neoplasm of skin of lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94566009",
+        "display": "Secondary malignant neoplasm of skin of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94567000",
+        "display": "Secondary malignant neoplasm of skin of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94568005",
+        "display": "Secondary malignant neoplasm of skin of perineum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94569002",
+        "display": "Secondary malignant neoplasm of skin of popliteal area"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94570001",
+        "display": "Secondary malignant neoplasm of skin of scalp"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94571002",
+        "display": "Secondary malignant neoplasm of skin of shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188458007",
+        "display": "Secondary malignant neoplasm of skin of shoulder and arm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94572009",
+        "display": "Secondary malignant neoplasm of skin of temporal region"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94573004",
+        "display": "Secondary malignant neoplasm of skin of thigh"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94574005",
+        "display": "Secondary malignant neoplasm of skin of toe"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94575006",
+        "display": "Secondary malignant neoplasm of skin of trunk"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94576007",
+        "display": "Secondary malignant neoplasm of skin of umbilicus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449631002",
+        "display": "Secondary malignant neoplasm of skin of upper arm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94577003",
+        "display": "Secondary malignant neoplasm of skin of upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94578008",
+        "display": "Secondary malignant neoplasm of skin of wrist"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94617002",
+        "display": "Secondary malignant neoplasm of sweat gland"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78461000119105",
+        "display": "Secondary squamous cell carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "91251000119105",
+        "display": "Small cell carcinoma metastatic to skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403944002",
+        "display": "Small cell eccrine carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404138009",
+        "display": "Small lymphocytic B-cell lymphoma involving skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404157000",
+        "display": "Specific skin infiltration in Hodgkin's disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254653005",
+        "display": "Spindle cell squamous carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404117003",
+        "display": "Spongiotic mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422676009",
+        "display": "Squamous cell carcinoma of ala nasi"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423700001",
+        "display": "Squamous cell carcinoma of auricle of ear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422599000",
+        "display": "Squamous cell carcinoma of back"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422378004",
+        "display": "Squamous cell carcinoma of bridge of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422572002",
+        "display": "Squamous cell carcinoma of chin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423506005",
+        "display": "Squamous cell carcinoma of external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231831002",
+        "display": "Squamous cell carcinoma of eyelid"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.12",
+        "display": "Squamous cell carcinoma of eyelid, including canthus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403895004",
+        "display": "Squamous cell carcinoma of foot"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403893006",
+        "display": "Squamous cell carcinoma of forehead"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403896003",
+        "display": "Squamous cell carcinoma of hand"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "424260006",
+        "display": "Squamous cell carcinoma of nasolabial fold"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.82",
+        "display": "Squamous cell carcinoma of other specified sites of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403468003",
+        "display": "Squamous cell carcinoma of penis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403891008",
+        "display": "Squamous cell carcinoma of scalp"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.42",
+        "display": "Squamous cell carcinoma of scalp and skin of neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276860003",
+        "display": "Squamous cell carcinoma of scrotum"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254651007",
+        "display": "Squamous cell carcinoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "285309005",
+        "display": "Squamous cell carcinoma of skin of cheek"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403894000",
+        "display": "Squamous cell carcinoma of skin of ear"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.22",
+        "display": "Squamous cell carcinoma of skin of ear and external auditory canal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403892001",
+        "display": "Squamous cell carcinoma of skin of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.02",
+        "display": "Squamous cell carcinoma of skin of lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403898002",
+        "display": "Squamous cell carcinoma of skin of lower extremity"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.72",
+        "display": "Squamous cell carcinoma of skin of lower limb, including hip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "285308002",
+        "display": "Squamous cell carcinoma of skin of lower lip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423284006",
+        "display": "Squamous cell carcinoma of skin of neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.32",
+        "display": "Squamous cell carcinoma of skin of other and unspecified parts of face"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403899005",
+        "display": "Squamous cell carcinoma of skin of trunk"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.52",
+        "display": "Squamous cell carcinoma of skin of trunk, except scrotum"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.62",
+        "display": "Squamous cell carcinoma of skin of upper limb, including shoulder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "285307007",
+        "display": "Squamous cell carcinoma of skin of upper lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.92",
+        "display": "Squamous cell carcinoma of skin, site unspecified"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "425148008",
+        "display": "Squamous cell carcinoma of temple"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "423896007",
+        "display": "Squamous cell carcinoma of tip of nose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403897007",
+        "display": "Squamous cell carcinoma of upper extremity"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "62497000",
+        "display": "Stewart-Treves syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404133000",
+        "display": "Subcutaneous panniculitis-like T-cell lymphoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403914000",
+        "display": "Superficial basal cell carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404015009",
+        "display": "Superficial malignant fibrous histiocytoma of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404118008",
+        "display": "Syringotropic mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "255101006",
+        "display": "Sézary disease of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "118611004",
+        "display": "Sezary's disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "95264000",
+        "display": "Sézary's disease of extranodal AND/OR solid organ site"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188632001",
+        "display": "Sézary's disease of intra-abdominal lymph nodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188635004",
+        "display": "Sézary's disease of intrapelvic lymph nodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188631008",
+        "display": "Sézary's disease of intrathoracic lymph nodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188633006",
+        "display": "Sezary's disease of lymph nodes of axilla and upper limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "95260009",
+        "display": "Sézary's disease of lymph nodes of head, face AND/OR neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "188630009",
+        "display": "Sézary's disease of lymph nodes of head, face and neck"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "95261008",
+        "display": "Sézary's disease of lymph nodes of inguinal region AND/OR lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188634000",
+        "display": "Sézary's disease of lymph nodes of inguinal region and lower limb"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "188637007",
+        "display": "Sézary's disease of lymph nodes of multiple sites"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "95263006",
+        "display": "Sézary's disease of spleen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402879006",
+        "display": "T-cell leukemic infiltration of skin"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "136641000119101",
+        "display": "Torré-Muir syndrome co-occurrent with malignant sebaceous neoplasm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403929003",
+        "display": "Trichilemmal carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "404113004",
+        "display": "Tumor stage mycosis fungoides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403955002",
+        "display": "Undifferentiated adnexal carcinoma of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.10",
+        "display": "Unspecified malignant neoplasm of eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.80",
+        "display": "Unspecified malignant neoplasm of other specified sites of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.40",
+        "display": "Unspecified malignant neoplasm of scalp and skin of neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.20",
+        "display": "Unspecified malignant neoplasm of skin of ear and external auditory canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.00",
+        "display": "Unspecified malignant neoplasm of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.70",
+        "display": "Unspecified malignant neoplasm of skin of lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.30",
+        "display": "Unspecified malignant neoplasm of skin of other and unspecified parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.50",
+        "display": "Unspecified malignant neoplasm of skin of trunk, except scrotum"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.60",
+        "display": "Unspecified malignant neoplasm of skin of upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "173.90",
+        "display": "Unspecified malignant neoplasm of skin, site unspecified"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402912009",
+        "display": "Vulval verrucous carcinoma of Buschke-Löwenstein"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.00",
+        "display": "Unspecified malignant neoplasm of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.01",
+        "display": "Basal cell carcinoma of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.02",
+        "display": "Squamous cell carcinoma of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.09",
+        "display": "Other specified malignant neoplasm of skin of lip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.101",
+        "display": "Unspecified malignant neoplasm of skin of unspecified eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1021",
+        "display": "Unspecified malignant neoplasm of skin of right upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1022",
+        "display": "Unspecified malignant neoplasm of skin of right lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.102",
+        "display": "Unspecified malignant neoplasm of skin of right eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1091",
+        "display": "Unspecified malignant neoplasm of skin of left upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1092",
+        "display": "Unspecified malignant neoplasm of skin of left lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.109",
+        "display": "Unspecified malignant neoplasm of skin of left eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.111",
+        "display": "Basal cell carcinoma of skin of unspecified eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1121",
+        "display": "Basal cell carcinoma of skin of right upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1122",
+        "display": "Basal cell carcinoma of skin of right lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.112",
+        "display": "Basal cell carcinoma of skin of right eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1191",
+        "display": "Basal cell carcinoma of skin of left upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1192",
+        "display": "Basal cell carcinoma of skin of left lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.119",
+        "display": "Basal cell carcinoma of skin of left eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.121",
+        "display": "Squamous cell carcinoma of skin of unspecified eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1221",
+        "display": "Squamous cell carcinoma of skin of right upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1222",
+        "display": "Squamous cell carcinoma of skin of right lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.122",
+        "display": "Squamous cell carcinoma of skin of right eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1291",
+        "display": "Squamous cell carcinoma of skin of left upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1292",
+        "display": "Squamous cell carcinoma of skin of left lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.129",
+        "display": "Squamous cell carcinoma of skin of left eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.131",
+        "display": "Sebaceous cell carcinoma of skin of unspecified eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1321",
+        "display": "Sebaceous cell carcinoma of skin of right upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1322",
+        "display": "Sebaceous cell carcinoma of skin of right lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1391",
+        "display": "Sebaceous cell carcinoma of skin of left upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1392",
+        "display": "Sebaceous cell carcinoma of skin of left lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.191",
+        "display": "Other specified malignant neoplasm of skin of unspecified eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1921",
+        "display": "Other specified malignant neoplasm of skin of right upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1922",
+        "display": "Other specified malignant neoplasm of skin of right lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.192",
+        "display": "Other specified malignant neoplasm of skin of right eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1991",
+        "display": "Other specified malignant neoplasm of skin of left upper eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.1992",
+        "display": "Other specified malignant neoplasm of skin of left lower eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.199",
+        "display": "Other specified malignant neoplasm of skin of left eyelid, including canthus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.201",
+        "display": "Unspecified malignant neoplasm of skin of unspecified ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.202",
+        "display": "Unspecified malignant neoplasm of skin of right ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.209",
+        "display": "Unspecified malignant neoplasm of skin of left ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.211",
+        "display": "Basal cell carcinoma of skin of unspecified ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.212",
+        "display": "Basal cell carcinoma of skin of right ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.219",
+        "display": "Basal cell carcinoma of skin of left ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.221",
+        "display": "Squamous cell carcinoma of skin of unspecified ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.222",
+        "display": "Squamous cell carcinoma of skin of right ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.229",
+        "display": "Squamous cell carcinoma of skin of left ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.291",
+        "display": "Other specified malignant neoplasm of skin of unspecified ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.292",
+        "display": "Other specified malignant neoplasm of skin of right ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.299",
+        "display": "Other specified malignant neoplasm of skin of left ear and external auricular canal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.300",
+        "display": "Unspecified malignant neoplasm of skin of unspecified part of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.301",
+        "display": "Unspecified malignant neoplasm of skin of nose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.309",
+        "display": "Unspecified malignant neoplasm of skin of other parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.310",
+        "display": "Basal cell carcinoma of skin of unspecified parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.311",
+        "display": "Basal cell carcinoma of skin of nose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.319",
+        "display": "Basal cell carcinoma of skin of other parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.320",
+        "display": "Squamous cell carcinoma of skin of unspecified parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.321",
+        "display": "Squamous cell carcinoma of skin of nose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.329",
+        "display": "Squamous cell carcinoma of skin of other parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.390",
+        "display": "Other specified malignant neoplasm of skin of unspecified parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.391",
+        "display": "Other specified malignant neoplasm of skin of nose"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.399",
+        "display": "Other specified malignant neoplasm of skin of other parts of face"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.40",
+        "display": "Unspecified malignant neoplasm of skin of scalp and neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.41",
+        "display": "Basal cell carcinoma of skin of scalp and neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.42",
+        "display": "Squamous cell carcinoma of skin of scalp and neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.49",
+        "display": "Other specified malignant neoplasm of skin of scalp and neck"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.500",
+        "display": "Unspecified malignant neoplasm of anal skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.501",
+        "display": "Unspecified malignant neoplasm of skin of breast"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.509",
+        "display": "Unspecified malignant neoplasm of skin of other part of trunk"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.510",
+        "display": "Basal cell carcinoma of anal skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.511",
+        "display": "Basal cell carcinoma of skin of breast"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.519",
+        "display": "Basal cell carcinoma of skin of other part of trunk"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.520",
+        "display": "Squamous cell carcinoma of anal skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.521",
+        "display": "Squamous cell carcinoma of skin of breast"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.529",
+        "display": "Squamous cell carcinoma of skin of other part of trunk"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.590",
+        "display": "Other specified malignant neoplasm of anal skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.591",
+        "display": "Other specified malignant neoplasm of skin of breast"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.599",
+        "display": "Other specified malignant neoplasm of skin of other part of trunk"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.601",
+        "display": "Unspecified malignant neoplasm of skin of unspecified upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.602",
+        "display": "Unspecified malignant neoplasm of skin of right upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.609",
+        "display": "Unspecified malignant neoplasm of skin of left upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.611",
+        "display": "Basal cell carcinoma of skin of unspecified upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.612",
+        "display": "Basal cell carcinoma of skin of right upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.619",
+        "display": "Basal cell carcinoma of skin of left upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.621",
+        "display": "Squamous cell carcinoma of skin of unspecified upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.622",
+        "display": "Squamous cell carcinoma of skin of right upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.629",
+        "display": "Squamous cell carcinoma of skin of left upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.691",
+        "display": "Other specified malignant neoplasm of skin of unspecified upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.692",
+        "display": "Other specified malignant neoplasm of skin of right upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.699",
+        "display": "Other specified malignant neoplasm of skin of left upper limb, including shoulder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.701",
+        "display": "Unspecified malignant neoplasm of skin of unspecified lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.702",
+        "display": "Unspecified malignant neoplasm of skin of right lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.709",
+        "display": "Unspecified malignant neoplasm of skin of left lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.711",
+        "display": "Basal cell carcinoma of skin of unspecified lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.712",
+        "display": "Basal cell carcinoma of skin of right lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.719",
+        "display": "Basal cell carcinoma of skin of left lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.721",
+        "display": "Squamous cell carcinoma of skin of unspecified lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.722",
+        "display": "Squamous cell carcinoma of skin of right lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.729",
+        "display": "Squamous cell carcinoma of skin of left lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.791",
+        "display": "Other specified malignant neoplasm of skin of unspecified lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.792",
+        "display": "Other specified malignant neoplasm of skin of right lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.799",
+        "display": "Other specified malignant neoplasm of skin of left lower limb, including hip"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.80",
+        "display": "Unspecified malignant neoplasm of overlapping sites of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.81",
+        "display": "Basal cell carcinoma of overlapping sites of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.82",
+        "display": "Squamous cell carcinoma of overlapping sites of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.89",
+        "display": "Other specified malignant neoplasm of overlapping sites of skin"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.90",
+        "display": "Unspecified malignant neoplasm of skin, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.91",
+        "display": "Basal cell carcinoma of skin, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.92",
+        "display": "Squamous cell carcinoma of skin, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C44.99",
+        "display": "Other specified malignant neoplasm of skin, unspecified"
+      }
+    ]
+  }
+}

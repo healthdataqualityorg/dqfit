@@ -1,0 +1,97 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33286",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:58:45.345-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1764",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1764"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "HPV_Vaccine_Procedure",
+  "title": "HPV Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:11-04:00",
+    "total": 12,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428741008",
+        "display": "Administration of first dose of human papilloma virus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "734154002",
+        "display": "Administration of human papilloma virus type 6, 11, 16, and 18 vaccine done"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "429396009",
+        "display": "Administration of second dose of human papilloma virus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428931000",
+        "display": "Administration of third dose of human papilloma virus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "734152003",
+        "display": "Administration of Human papillomavirus 6, 11, 16 and 18 vaccine"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90651",
+        "display": "Human Papillomavirus vaccine types 6, 11, 16, 18, 31, 33, 45, 52, 58, nonavalent (9vHPV), 2 or 3 dose schedule, for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90650",
+        "display": "Human Papillomavirus vaccine, types 16, 18, bivalent (2vHPV), 3 dose schedule, for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90649",
+        "display": "Human Papillomavirus vaccine, types 6, 11, 16, 18, quadrivalent (4vHPV), 3 dose schedule, for intramuscular use"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "140611000119104",
+        "display": "Human papilloma virus type 16 and 18 vaccination given"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "99501000119107",
+        "display": "Human papilloma virus vaccination given"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16300531000119107",
+        "display": "Human papillomavirus type 9 vaccination given"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "428570002",
+        "display": "Vaccination for human papillomavirus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33059",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:57:58.399-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1749",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1749"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "sDNA_FIT_Lab_Test",
+  "title": "sDNA FIT Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:08-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "77353-1",
+        "display": "Noninvasive colorectal cancer DNA and occult blood screening [Interpretation] in Stool Narrative"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "77354-9",
+        "display": "Noninvasive colorectal cancer DNA and occult blood screening [Presence] in Stool"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "81528",
+        "display": "Oncology (colorectal) screening, quantitative real-time target and signal amplification of 10 DNA markers (KRAS mutations, promoter methylation of NDRG4 and BMP3) and fecal hemoglobin, utilizing stool, algorithm reported as a positive or negative result"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33300",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:50:18.023-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1312",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1312"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Prostate_Cancer",
+  "title": "Prostate Cancer",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:42-04:00",
+    "total": 40,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "822970008",
+        "display": "Acinar cell cystadenocarcinoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399490008",
+        "display": "Adenocarcinoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "92691004",
+        "display": "Carcinoma in situ of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "255149000",
+        "display": "Carcinoma in situ of prostatic ducts"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "254900004",
+        "display": "Carcinoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "448213004",
+        "display": "Diffuse non-Hodgkin's lymphoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "278060005",
+        "display": "Endometrioid carcinoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "715412008",
+        "display": "Familial prostate cancer"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "448217003",
+        "display": "Follicular non-Hodgkin's lymphoma of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "V84.03",
+        "display": "Genetic susceptibility to malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "446711009",
+        "display": "High grade prostatic intraepithelial neoplasia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428262008",
+        "display": "History of malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "427492003",
+        "display": "Hormone refractory prostate cancer"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "722103009",
+        "display": "Hormone sensitive prostate cancer"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "823017009",
+        "display": "Infiltrating duct carcinoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "314969001",
+        "display": "Local recurrence of malignant tumor of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "185",
+        "display": "Malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "369485004",
+        "display": "Malignant tumor involving prostate by direct extension from bladder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "369486003",
+        "display": "Malignant tumor involving prostate by separate metastasis from bladder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399068003",
+        "display": "Malignant tumor of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "459381000124106",
+        "display": "Metastatic castration-resistant prostate cancer"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "95014000",
+        "display": "Neoplasm of uncertain behavior of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "449318001",
+        "display": "Non-Hodgkin's lymphoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "93974005",
+        "display": "Primary malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "712849003",
+        "display": "Prostate cancer metastatic to bone"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "233.4",
+        "display": "Carcinoma in situ of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "236.5",
+        "display": "Neoplasm of uncertain behavior of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "V10.46",
+        "display": "Personal history of malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "96901000119105",
+        "display": "Prostate cancer metastatic to eye"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "353091000119100",
+        "display": "Prostatic intraepithelial neoplasia high grade"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "353101000119105",
+        "display": "Prostatic intraepithelial neoplasia low grade"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1098981000119101",
+        "display": "Recurrent malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "94503003",
+        "display": "Secondary malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "396198006",
+        "display": "Small cell carcinoma of prostate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "399590005",
+        "display": "Squamous cell carcinoma of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "C61",
+        "display": "Malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "D07.5",
+        "display": "Carcinoma in situ of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "D40.0",
+        "display": "Neoplasm of uncertain behavior of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z15.03",
+        "display": "Genetic susceptibility to malignant neoplasm of prostate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z85.46",
+        "display": "Personal history of malignant neoplasm of prostate"
+      }
+    ]
+  }
+}

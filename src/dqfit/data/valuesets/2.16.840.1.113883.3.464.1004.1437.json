@@ -1,0 +1,198 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33028",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:56:13.823-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1437",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1437"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Alcohol_Counseling_or_Other_Follow_Up_Care",
+  "title": "Alcohol Counseling or Other Follow Up Care",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:59-04:00",
+    "total": 29,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "408945004",
+        "display": "Alcohol abuse prevention"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "408947007",
+        "display": "Alcohol abuse prevention education"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "408948002",
+        "display": "Alcohol abuse prevention management"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0022",
+        "display": "Alcohol and/or drug intervention service (planned facilitation)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0050",
+        "display": "Alcohol and/or drug services, brief intervention, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0007",
+        "display": "Alcohol and/or drug services; crisis intervention (outpatient)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0005",
+        "display": "Alcohol and/or drug services; group counseling by a clinician"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0015",
+        "display": "Alcohol and/or drug services; intensive outpatient (treatment program that operates at least 3 hours/day and at least 3 days/week and is based on an individualized treatment plan), including assessment, counseling; crisis intervention, and activity therapies or education"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0016",
+        "display": "Alcohol and/or drug services; medical/somatic (medical intervention in ambulatory setting)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2036",
+        "display": "Alcohol and/or other drug treatment program, per diem"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2035",
+        "display": "Alcohol and/or other drug treatment program, per hour"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99408",
+        "display": "Alcohol and/or substance (other than tobacco) abuse structured screening (eg, AUDIT, DAST), and brief intervention (SBI) services; 15 to 30 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99409",
+        "display": "Alcohol and/or substance (other than tobacco) abuse structured screening (eg, AUDIT, DAST), and brief intervention (SBI) services; greater than 30 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0396",
+        "display": "Alcohol and/or substance (other than tobacco) misuse structured assessment (e.g., audit, dast), and brief intervention 15 to 30 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G2011",
+        "display": "Alcohol and/or substance (other than tobacco) misuse structured assessment (e.g., audit, dast), and brief intervention, 5-14 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0397",
+        "display": "Alcohol and/or substance (other than tobacco) misuse structured assessment (e.g., audit, dast), and intervention, greater than 30 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "T1006",
+        "display": "Alcohol and/or substance abuse services, family/couple counseling"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "T1012",
+        "display": "Alcohol and/or substance abuse services, skills development"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "429291000124102",
+        "display": "Alcohol brief intervention"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "707166002",
+        "display": "Alcohol reduction program"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20093000",
+        "display": "Alcohol rehabilitation and detoxification"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "24165007",
+        "display": "Alcoholism counseling"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0443",
+        "display": "Brief face-to-face behavioral counseling for alcohol misuse, 15 minutes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "23915005",
+        "display": "Combined alcohol and drug rehabilitation and detoxification"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "413473000",
+        "display": "Alcohol consumption counseling"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "64297001",
+        "display": "Detoxication psychiatric therapy for alcoholism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386449006",
+        "display": "Substance use treatment: alcohol withdrawal"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z71.41",
+        "display": "Alcohol abuse counseling and surveillance of alcoholic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z71.89",
+        "display": "Other specified counseling"
+      }
+    ]
+  }
+}

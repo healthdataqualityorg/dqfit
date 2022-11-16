@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33543",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:15:01.885-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1773",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1773"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Measles_Mumps_and_Rubella_(MMR)_Immunization",
+  "title": "Measles, Mumps and Rubella (MMR) Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:50-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "03",
+        "display": "measles, mumps and rubella virus vaccine"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "94",
+        "display": "measles, mumps, rubella, and varicella virus vaccine"
+      }
+    ]
+  }
+}

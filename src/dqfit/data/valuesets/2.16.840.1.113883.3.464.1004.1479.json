@@ -1,0 +1,402 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33126",
+  "meta": {
+    "lastUpdated": "2022-03-02T22:22:31.596-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1479",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1479"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Weeks_of_Gestation_Less_Than_37",
+  "title": "Weeks of Gestation Less Than 37",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:18-04:00",
+    "total": 63,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428567001",
+        "display": "Gestation 14 - 20 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428930004",
+        "display": "Gestation 9- 13 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428566005",
+        "display": "Gestation less than 20 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313178001",
+        "display": "Gestation less than 24 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428058009",
+        "display": "Gestation less than 9 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87178007",
+        "display": "Gestation period, 1 week"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38039008",
+        "display": "Gestation period, 10 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "50367001",
+        "display": "Gestation period, 11 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79992004",
+        "display": "Gestation period, 12 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "62333002",
+        "display": "Gestation period, 13 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "72846000",
+        "display": "Gestation period, 14 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "6678005",
+        "display": "Gestation period, 15 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15633004",
+        "display": "Gestation period, 16 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "65683006",
+        "display": "Gestation period, 17 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "25026004",
+        "display": "Gestation period, 18 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "54318006",
+        "display": "Gestation period, 19 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "82118009",
+        "display": "Gestation period, 2 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "23464008",
+        "display": "Gestation period, 20 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "41438001",
+        "display": "Gestation period, 21 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "65035007",
+        "display": "Gestation period, 22 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "86883006",
+        "display": "Gestation period, 23 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313179009",
+        "display": "Gestation period, 24 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "72544005",
+        "display": "Gestation period, 25 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "48688005",
+        "display": "Gestation period, 26 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46906003",
+        "display": "Gestation period, 27 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "74952004",
+        "display": "Gestation period, 3 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "57907009",
+        "display": "Gestation period, 36 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "44398003",
+        "display": "Gestation period, 4 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "37005007",
+        "display": "Gestation period, 5 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "86801005",
+        "display": "Gestation period, 6 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63110000",
+        "display": "Gestation period, 7 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26690008",
+        "display": "Gestation period, 8 weeks"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "931004",
+        "display": "Gestation period, 9 weeks"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.01",
+        "display": "Less than 8 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.08",
+        "display": "8 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.09",
+        "display": "9 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.10",
+        "display": "10 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.11",
+        "display": "11 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.12",
+        "display": "12 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.13",
+        "display": "13 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.14",
+        "display": "14 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.15",
+        "display": "15 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.16",
+        "display": "16 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.17",
+        "display": "17 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.18",
+        "display": "18 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.19",
+        "display": "19 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.20",
+        "display": "20 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.21",
+        "display": "21 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.22",
+        "display": "22 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.23",
+        "display": "23 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.24",
+        "display": "24 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.25",
+        "display": "25 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.26",
+        "display": "26 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.27",
+        "display": "27 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.28",
+        "display": "28 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.29",
+        "display": "29 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.30",
+        "display": "30 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.31",
+        "display": "31 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.32",
+        "display": "32 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.33",
+        "display": "33 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.34",
+        "display": "34 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.35",
+        "display": "35 weeks gestation of pregnancy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.36",
+        "display": "36 weeks gestation of pregnancy"
+      }
+    ]
+  }
+}

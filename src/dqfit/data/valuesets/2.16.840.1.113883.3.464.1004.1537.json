@@ -1,0 +1,2466 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33616",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:20:44.199-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1537",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1537"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Fentanyl_Medications",
+  "title": "Fentanyl Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:32-04:00",
+    "total": 407,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "577057",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "583490",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System [Duragesic]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "245134",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261184",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System [Duragesic]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1603495",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "245135",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261185",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System [Duragesic]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1603498",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "197696",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261186",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System [Duragesic]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1603501",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "245136",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "262071",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System [Duragesic]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668363",
+        "display": "fentanyl 0.1 MG Buccal Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668622",
+        "display": "fentanyl 0.1 MG Buccal Tablet [Fentora]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053647",
+        "display": "fentanyl 0.1 MG Sublingual Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053651",
+        "display": "fentanyl 0.1 MG Sublingual Tablet [Abstral]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1115573",
+        "display": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1115575",
+        "display": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237050",
+        "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237055",
+        "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray [Subsys]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668364",
+        "display": "fentanyl 0.2 MG Buccal Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668624",
+        "display": "fentanyl 0.2 MG Buccal Tablet [Fentora]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "310295",
+        "display": "fentanyl 0.2 MG Oral Lozenge"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261106",
+        "display": "fentanyl 0.2 MG Oral Lozenge [Actiq]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053652",
+        "display": "fentanyl 0.2 MG Sublingual Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053654",
+        "display": "fentanyl 0.2 MG Sublingual Tablet [Abstral]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237057",
+        "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237059",
+        "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray [Subsys]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053655",
+        "display": "fentanyl 0.3 MG Sublingual Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053657",
+        "display": "fentanyl 0.3 MG Sublingual Tablet [Abstral]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1729320",
+        "display": "fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1729322",
+        "display": "fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668365",
+        "display": "fentanyl 0.4 MG Buccal Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668626",
+        "display": "fentanyl 0.4 MG Buccal Tablet [Fentora]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "310297",
+        "display": "fentanyl 0.4 MG Oral Lozenge"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "262219",
+        "display": "fentanyl 0.4 MG Oral Lozenge [Actiq]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053658",
+        "display": "fentanyl 0.4 MG Sublingual Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053660",
+        "display": "fentanyl 0.4 MG Sublingual Tablet [Abstral]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1115577",
+        "display": "fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1115579",
+        "display": "fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray [Lazanda]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237060",
+        "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237062",
+        "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray [Subsys]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668366",
+        "display": "fentanyl 0.6 MG Buccal Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668628",
+        "display": "fentanyl 0.6 MG Buccal Tablet [Fentora]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "313992",
+        "display": "fentanyl 0.6 MG Oral Lozenge"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261107",
+        "display": "fentanyl 0.6 MG Oral Lozenge [Actiq]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053661",
+        "display": "fentanyl 0.6 MG Sublingual Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053663",
+        "display": "fentanyl 0.6 MG Sublingual Tablet [Abstral]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237064",
+        "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237066",
+        "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668367",
+        "display": "fentanyl 0.8 MG Buccal Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "668630",
+        "display": "fentanyl 0.8 MG Buccal Tablet [Fentora]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "313993",
+        "display": "fentanyl 0.8 MG Oral Lozenge"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261108",
+        "display": "fentanyl 0.8 MG Oral Lozenge [Actiq]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053664",
+        "display": "fentanyl 0.8 MG Sublingual Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1053666",
+        "display": "fentanyl 0.8 MG Sublingual Tablet [Abstral]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237068",
+        "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1237070",
+        "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "310293",
+        "display": "fentanyl 1.2 MG Oral Lozenge"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261109",
+        "display": "fentanyl 1.2 MG Oral Lozenge [Actiq]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "310294",
+        "display": "fentanyl 1.6 MG Oral Lozenge"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "261110",
+        "display": "fentanyl 1.6 MG Oral Lozenge [Actiq]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1740008",
+        "display": "{2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray [Subsys]) } Pack [Subsys 1200 MCG]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1740007",
+        "display": "{2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray) } Pack"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1740010",
+        "display": "{2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray [Subsys]) } Pack [Subsys 1600 MCG]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1740009",
+        "display": "{2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray) } Pack"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786519",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786565",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786619",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786665",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786719",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786765",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786819",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786865",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786919",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093786965",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093787019",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093787065",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378911916",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378911998",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912116",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912198",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912216",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912298",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912316",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912398",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912416",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912498",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912516",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912598",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912616",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912698",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912716",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378912798",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406900076",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406901276",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406902576",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406903776",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406905076",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406906276",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406907576",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406910076",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406911276",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406912576",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406915076",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406917576",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406920230",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406920430",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406920630",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406920830",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406921230",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406921630",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591319854",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591319872",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591321254",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591321272",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591321354",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591321372",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591321454",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591321472",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781710955",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781711155",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781711255",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781711355",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781711455",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781724055",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781724155",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781724255",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781724355",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781724455",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13913000901",
+        "display": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13913001001",
+        "display": "fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13913001301",
+        "display": "fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000101",
+        "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000110",
+        "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000130",
+        "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000201",
+        "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000210",
+        "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000230",
+        "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000401",
+        "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000410",
+        "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000430",
+        "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000601",
+        "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000610",
+        "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000630",
+        "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000801",
+        "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000810",
+        "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482000830",
+        "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482001215",
+        "display": "{2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray) } Pack",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "20482001615",
+        "display": "{2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray) } Pack",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356006205",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063205",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063305",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063405",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063505",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063605",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063705",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063805",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356063905",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356099930",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358010032",
+        "display": "fentanyl 0.1 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358020032",
+        "display": "fentanyl 0.2 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358030032",
+        "display": "fentanyl 0.3 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358040032",
+        "display": "fentanyl 0.4 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358060032",
+        "display": "fentanyl 0.6 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358080032",
+        "display": "fentanyl 0.8 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42747022112",
+        "display": "fentanyl 0.1 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42747022212",
+        "display": "fentanyl 0.2 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42747022312",
+        "display": "fentanyl 0.3 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42747022412",
+        "display": "fentanyl 0.4 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042311",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042347",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042411",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042447",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042611",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042647",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042711",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042747",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042811",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "47781042847",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884045952",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884045955",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046052",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046055",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046152",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046155",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046252",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046255",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046352",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046355",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046452",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884046455",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884076152",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884076252",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884076352",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884076378",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884076452",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884076478",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083101",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083105",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083201",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083205",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083301",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083401",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999083405",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458009005",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458009105",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458009205",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458009305",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458009405",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458010105",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458010205",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458010405",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458010505",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458010605",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51772031104",
+        "display": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51772031404",
+        "display": "fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031452",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031478",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031552",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031578",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031652",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031678",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031752",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862031778",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063401",
+        "display": "fentanyl 0.1 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063428",
+        "display": "fentanyl 0.1 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063501",
+        "display": "fentanyl 0.2 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063528",
+        "display": "fentanyl 0.2 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063601",
+        "display": "fentanyl 0.4 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063628",
+        "display": "fentanyl 0.4 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063701",
+        "display": "fentanyl 0.6 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063728",
+        "display": "fentanyl 0.6 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063801",
+        "display": "fentanyl 0.8 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862063828",
+        "display": "fentanyl 0.8 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054801",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054901",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055230",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959055330",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959056601",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959058505",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959058605",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959065805",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700059705",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700074805",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700074905",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700075305",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700077205",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700081105",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033104",
+        "display": "fentanyl 0.1 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033132",
+        "display": "fentanyl 0.1 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033204",
+        "display": "fentanyl 0.2 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033232",
+        "display": "fentanyl 0.2 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033304",
+        "display": "fentanyl 0.3 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033332",
+        "display": "fentanyl 0.3 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033404",
+        "display": "fentanyl 0.4 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033432",
+        "display": "fentanyl 0.4 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033604",
+        "display": "fentanyl 0.6 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033632",
+        "display": "fentanyl 0.6 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033804",
+        "display": "fentanyl 0.8 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57881033832",
+        "display": "fentanyl 0.8 MG Sublingual Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700600",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700602",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700700",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700702",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700800",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700802",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700900",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505700902",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701000",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701002",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701100",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701102",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701200",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701202",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701300",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701302",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701400",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701402",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701500",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701502",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701600",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701602",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701700",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505701702",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708000",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708002",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708100",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708102",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708200",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708202",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708300",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708302",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708400",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708402",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708500",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708502",
+        "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708600",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708602",
+        "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708700",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505708702",
+        "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760091105",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760091205",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919060205",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919060305",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050201",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050230",
+        "display": "fentanyl 0.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050401",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050430",
+        "display": "fentanyl 0.4 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050601",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050630",
+        "display": "fentanyl 0.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050801",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459050830",
+        "display": "fentanyl 0.8 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459051201",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459051230",
+        "display": "fentanyl 1.2 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459051601",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459051630",
+        "display": "fentanyl 1.6 MG Oral Lozenge",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054104",
+        "display": "fentanyl 0.1 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054128",
+        "display": "fentanyl 0.1 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054204",
+        "display": "fentanyl 0.2 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054228",
+        "display": "fentanyl 0.2 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054404",
+        "display": "fentanyl 0.4 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054428",
+        "display": "fentanyl 0.4 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054604",
+        "display": "fentanyl 0.6 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054628",
+        "display": "fentanyl 0.6 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054804",
+        "display": "fentanyl 0.8 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63459054828",
+        "display": "fentanyl 0.8 MG Buccal Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629416501",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629416801",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476401",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476402",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476403",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476501",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476502",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476503",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476703",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629476801",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629477101",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629477102",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629477103",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629477301",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629477302",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629477303",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629481301",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629481302",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629481303",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629493101",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497401",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497402",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497501",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497502",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497503",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497601",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497602",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629497603",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629498003",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629498103",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629498203",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629549201",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629549601",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629551301",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629562001",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071137305",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071137405",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071137505",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68258302401",
+        "display": "72 HR fentanyl 0.075 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335037601",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335037602",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335037603",
+        "display": "72 HR fentanyl 0.012 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335055601",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335055602",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335055603",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060401",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060402",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060403",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335068301",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335068302",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335068303",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122401",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122402",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122403",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122701",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122702",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122703",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122801",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122802",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335122803",
+        "display": "72 HR fentanyl 0.05 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335126001",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335126002",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335126003",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335140301",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335140302",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335140303",
+        "display": "72 HR fentanyl 0.1 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335140401",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335140402",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335140403",
+        "display": "72 HR fentanyl 0.025 MG/HR Transdermal System",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500000110",
+        "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500000230",
+        "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500000430",
+        "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500000630",
+        "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500000830",
+        "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500001215",
+        "display": "{2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray) } Pack",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500001615",
+        "display": "{2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray) } Pack",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500011001",
+        "display": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500013001",
+        "display": "fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71500014001",
+        "display": "fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

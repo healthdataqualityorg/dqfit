@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33290",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:07:06.211-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1770",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1770"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "LDL-C_Test_Result_or_Finding",
+  "title": "LDL-C Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:46-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3049F",
+        "display": "Most recent LDL-C 100-129 mg/dL (CAD) (DM)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3050F",
+        "display": "Most recent LDL-C greater than or equal to 130 mg/dL (CAD) (DM)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "3048F",
+        "display": "Most recent LDL-C less than 100 mg/dL (CAD) (DM)"
+      }
+    ]
+  }
+}

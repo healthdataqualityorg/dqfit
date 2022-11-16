@@ -1,0 +1,930 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33630",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:39:48.440-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1543",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1543"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Oxymorphone_Medications",
+  "title": "Oxymorphone Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:42-04:00",
+    "total": 151,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977874",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977876",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977894",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977896",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977902",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977904",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977909",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977911",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977915",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977917",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977923",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977925",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977929",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977931",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977942",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977943",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977939",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "977940",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet [Opana]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054028325",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054028425",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093586101",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093586201",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123101",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123103",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123108",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123113",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123201",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123203",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123208",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123213",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123301",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123303",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123308",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123313",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123401",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123403",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123408",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115123413",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131501",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131503",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131508",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131513",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131601",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131603",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131608",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131613",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131701",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131703",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131708",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115131713",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406100901",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406101001",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702007001",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702007006",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702007101",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702007106",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107010301",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107010330",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107010399",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107010401",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107010430",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107010499",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722092901",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "31722093001",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356049930",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356082030",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356082060",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356082090",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356082530",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356082560",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084830",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084860",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084930",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084960",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084990",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356096730",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356096801",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356096830",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356096860",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806033001",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42806033101",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700038130",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700038730",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700078860",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687014811",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687014821",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951079470",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951079570",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304021805",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304021830",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304021905",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304021930",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022005",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022030",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022105",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022130",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022205",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022230",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022305",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022330",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022405",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304022430",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481061270",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481061370",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081260",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081360",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081460",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081560",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081660",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081760",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63481081860",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629192501",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629192601",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417401",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417402",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417403",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417404",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417701",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417702",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64720025810",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64720025910",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069501",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069503",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069508",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069513",
+        "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069601",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069603",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069608",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069613",
+        "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069701",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069703",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069708",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069713",
+        "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069801",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069803",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069808",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069813",
+        "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069901",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069903",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069908",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896069913",
+        "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070001",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070003",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070008",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070013",
+        "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070101",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070103",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070108",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64896070113",
+        "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865013001",
+        "display": "oxymorphone hydrochloride 5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "72865013101",
+        "display": "oxymorphone hydrochloride 10 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4008 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33625",
+  "meta": {
+    "lastUpdated": "2022-03-24T15:20:06.831-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1539",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1539"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Morphine_Medications",
+  "title": "Morphine Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:38-04:00",
+    "total": 664,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891883",
+        "display": "12 HR morphine sulfate 100 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891878",
+        "display": "12 HR morphine sulfate 15 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894918",
+        "display": "12 HR morphine sulfate 200 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891885",
+        "display": "12 HR morphine sulfate 30 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891890",
+        "display": "12 HR morphine sulfate 60 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892297",
+        "display": "24 HR morphine sulfate 120 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892342",
+        "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892344",
+        "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule [Avinza]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894942",
+        "display": "24 HR morphine sulfate 45 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892349",
+        "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892351",
+        "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule [Avinza]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894970",
+        "display": "24 HR morphine sulfate 75 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892355",
+        "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892357",
+        "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule [Avinza]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1872234",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 100 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1745886",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 100 MG Extended Release Oral Tablet [Morphabond]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1871434",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1871440",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet [Arymo]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1745881",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet [Morphabond]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1871441",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1871443",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet [Arymo]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1745889",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet [Morphabond]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1871444",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1871446",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet [Arymo]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1745892",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet [Morphabond]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892494",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892496",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892516",
+        "display": "morphine sulfate 10 MG Rectal Suppository"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892554",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892556",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891874",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892560",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet [MS Contin]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891881",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892574",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet [MS Contin]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892582",
+        "display": "morphine sulfate 15 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892589",
+        "display": "morphine sulfate 2 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892596",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892598",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892603",
+        "display": "morphine sulfate 20 MG Rectal Suppository"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892625",
+        "display": "morphine sulfate 20 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892643",
+        "display": "morphine sulfate 200 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892645",
+        "display": "morphine sulfate 200 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892646",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892648",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet [MS Contin]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892345",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892346",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule [Avinza]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892658",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891888",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892660",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet [MS Contin]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892672",
+        "display": "morphine sulfate 30 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892678",
+        "display": "morphine sulfate 30 MG Rectal Suppository"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894780",
+        "display": "morphine sulfate 4 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1303736",
+        "display": "morphine sulfate 40 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "1303738",
+        "display": "morphine sulfate 40 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894807",
+        "display": "morphine sulfate 5 MG Rectal Suppository"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894801",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894803",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892352",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "892353",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule [Avinza]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894805",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "891893",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894813",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet [MS Contin]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894814",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "894816",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule [Kadian]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601160",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601260",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601360",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601460",
+        "display": "morphine sulfate 40 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601560",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601660",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601760",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601860",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00023601960",
+        "display": "morphine sulfate 200 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023524",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023525",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023624",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023625",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023741",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023749",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023763",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023849",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054023863",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054040441",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054040444",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054040450",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054051741",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054051744",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054051750",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127701",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127703",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127708",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127801",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127803",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127808",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127901",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127903",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115127908",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128001",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128003",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128008",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128101",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128103",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128108",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128201",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128203",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115128208",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00115147901",
+        "display": "morphine sulfate 40 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121082501",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121082504",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121082508",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121090405",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00121090494",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309003",
+        "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309009",
+        "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309011",
+        "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309050",
+        "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309103",
+        "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309109",
+        "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309111",
+        "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309150",
+        "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309203",
+        "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309209",
+        "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309211",
+        "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309250",
+        "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309303",
+        "display": "24 HR morphine sulfate 120 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309309",
+        "display": "24 HR morphine sulfate 120 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309311",
+        "display": "24 HR morphine sulfate 120 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228309350",
+        "display": "24 HR morphine sulfate 120 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228311611",
+        "display": "24 HR morphine sulfate 45 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228311711",
+        "display": "24 HR morphine sulfate 75 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350106",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350111",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350206",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350211",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350306",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350311",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350406",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350411",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350506",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350511",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350606",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350611",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350706",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350711",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350806",
+        "display": "morphine sulfate 200 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228350811",
+        "display": "morphine sulfate 200 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228427011",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228427050",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228427111",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228427150",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228431111",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228432311",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00228434711",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378265801",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378265901",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378266001",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378266101",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378266201",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406800312",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406800315",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406800324",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406800330",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406831501",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406831523",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406831562",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406832001",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406833001",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406833023",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406833062",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406838001",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406838023",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406838062",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406839001",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406839023",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406839062",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527142535",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527142536",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527142562",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527142563",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527190635",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527190636",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527190662",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527190663",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574012730",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574015312",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574015330",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574711012",
+        "display": "morphine sulfate 5 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574711212",
+        "display": "morphine sulfate 10 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574711412",
+        "display": "morphine sulfate 20 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574711612",
+        "display": "morphine sulfate 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022500",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022550",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022600",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022650",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022700",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022750",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022800",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022850",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022900",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832022950",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832023000",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832023050",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832023300",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832023350",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832027311",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00832027411",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904655761",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904655861",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904655961",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00904656061",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023701",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023702",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023705",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023801",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023802",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023803",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856023805",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856040301",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856040302",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856040601",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856051701",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856051702",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856051703",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856051704",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "17856117001",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "27808008201",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "27808008202",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "27808008401",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "27808008402",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356005000",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356005100",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356005160",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356007600",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356033530",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356033560",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083330",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083360",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083601",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083630",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083660",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083690",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083730",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083801",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083830",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083860",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356083890",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084130",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356084160",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054001",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054005",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054101",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054105",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054201",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054205",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054301",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054305",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054401",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "40032054405",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42689000501",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42689000601",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42689000701",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42689000801",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42689000901",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42689001001",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858051501",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858063101",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858063150",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858076001",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858076050",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858079901",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858079950",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858080101",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858080201",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858080301",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858080401",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858080501",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858081017",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858081117",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858081212",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858081215",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42858090001",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063026330",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063026360",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063026390",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027230",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027260",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027290",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027430",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027460",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027490",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027560",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027590",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063027598",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063028090",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068430",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068460",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068490",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068830",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068860",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068890",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068960",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063068990",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054001",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054005",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054101",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054105",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054201",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054205",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054301",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054305",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054401",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386054405",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "48433020001",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "48433020047",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "48433020055",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884066511",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884066611",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884066711",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884066811",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884066911",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884067011",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884083501",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084630",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084660",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084690",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084830",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084860",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084890",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084930",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999084960",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383096504",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50383096530",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862018501",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862018601",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862018701",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51862018801",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544001160",
+        "display": "morphine sulfate 10 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544003260",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544003960",
+        "display": "morphine sulfate 40 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544005260",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544006360",
+        "display": "morphine sulfate 60 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544016460",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544021160",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544022060",
+        "display": "morphine sulfate 200 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52544089660",
+        "display": "morphine sulfate 80 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959013802",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959013860",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959013890",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018202",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018230",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018260",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018290",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018502",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018530",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018560",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018590",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018902",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018930",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018960",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959018990",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959040930",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959040960",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959040990",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289068230",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289068260",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289068290",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289068490",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289086330",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289086360",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289086390",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289087560",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289087590",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289087598",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700015860",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700016130",
+        "display": "morphine sulfate 100 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700016230",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700016260",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700016360",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700034930",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700034960",
+        "display": "morphine sulfate 20 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700035060",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036601",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036630",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036660",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036690",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036701",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036730",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036760",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036790",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036801",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036830",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036860",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036890",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036930",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700036960",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700037030",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700055260",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700082430",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700082460",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700082490",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700082530",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700082560",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700082590",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700090530",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700090560",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664019088",
+        "display": "12 HR morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664019188",
+        "display": "12 HR morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664019288",
+        "display": "12 HR morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664019688",
+        "display": "12 HR morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664019788",
+        "display": "12 HR morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664035831",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664035835",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664035931",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664035935",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58177032011",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58177033011",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58177034009",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58177034011",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58177038009",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "58177038011",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687061701",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60687061711",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951065270",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951065370",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951065570",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951065870",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951065970",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919041330",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919092330",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919092360",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919096630",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919096660",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "62559017001",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "62559017005",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "62559017101",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "62559017105",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045001",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045003",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045005",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045101",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045103",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045105",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045201",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045203",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045205",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045301",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045303",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304045305",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304075801",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304075803",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304075805",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304075850",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629108701",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629108801",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629108901",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629109001",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629109101",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629230101",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629230201",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629253501",
+        "display": "morphine sulfate 10 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629253601",
+        "display": "morphine sulfate 20 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629253701",
+        "display": "morphine sulfate 5 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629253801",
+        "display": "morphine sulfate 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378901",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378902",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378903",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378904",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378905",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378906",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629378907",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397501",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397502",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397503",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397601",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397903",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397904",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397905",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629397906",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417501",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417502",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417503",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417504",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417505",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417506",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629417507",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448300",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448301",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448302",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448303",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448304",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448305",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448306",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448307",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448308",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448309",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448400",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448401",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448402",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448403",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448404",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448405",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448406",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448407",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448408",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629448409",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451401",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451402",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451403",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451404",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451501",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451502",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451503",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451504",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451505",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629451506",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629466701",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629466702",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629466703",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629845901",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629846001",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629850501",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739072610",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63739089910",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65597030110",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65597030210",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65597030310",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65597030410",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336050230",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336050260",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66336050290",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003201",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003204",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003216",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003250",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003301",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003304",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003316",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66689003350",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296137502",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296152201",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296152203",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296152206",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296152209",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296156102",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296175301",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296175306",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296175307",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67877067001",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67877067101",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071034530",
+        "display": "morphine sulfate 30 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071035230",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071035256",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071035260",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071035284",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071035290",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071035291",
+        "display": "morphine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071048030",
+        "display": "morphine sulfate 50 MG Extended Release Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071049030",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071049060",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071049090",
+        "display": "morphine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084015701",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084015711",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084015801",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084015811",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084015901",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084015911",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084016001",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084016011",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040301",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040311",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040401",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040411",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040501",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040511",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040601",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084040611",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094000159",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094000162",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094004501",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094004558",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094075401",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094075458",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094075501",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68094075558",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382090301",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382090401",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382090501",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382090601",
+        "display": "morphine sulfate 100 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382090701",
+        "display": "morphine sulfate 200 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69344011111",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69344021111",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69344031111",
+        "display": "Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70166010102",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70166010105",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70166010110",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70166010120",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70408035831",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70408035835",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70408035931",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70408035935",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70408074629",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70408074631",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023900",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023901",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023902",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023903",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023904",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023905",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023906",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023907",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023908",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335023909",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060500",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060501",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060502",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060503",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060504",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060505",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060506",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060507",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060508",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335060509",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062801",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062802",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062803",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062804",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062805",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062806",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062807",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335062808",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067600",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067601",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067602",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067603",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067604",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067605",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067606",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067607",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067608",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335067609",
+        "display": "morphine sulfate 30 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070701",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070702",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070703",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070704",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070705",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070706",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070707",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335070708",
+        "display": "morphine sulfate 60 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073600",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073601",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073602",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073603",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073604",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073605",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073606",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073607",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073608",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335073609",
+        "display": "morphine sulfate 15 MG Extended Release Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "75826012910",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "75826012950",
+        "display": "morphine sulfate 2 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "75826013010",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "75826013050",
+        "display": "morphine sulfate 4 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "75826013112",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "75826013115",
+        "display": "morphine sulfate 20 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

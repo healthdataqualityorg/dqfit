@@ -1,0 +1,66 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33294",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:16:42.123-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1777",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1777"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Meningococcal_Immunization",
+  "title": "Meningococcal Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:10-04:00",
+    "total": 7,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "147",
+        "display": "Meningococcal, MCV4, unspecified conjugate formulation(groups A, C, Y and W-135)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "108",
+        "display": "meningococcal ACWY vaccine, unspecified formulation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "136",
+        "display": "meningococcal oligosaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4O)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "114",
+        "display": "meningococcal polysaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "203",
+        "display": "meningococcal polysaccharide (groups A, C, Y, W-135) tetanus toxoid conjugate vaccine .5mL dose, preservative free"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "32",
+        "display": "meningococcal polysaccharide vaccine (MPSV4)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "167",
+        "display": "meningococcal vaccine of unknown formulation and unknown serogroups"
+      }
+    ]
+  }
+}

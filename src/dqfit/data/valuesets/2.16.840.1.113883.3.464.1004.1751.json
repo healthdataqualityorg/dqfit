@@ -1,0 +1,462 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33277",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:46:25.805-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1751",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1751"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Glucose_Lab_Test",
+  "title": "Glucose Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:47-04:00",
+    "total": 73,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313545000",
+        "display": "120 minute blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313627007",
+        "display": "120 minute plasma glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313631001",
+        "display": "120 minute serum glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313624000",
+        "display": "150 minute blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313628002",
+        "display": "150 minute plasma glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313810002",
+        "display": "150 minute serum glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "440576000",
+        "display": "240 minute plasma glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313474007",
+        "display": "60 minute blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313626003",
+        "display": "60 minute plasma glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313630000",
+        "display": "60 minute serum glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313546004",
+        "display": "90 minute blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313697000",
+        "display": "90 minute plasma glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313698005",
+        "display": "90 minute serum glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "275810004",
+        "display": "BM stix glucose measurement"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "80047",
+        "display": "Basic metabolic panel (Calcium, ionized) This panel must include the following: Calcium, ionized (82330) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea Nitrogen (BUN) (84520)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "80048",
+        "display": "Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271065008",
+        "display": "Bedtime blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412928005",
+        "display": "Blood glucose series"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "302789003",
+        "display": "Capillary blood glucose measurement"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "80053",
+        "display": "Comprehensive metabolic panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Phosphatase, alkaline (84075) Potassium (84132) Protein, total (84155) Sodium (84295) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate amino (AST) (SGOT) (84450) Urea nitrogen (BUN) (84520)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271062006",
+        "display": "Fasting blood glucose measurement"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1558-6",
+        "display": "Fasting glucose [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1557-8",
+        "display": "Fasting glucose [Mass/volume] in Venous blood"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "80050",
+        "display": "General health panel This panel must include the following: Comprehensive metabolic panel (80053) Blood count, complete (CBC), automated and automated differential WBC count (85025 or 85027 and 85004) OR Blood count, complete (CBC), automated (85027) and appropriate manual differential WBC count (85007 or 85009) Thyroid stimulating hormone (TSH) (84443)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "49134-0",
+        "display": "Glucose [Mass/volume] in Blood --2 hours post dose glucose"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1499-3",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1 hour post 0.5 g/kg glucose IV"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1501-6",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1 hour post 100 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1504-0",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1 hour post 50 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1507-3",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1 hour post 75 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "20438-8",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1 hour post dose glucose"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1492-8",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1.5 hours post 0.5 g/kg glucose IV"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1494-4",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1.5 hours post 100 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1496-9",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1.5 hours post 75 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "20440-4",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --1.5 hours post dose glucose"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "10450-5",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --10 hours fasting"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1554-5",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --12 hours fasting"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1514-9",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2 hours post 100 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "41024-1",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2 hours post 50 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1518-0",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2 hours post 75 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "20436-2",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2 hours post dose glucose"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "9375-7",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2.5 hours post 100 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "6749-6",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2.5 hours post 75 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "26554-6",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --2.5 hours post dose glucose"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1530-5",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --3 hours post 100 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "1533-9",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --3 hours post 75 g glucose PO"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "20437-0",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --3 hours post dose glucose"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "17865-7",
+        "display": "Glucose [Mass/volume] in Serum or Plasma --8 hours fasting"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "250417005",
+        "display": "Glucose concentration, test strip measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "88856000",
+        "display": "Glucose measurement, 2 hour post prandial"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33747003",
+        "display": "Glucose measurement, blood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104686004",
+        "display": "Glucose measurement, blood, test strip"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "52302001",
+        "display": "Glucose measurement, fasting"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "72191006",
+        "display": "Glucose measurement, plasma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "73128004",
+        "display": "Glucose measurement, random"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "22569008",
+        "display": "Glucose measurement, serum"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "82950",
+        "display": "Glucose; post glucose dose (includes glucose)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "82947",
+        "display": "Glucose; quantitative, blood (except reagent strip)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "82951",
+        "display": "Glucose; tolerance test (GTT), 3 specimens (includes glucose)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271063001",
+        "display": "Lunch time blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167097002",
+        "display": "Plasma 2-hr post-prandial glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167096006",
+        "display": "Plasma fasting glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167095005",
+        "display": "Plasma random glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "302788006",
+        "display": "Post-prandial blood glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "444127006",
+        "display": "Quantitative measurement of mass concentration of glucose in postcalorie fasting serum or plasma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443780009",
+        "display": "Quantitative measurement of glucose in serum or plasma specimen 120 minutes after 75 gram oral glucose challenge"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "444008003",
+        "display": "Quantitative measurement of glucose in serum or plasma specimen 6 hours after glucose challenge"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271061004",
+        "display": "Random blood glucose measurement"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "80069",
+        "display": "Renal function panel This panel must include the following: Albumin (82040) Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Phosphorus inorganic (phosphate) (84100) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "308113006",
+        "display": "Self-monitoring of blood glucose"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167088001",
+        "display": "Serum 2-hr post-prandial glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167087006",
+        "display": "Serum fasting glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167086002",
+        "display": "Serum random glucose measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271064007",
+        "display": "Supper time blood glucose measurement"
+      }
+    ]
+  }
+}

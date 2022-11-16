@@ -1,0 +1,4602 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33093",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:18:34.946-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1179",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1179"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Mental_Illness",
+  "title": "Mental Illness",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:46:48-04:00",
+    "total": 763,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "719600006",
+        "display": "1p21.3 microdeletion syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442314000",
+        "display": "Active but odd autism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191692007",
+        "display": "Active disintegrative psychoses"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191689008",
+        "display": "Active infantile autism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "766824003",
+        "display": "ADNP-related multiple congenital anomalies, intellectual disability, autism spectrum disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191548004",
+        "display": "Acute exacerbation of chronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191564007",
+        "display": "Acute exacerbation of chronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191555002",
+        "display": "Acute exacerbation of chronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191572009",
+        "display": "Acute exacerbation of chronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191531007",
+        "display": "Acute exacerbation of chronic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191547009",
+        "display": "Acute exacerbation of subchronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191563001",
+        "display": "Acute exacerbation of subchronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191554003",
+        "display": "Acute exacerbation of subchronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191571002",
+        "display": "Acute exacerbation of subchronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192038005",
+        "display": "Acute fugue state due to acute stress reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192037000",
+        "display": "Acute panic state due to acute stress reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192042008",
+        "display": "Acute post-trauma stress state"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "446175003",
+        "display": "Acute posttraumatic stress disorder following military combat"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268617001",
+        "display": "Acute schizophrenic episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192041001",
+        "display": "Acute situational disturbance"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "67195008",
+        "display": "Acute stress disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192039002",
+        "display": "Acute stupor state due to acute stress reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17226007",
+        "display": "Adjustment disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698701000",
+        "display": "Adjustment disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15977008",
+        "display": "Adjustment disorder with academic inhibition"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "47372000",
+        "display": "Adjustment disorder with anxious mood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698693004",
+        "display": "Adjustment disorder with anxious mood in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "57194009",
+        "display": "Adjustment disorder with depressed mood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698696007",
+        "display": "Adjustment disorder with depressed mood in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "84984002",
+        "display": "Adjustment disorder with disturbance of conduct"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "782501005",
+        "display": "Adjustment disorder with mixed anxiety and depressed mood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "66381006",
+        "display": "Adjustment disorder with mixed disturbance of emotions AND conduct"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698697003",
+        "display": "Adjustment disorder with mixed disturbance of emotions and conduct in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "55668003",
+        "display": "Adjustment disorder with mixed emotional features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18478005",
+        "display": "Adjustment disorder with physical complaints"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "9674006",
+        "display": "Adjustment disorder with withdrawal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "32880007",
+        "display": "Adjustment disorder with work inhibition"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386821008",
+        "display": "Adjustment reaction in infancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386822001",
+        "display": "Adjustment reaction of adolescence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386823006",
+        "display": "Adjustment reaction of adult life"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386824000",
+        "display": "Adjustment reaction of childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386825004",
+        "display": "Adjustment reaction of late life"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "425914008",
+        "display": "Adjustment reaction to medical therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192056005",
+        "display": "Adjustment reaction with aggression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192057001",
+        "display": "Adjustment reaction with antisocial behavior"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192058006",
+        "display": "Adjustment reaction with destructiveness"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192063005",
+        "display": "Adjustment reaction with physical symptoms"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231539006",
+        "display": "Adolescent - emotional problem"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192051000",
+        "display": "Adolescent emancipation disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724740006",
+        "display": "Adolescent onset conduct-dissocial disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724741005",
+        "display": "Adolescent onset conduct-dissocial disorder with limited prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724742003",
+        "display": "Adolescent onset conduct-dissocial disorder with normal prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192082001",
+        "display": "Aggressive unsocial conduct disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "7397008",
+        "display": "Aggressor identification syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191478006",
+        "display": "Alcoholic paranoia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "32358001",
+        "display": "Amphetamine delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26665006",
+        "display": "Antisocial personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698699000",
+        "display": "Antisocial personality disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "37868008",
+        "display": "Anxiety disorder of adolescence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "53467004",
+        "display": "Anxiety disorder of childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "109006",
+        "display": "Anxiety disorder of childhood OR adolescence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231528008",
+        "display": "Anxious personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "23560001",
+        "display": "Asperger's disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "406506008",
+        "display": "Attention deficit hyperactivity disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31177006",
+        "display": "Attention deficit hyperactivity disorder, combined type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "702815001",
+        "display": "Attention deficit hyperactivity disorder, inattentive presentation (restrictive)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "7461003",
+        "display": "Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698692009",
+        "display": "Attention deficit hyperactivity disorder, predominantly hyperactive impulsive type in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35253001",
+        "display": "Attention deficit hyperactivity disorder, predominantly inattentive type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698689005",
+        "display": "Attention deficit hyperactivity disorder, predominantly inattentive type in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "718393002",
+        "display": "Atypical Rett syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231536004",
+        "display": "Atypical autism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "722287002",
+        "display": "Autism and facial port-wine stain syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "771448004",
+        "display": "Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "771512003",
+        "display": "Autism spectrum disorder due to AUTS2 deficiency"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "733623005",
+        "display": "Autism spectrum disorder, epilepsy, arthrogryposis syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "408856003",
+        "display": "Autistic disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43614003",
+        "display": "Autistic disorder of childhood onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "373618009",
+        "display": "Autistic spectrum disorder with isolated skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "90790003",
+        "display": "Avoidant disorder of adolescence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "64165008",
+        "display": "Avoidant disorder of childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "37872007",
+        "display": "Avoidant disorder of childhood OR adolescence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "37746008",
+        "display": "Avoidant personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698690001",
+        "display": "Avoidant personality disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371596008",
+        "display": "Bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "29929003",
+        "display": "Bipolar I disorder, most recent episode depressed with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "21900002",
+        "display": "Bipolar I disorder, most recent episode depressed with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "75752004",
+        "display": "Bipolar I disorder, most recent episode depressed with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87203005",
+        "display": "Bipolar I disorder, most recent episode depressed with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767636002",
+        "display": "Bipolar I disorder, most recent episode depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31446002",
+        "display": "Bipolar I disorder, most recent episode hypomanic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767635003",
+        "display": "Bipolar I disorder, most recent episode manic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17782008",
+        "display": "Bipolar I disorder, most recent episode manic with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "55516002",
+        "display": "Bipolar I disorder, most recent episode manic with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "73471000",
+        "display": "Bipolar I disorder, most recent episode mixed with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "65042007",
+        "display": "Bipolar I disorder, most recent episode mixed with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "9340000",
+        "display": "Bipolar I disorder, single manic episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87950005",
+        "display": "Bipolar I disorder, single manic episode with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1499003",
+        "display": "Bipolar I disorder, single manic episode with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "3530005",
+        "display": "Bipolar I disorder, single manic episode, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78269000",
+        "display": "Bipolar I disorder, single manic episode, in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "75360000",
+        "display": "Bipolar I disorder, single manic episode, in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83225003",
+        "display": "Bipolar II disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "48937005",
+        "display": "Bipolar II disorder, most recent episode hypomanic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16295005",
+        "display": "Bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43568002",
+        "display": "Bipolar II disorder, most recent episode major depressive with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "22407005",
+        "display": "Bipolar II disorder, most recent episode major depressive with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "34315001",
+        "display": "Bipolar II disorder, most recent episode major depressive with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30687003",
+        "display": "Bipolar II disorder, most recent episode major depressive with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191627008",
+        "display": "Bipolar affective disorder, current episode depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191618007",
+        "display": "Bipolar affective disorder, current episode manic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192362008",
+        "display": "Bipolar affective disorder, current episode mixed"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191634005",
+        "display": "Bipolar affective disorder, currently depressed, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191629006",
+        "display": "Bipolar affective disorder, currently depressed, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191630001",
+        "display": "Bipolar affective disorder, currently depressed, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191625000",
+        "display": "Bipolar affective disorder, currently manic, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191620005",
+        "display": "Bipolar affective disorder, currently manic, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191621009",
+        "display": "Bipolar affective disorder, currently manic, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191623007",
+        "display": "Bipolar affective disorder, currently manic, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767633005",
+        "display": "Bipolar affective disorder, most recent episode mixed"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13746004",
+        "display": "Bipolar disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16238741000119105",
+        "display": "Bipolar disorder caused by drug"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "41836007",
+        "display": "Bipolar disorder in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5703000",
+        "display": "Bipolar disorder in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85248005",
+        "display": "Bipolar disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767631007",
+        "display": "Bipolar disorder, most recent episode depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767632000",
+        "display": "Bipolar disorder, most recent episode manic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723903001",
+        "display": "Bipolar type I disorder currently in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723905008",
+        "display": "Bipolar type II disorder currently in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20010003",
+        "display": "Borderline personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698700004",
+        "display": "Borderline personality disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "274952002",
+        "display": "Borderline schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192046006",
+        "display": "Brief depressive adjustment reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5464005",
+        "display": "Brief reactive psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63649001",
+        "display": "Cannabis delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "300979000",
+        "display": "Caregiver stress syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191542003",
+        "display": "Catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111483008",
+        "display": "Catatonic schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191577003",
+        "display": "Cenesthopathic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192073007",
+        "display": "Change in personality"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192127007",
+        "display": "Child attention deficit disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268669006",
+        "display": "Childhood and adolescent disturbance with elective mutism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268668003",
+        "display": "Childhood and adolescent disturbance with introversion"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268666004",
+        "display": "Childhood and adolescent disturbance with sensitivity"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268667008",
+        "display": "Childhood and adolescent disturbance with shyness"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192110004",
+        "display": "Childhood and adolescent fearfulness disturbance"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "270905000",
+        "display": "Childhood disinhibited attachment disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71961003",
+        "display": "Childhood disintegrative disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192099000",
+        "display": "Childhood disorder of conduct and emotion"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268664001",
+        "display": "Childhood emotional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "762347009",
+        "display": "Childhood onset conduct-dissocial disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724738001",
+        "display": "Childhood onset conduct-dissocial disorder with limited prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724739009",
+        "display": "Childhood onset conduct-dissocial disorder with normal prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192616009",
+        "display": "Childhood or adolescent disorder of social functioning"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192611004",
+        "display": "Childhood phobic anxiety disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "51637008",
+        "display": "Chronic bipolar I disorder, most recent episode depressed"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1196001",
+        "display": "Chronic bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68995007",
+        "display": "Chronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192080009",
+        "display": "Chronic depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442057004",
+        "display": "Chronic depressive personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "12939007",
+        "display": "Chronic disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35218008",
+        "display": "Chronic disorganized schizophrenia with acute exacerbation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442245003",
+        "display": "Chronic hypomanic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191562006",
+        "display": "Chronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14183003",
+        "display": "Chronic major depressive disorder, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "288511000119108",
+        "display": "Chronic mood disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268622001",
+        "display": "Chronic paranoid psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31658008",
+        "display": "Chronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313182004",
+        "display": "Chronic post-traumatic stress disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "699241002",
+        "display": "Chronic post-traumatic stress disorder following military combat"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2618002",
+        "display": "Chronic recurrent major depressive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71103003",
+        "display": "Chronic residual schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30336007",
+        "display": "Chronic residual schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191570001",
+        "display": "Chronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83746006",
+        "display": "Chronic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "29599000",
+        "display": "Chronic undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79204003",
+        "display": "Chronic undifferentiated schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16805009",
+        "display": "Cluster A personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "4306003",
+        "display": "Cluster B personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83890006",
+        "display": "Cluster C personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30491001",
+        "display": "Cocaine delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "61157009",
+        "display": "Combat fatigue"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33693007",
+        "display": "Compensation neurosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443919007",
+        "display": "Complex posttraumatic stress disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18085000",
+        "display": "Compulsive gambling"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191737008",
+        "display": "Compulsive neurosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "473456000",
+        "display": "Compulsive personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192061007",
+        "display": "Concentration camp syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "430909002",
+        "display": "Conduct disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231540008",
+        "display": "Conduct disorder - in family context"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231541007",
+        "display": "Conduct disorder - unsocialized"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698947004",
+        "display": "Conduct disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "48826008",
+        "display": "Conduct disorder, adolescent-onset type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17961008",
+        "display": "Conduct disorder, childhood-onset type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "66307007",
+        "display": "Conduct disorder, group type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "74850006",
+        "display": "Conduct disorder, solitary aggressive type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "61901004",
+        "display": "Conduct disorder, undifferentiated type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231864002",
+        "display": "Factitious conjunctivitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192054008",
+        "display": "Culture shock"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403590001",
+        "display": "Cutaneous Munchausen syndrome by proxy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238972008",
+        "display": "Cutaneous monosymptomatic delusional psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76105009",
+        "display": "Cyclothymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698946008",
+        "display": "Cyclothymia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "229715008",
+        "display": "Deficits in attention motor control and perception"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "446180007",
+        "display": "Delayed posttraumatic stress disorder following military combat"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238975005",
+        "display": "Delusion of foul odor"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "129604005",
+        "display": "Delusion of heart disease syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "48500005",
+        "display": "Delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723901004",
+        "display": "Delusional disorder currently in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723900003",
+        "display": "Delusional disorder currently in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723899008",
+        "display": "Delusional disorder currently symptomatic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "698951002",
+        "display": "Delusional disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "60123008",
+        "display": "Delusional disorder, mixed type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "278508007",
+        "display": "Delusional dysmorphophobia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238977002",
+        "display": "Delusional hyperhidrosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238974009",
+        "display": "Delusions of infestation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238973003",
+        "display": "Delusions of parasitosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "84466009",
+        "display": "Dependent personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "49468007",
+        "display": "Depressed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "22121000",
+        "display": "Depressed bipolar I disorder in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "49512000",
+        "display": "Depressed bipolar I disorder in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "53607008",
+        "display": "Depressed bipolar I disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231542000",
+        "display": "Depressive conduct disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "27720003",
+        "display": "Dermatitis factitia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "770790004",
+        "display": "Developmental delay with autism spectrum disorder and gait instability"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35252006",
+        "display": "Disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31373002",
+        "display": "Disorganized schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "715924009",
+        "display": "Disruptive mood dysregulation disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "280943007",
+        "display": "Dissociative confusion"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191714002",
+        "display": "Dissociative convulsions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "44376007",
+        "display": "Dissociative disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276297003",
+        "display": "Dissociative possession disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276296007",
+        "display": "Dissociative trance"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192108001",
+        "display": "Disturbance of anxiety and fearfulness in childhood and adolescence"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "427975003",
+        "display": "Drug-induced delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191496002",
+        "display": "Drug-induced personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78667006",
+        "display": "Dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192052007",
+        "display": "Early adult emancipation disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2506003",
+        "display": "Early onset dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191772006",
+        "display": "Eccentric personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192527004",
+        "display": "Elaboration of physical symptoms for psychological reasons"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71959007",
+        "display": "Elective mutism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192064004",
+        "display": "Elective mutism due to an adjustment reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191765005",
+        "display": "Emotionally unstable personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "274948002",
+        "display": "Endogenous depression - recurrent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "280949006",
+        "display": "Erotomania"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14144000",
+        "display": "Erotomanic delusion disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231527003",
+        "display": "Explosive personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "88845000",
+        "display": "Explosive type organic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "702450004",
+        "display": "FOXG1 syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "233690008",
+        "display": "Factitious asthma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403578003",
+        "display": "Factitious blistering"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "109805003",
+        "display": "Factitious cheilitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "50705009",
+        "display": "Factitious disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "24315006",
+        "display": "Factitious disorder with combined physical AND psychological symptoms"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "430744005",
+        "display": "Factitious disorder with predominantly physical signs and symptoms"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "430751001",
+        "display": "Factitious disorder with predominantly psychological signs and symptoms"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16966009",
+        "display": "Factitious hypoglycemia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "417294004",
+        "display": "Factitious keratitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403579006",
+        "display": "Factitious lymphedema"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10278007",
+        "display": "Factitious purpura"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231526007",
+        "display": "Fanatic personality"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "129606007",
+        "display": "Frontal lobe syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735549008",
+        "display": "Gambling disorder predominantly offline"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735550008",
+        "display": "Gambling disorder predominantly online"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76129002",
+        "display": "Ganser syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87842000",
+        "display": "Generalized neuromuscular exhaustion syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "47447001",
+        "display": "Grandiose delusion disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192092009",
+        "display": "Group delinquency"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "50933003",
+        "display": "Hallucinogen delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "702732007",
+        "display": "High-functioning autism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "55341008",
+        "display": "Histrionic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192065003",
+        "display": "Hospitalism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192131001",
+        "display": "Hyperkinesis with developmental delay"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192132008",
+        "display": "Hyperkinetic conduct disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238978007",
+        "display": "Hyperschemazia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191753006",
+        "display": "Hypomanic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "238979004",
+        "display": "Hyposchemazia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1740001000004102",
+        "display": "Iatrogenic thyrotoxicosis factitia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191773001",
+        "display": "Immature personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "66347000",
+        "display": "Impulse control disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "61831009",
+        "display": "Induced psychotic disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "408857007",
+        "display": "Infantile autism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40987004",
+        "display": "Intermittent explosive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268633003",
+        "display": "Introverted personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "278506006",
+        "display": "Involutional paranoid state"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38295006",
+        "display": "Involutional paraphrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723332005",
+        "display": "Isodicentric chromosome 15 syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192097003",
+        "display": "Isolated explosive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "77475008",
+        "display": "Jealous delusion disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69361009",
+        "display": "Kleptomania"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19694002",
+        "display": "Late onset dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416340002",
+        "display": "Late onset schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191559008",
+        "display": "Latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191565008",
+        "display": "Latent schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441833000",
+        "display": "Lethal catatonia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231452004",
+        "display": "Limbic epilepsy personality syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231453009",
+        "display": "Lobotomy syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "783089006",
+        "display": "Macrocephaly, intellectual disability, autism syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63412003",
+        "display": "Major depression in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30605009",
+        "display": "Major depression in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "42810003",
+        "display": "Major depression in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "70747007",
+        "display": "Major depression single episode, in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "726772006",
+        "display": "Major depression with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "320751009",
+        "display": "Major depression, melancholic type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36923009",
+        "display": "Major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "370143000",
+        "display": "Major depressive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10811121000119102",
+        "display": "Major depressive disorder in mother complicating childbirth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10811161000119107",
+        "display": "Major depressive disorder in mother complicating pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "42925002",
+        "display": "Major depressive disorder, single episode with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69392006",
+        "display": "Major depressive disorder, single episode with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63778009",
+        "display": "Major depressive disorder, single episode with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "25922000",
+        "display": "Major depressive disorder, single episode with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68569003",
+        "display": "Manic bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30935000",
+        "display": "Manic bipolar I disorder in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63249007",
+        "display": "Manic bipolar I disorder in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "45479006",
+        "display": "Manic bipolar I disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268619003",
+        "display": "Manic disorder, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231525006",
+        "display": "Manipulative personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191774007",
+        "display": "Masochistic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "41552001",
+        "display": "Mild bipolar I disorder, single manic episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71294008",
+        "display": "Mild bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13313007",
+        "display": "Mild bipolar disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "74686005",
+        "display": "Mild depressed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87512008",
+        "display": "Mild major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79298009",
+        "display": "Mild major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16265951000119109",
+        "display": "Mild major depressive disorder co-occurrent with anxiety single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71984005",
+        "display": "Mild manic bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43769008",
+        "display": "Mild mixed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "237351003",
+        "display": "Mild postnatal psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40379007",
+        "display": "Mild recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "720455008",
+        "display": "Minimal major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "720454007",
+        "display": "Minimal major depression single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "720451004",
+        "display": "Minimal recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16506000",
+        "display": "Mixed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111485001",
+        "display": "Mixed bipolar I disorder in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36583000",
+        "display": "Mixed bipolar I disorder in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35481005",
+        "display": "Mixed bipolar I disorder in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191636007",
+        "display": "Mixed bipolar affective disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191643001",
+        "display": "Mixed bipolar affective disorder, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191638008",
+        "display": "Mixed bipolar affective disorder, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191639000",
+        "display": "Mixed bipolar affective disorder, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191641004",
+        "display": "Mixed bipolar affective disorder, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28884001",
+        "display": "Moderate bipolar I disorder, single manic episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35846004",
+        "display": "Moderate bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79584002",
+        "display": "Moderate bipolar disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "66631006",
+        "display": "Moderate depressed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "832007",
+        "display": "Moderate major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15639000",
+        "display": "Moderate major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16266831000119100",
+        "display": "Moderate major depressive disorder co-occurrent with anxiety single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "82998009",
+        "display": "Moderate manic bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40926005",
+        "display": "Moderate mixed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18818009",
+        "display": "Moderate recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "719592004",
+        "display": "Moderately severe major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "720453001",
+        "display": "Moderately severe major depression single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "720452006",
+        "display": "Moderately severe recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46206005",
+        "display": "Mood disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "162313000",
+        "display": "Morbid jealousy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31611000",
+        "display": "Multiple personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "95637005",
+        "display": "Munchausen's by proxy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "21586000",
+        "display": "Munchausen's syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "80711002",
+        "display": "Narcissistic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192100008",
+        "display": "Neurotic delinquency"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268661009",
+        "display": "Nonaggressive unsocial conduct disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18573003",
+        "display": "Obsessional erotomania"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191738003",
+        "display": "Obsessional neurosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "473457009",
+        "display": "Obsessional personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724693000",
+        "display": "Obsessive compulsive disorder caused by cocaine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724730008",
+        "display": "Obsessive compulsive disorder caused by psychoactive substance"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "762332000",
+        "display": "Obsessive compulsive disorder caused by stimulant"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "762516004",
+        "display": "Obsessive compulsive disorder caused by synthetic cathinone"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1376001",
+        "display": "Obsessive compulsive personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191736004",
+        "display": "Obsessive-compulsive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723913009",
+        "display": "Olfactory reference disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18941000",
+        "display": "Oppositional defiant disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724733005",
+        "display": "Oppositional defiant disorder co-occurrent with chronic irritability-anger"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724734004",
+        "display": "Oppositional defiant disorder co-occurrent with chronic irritability-anger with normal prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724735003",
+        "display": "Oppositional defiant disorder without chronic irritability-anger"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724736002",
+        "display": "Oppositional defiant disorder without chronic irritability-anger with limited prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724737006",
+        "display": "Oppositional defiant disorder without chronic irritability-anger with normal prosocial emotions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231444002",
+        "display": "Organic bipolar disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5510009",
+        "display": "Organic delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36217008",
+        "display": "Organic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231454003",
+        "display": "Organic pseudopsychopathic personality"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231455002",
+        "display": "Organic pseudoretarded personality"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13438001",
+        "display": "Overanxious disorder of childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191672000",
+        "display": "Paranoia querulans"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191667009",
+        "display": "Paranoid disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13601005",
+        "display": "Paranoid personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "64905009",
+        "display": "Paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63181006",
+        "display": "Paranoid schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26472000",
+        "display": "Paraphrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "44966003",
+        "display": "Passive aggressive personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "712884004",
+        "display": "Pathological demand avoidance"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "89618007",
+        "display": "Persecutory delusion disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "789399002",
+        "display": "Persistent adjustment disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231487004",
+        "display": "Persistent delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1153575004",
+        "display": "Persistent depressive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33449004",
+        "display": "Personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35919005",
+        "display": "Autism spectrum disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "39951000119105",
+        "display": "Pervasive developmental disorder of residual state"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870307006",
+        "display": "Pervasive developmental disorder with abscence of functional language"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870308001",
+        "display": "Pervasive developmental disorder with cognitive developmental delay and complete impairment of functional language"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870305003",
+        "display": "Pervasive developmental disorder with cognitive developmental delay and marked impairment of functional language"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870306002",
+        "display": "Pervasive developmental disorder with complete impairment of functional language"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870303005",
+        "display": "Pervasive developmental disorder with complete impairment of functional language with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870304004",
+        "display": "Pervasive developmental disorder with complete impairment of functional language without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870269009",
+        "display": "Pervasive developmental disorder with disorder of intellectual development and absence of functional language with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870270005",
+        "display": "Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870268001",
+        "display": "Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870266002",
+        "display": "Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870267006",
+        "display": "Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870264004",
+        "display": "Pervasive developmental disorder with disorder of intellectual development and pervasive impairment of functional language without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870265003",
+        "display": "Pervasive developmental disorder with disorder of intellectual development with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870262000",
+        "display": "Pervasive developmental disorder with disorder of intellectual development without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870263005",
+        "display": "Pervasive developmental disorder with impairment of functional language"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870260008",
+        "display": "Pervasive developmental disorder with marked impairment of functional language with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870261007",
+        "display": "Pervasive developmental disorder with marked impairment of functional language without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870280009",
+        "display": "Pervasive developmental disorder with severe impairment of functional language with loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "870282001",
+        "display": "Pervasive developmental disorder with severe impairment of functional language without loss of previously acquired skills"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "50722006",
+        "display": "PCP delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "21831000119109",
+        "display": "Phencyclidine psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "403595006",
+        "display": "Pinocchio syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231530005",
+        "display": "Post-concussional personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231456001",
+        "display": "Postleucotomy syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104851000119103",
+        "display": "Postpartum major depression in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18260003",
+        "display": "Postpartum psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "60401000119104",
+        "display": "Postpartum psychosis in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "47505003",
+        "display": "Posttraumatic stress disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "318784009",
+        "display": "Posttraumatic stress disorder, delayed onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31081000119101",
+        "display": "Presenile dementia with delusions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "54502004",
+        "display": "Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "55009008",
+        "display": "Primary degenerative dementia of the Alzheimer type, senile onset, with delusions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83176005",
+        "display": "Primary dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38451003",
+        "display": "Primary dysthymia early onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "67711008",
+        "display": "Primary dysthymia late onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192049004",
+        "display": "Prolonged depressive adjustment reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "32552001",
+        "display": "Psychoactive substance-induced organic delusional disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46721000",
+        "display": "Psychoactive substance-induced organic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "7031000119100",
+        "display": "Psychogenic fugue co-occurrent and due to stress reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192014006",
+        "display": "Psychogenic rumination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191766006",
+        "display": "Psychoinfantile personality"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268634009",
+        "display": "Psychoneurotic personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "765176007",
+        "display": "Psychosis and severe depression co-occurrent and due to bipolar affective disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69322001",
+        "display": "Psychotic disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724675001",
+        "display": "Psychotic disorder caused by anxiolytic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724718002",
+        "display": "Psychotic disorder caused by dissociative drug"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724674002",
+        "display": "Psychotic disorder caused by hypnotic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724719005",
+        "display": "Psychotic disorder caused by ketamine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724706006",
+        "display": "Psychotic disorder caused by methylenedioxymethamphetamine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "724673008",
+        "display": "Psychotic disorder caused by sedative"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "762327001",
+        "display": "Psychotic disorder with delusions caused by stimulant"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "762509000",
+        "display": "Psychotic disorder with delusions caused by synthetic cathinone"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "600009",
+        "display": "Pyromania"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133091000119105",
+        "display": "Rapid cycling bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "789061003",
+        "display": "Rapid cycling bipolar II disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "44124003",
+        "display": "Reactive attachment disorder of early childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111477005",
+        "display": "Reactive attachment disorder of infancy OR early childhood, disinhibited type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2312009",
+        "display": "Reactive attachment disorder of infancy OR early childhood, inhibited type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40568001",
+        "display": "Recurrent brief depressive disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191616006",
+        "display": "Recurrent depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "66344007",
+        "display": "Recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46244001",
+        "display": "Recurrent major depression in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33135002",
+        "display": "Recurrent major depression in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68019004",
+        "display": "Recurrent major depression in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16265061000119105",
+        "display": "Recurrent major depressive disorder co-occurrent with anxiety in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16265301000119106",
+        "display": "Recurrent major depressive disorder in partial remission co-occurrent with anxiety"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38694004",
+        "display": "Recurrent major depressive disorder with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "39809009",
+        "display": "Recurrent major depressive disorder with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "319768000",
+        "display": "Recurrent major depressive disorder with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71336009",
+        "display": "Recurrent major depressive disorder with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268621008",
+        "display": "Recurrent major depressive episodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191610000",
+        "display": "Recurrent major depressive episodes, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191611001",
+        "display": "Recurrent major depressive episodes, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191613003",
+        "display": "Recurrent major depressive episodes, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191590005",
+        "display": "Recurrent manic episodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "153071000119108",
+        "display": "Recurrent manic episodes in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191597008",
+        "display": "Recurrent manic episodes, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191592002",
+        "display": "Recurrent manic episodes, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191593007",
+        "display": "Recurrent manic episodes, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191595000",
+        "display": "Recurrent manic episodes, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16264621000119109",
+        "display": "Recurrent mild major depressive disorder co-occurrent with anxiety"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16264901000119109",
+        "display": "Recurrent moderate major depressive disorder co-occurrent with anxiety"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16264821000119108",
+        "display": "Recurrent severe major depressive disorder co-occurrent with anxiety"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "22981000119106",
+        "display": "Recurrent severe manic episodes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "708037001",
+        "display": "Residual Asperger's disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191693002",
+        "display": "Residual disintegrative psychoses"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191690004",
+        "display": "Residual infantile autism"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26025008",
+        "display": "Residual schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "51133006",
+        "display": "Residual schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68618008",
+        "display": "Rett's disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "432091002",
+        "display": "Savant syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68890003",
+        "display": "Schizoaffective disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38368003",
+        "display": "Schizoaffective disorder, bipolar type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "84760002",
+        "display": "Schizoaffective disorder, depressive type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271428004",
+        "display": "Schizoaffective disorder, manic type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "270901009",
+        "display": "Schizoaffective disorder, mixed type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191567000",
+        "display": "Schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191574005",
+        "display": "Schizoaffective schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "52954000",
+        "display": "Schizoid personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "58214004",
+        "display": "Schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "4926007",
+        "display": "Schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191526005",
+        "display": "Schizophrenic disorders"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "247804008",
+        "display": "Schizophrenic prodrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31027006",
+        "display": "Schizotypal personality disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "247803002",
+        "display": "Seasonal affective disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85080004",
+        "display": "Secondary dysthymia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "3109008",
+        "display": "Secondary dysthymia early onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36170009",
+        "display": "Secondary dysthymia late onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "737225007",
+        "display": "Secondary psychotic syndrome with hallucinations and delusions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1973000",
+        "display": "Sedative, hypnotic AND/OR anxiolytic-induced psychotic disorder with delusions"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "230455006",
+        "display": "Self-induced non-photosensitive epilepsy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371024007",
+        "display": "Senile dementia with delusion"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "11806006",
+        "display": "Separation anxiety disorder of childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85061001",
+        "display": "Separation anxiety disorder of childhood, early onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371599001",
+        "display": "Severe bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "41832009",
+        "display": "Severe bipolar I disorder, single manic episode with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13581000",
+        "display": "Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "86058007",
+        "display": "Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14495005",
+        "display": "Severe bipolar I disorder, single manic episode without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371604007",
+        "display": "Severe bipolar II disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30520009",
+        "display": "Severe bipolar II disorder, most recent episode major depressive with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19300006",
+        "display": "Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20960007",
+        "display": "Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "81319007",
+        "display": "Severe bipolar II disorder, most recent episode major depressive without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "12969000",
+        "display": "Severe bipolar II disorder, most recent episode major depressive, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "67002003",
+        "display": "Severe bipolar II disorder, most recent episode major depressive, in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35722002",
+        "display": "Severe bipolar II disorder, most recent episode major depressive, in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371600003",
+        "display": "Severe bipolar disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "4441000",
+        "display": "Severe bipolar disorder with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "70546001",
+        "display": "Severe bipolar disorder with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26530004",
+        "display": "Severe bipolar disorder with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "53049002",
+        "display": "Severe bipolar disorder without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "261000119107",
+        "display": "Severe depressed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "59617007",
+        "display": "Severe depressed bipolar I disorder with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "54761006",
+        "display": "Severe depressed bipolar I disorder with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26203008",
+        "display": "Severe depressed bipolar I disorder with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "61403008",
+        "display": "Severe depressed bipolar I disorder without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "450714000",
+        "display": "Severe major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "73867007",
+        "display": "Severe major depression with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33736005",
+        "display": "Severe major depression with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "60099002",
+        "display": "Severe major depression with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "75084000",
+        "display": "Severe major depression without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "251000119105",
+        "display": "Severe major depression, single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "430852001",
+        "display": "Severe major depression, single episode, with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "77911002",
+        "display": "Severe major depression, single episode, with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20250007",
+        "display": "Severe major depression, single episode, with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76441001",
+        "display": "Severe major depression, single episode, without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16266991000119108",
+        "display": "Severe major depressive disorder co-occurrent with anxiety single episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "23741000119105",
+        "display": "Severe manic bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28663008",
+        "display": "Severe manic bipolar I disorder with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78640000",
+        "display": "Severe manic bipolar I disorder with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33380008",
+        "display": "Severe manic bipolar I disorder with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "162004",
+        "display": "Severe manic bipolar I disorder without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271000119101",
+        "display": "Severe mixed bipolar I disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10981006",
+        "display": "Severe mixed bipolar I disorder with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "64731001",
+        "display": "Severe mixed bipolar I disorder with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10875004",
+        "display": "Severe mixed bipolar I disorder with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46229002",
+        "display": "Severe mixed bipolar I disorder without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "237352005",
+        "display": "Severe postnatal psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "281000119103",
+        "display": "Severe recurrent major depression"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28475009",
+        "display": "Severe recurrent major depression with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33078009",
+        "display": "Severe recurrent major depression with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15193003",
+        "display": "Severe recurrent major depression with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36474008",
+        "display": "Severe recurrent major depression without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133121000119109",
+        "display": "Severe seasonal affective disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2815001",
+        "display": "Sexual pyromania"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191670008",
+        "display": "Shared paranoid disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "279611005",
+        "display": "Shell shock"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83253003",
+        "display": "Shyness disorder of childhood"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192119003",
+        "display": "Sibling jealousy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191668004",
+        "display": "Simple paranoid state"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191527001",
+        "display": "Simple schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19527009",
+        "display": "Single episode of major depression in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191604000",
+        "display": "Single major depressive episode, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191588009",
+        "display": "Single manic episode in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191583000",
+        "display": "Single manic episode, mild"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191584006",
+        "display": "Single manic episode, moderate"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191586008",
+        "display": "Single manic episode, severe, with psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386820009",
+        "display": "Socialized behavior disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "33323008",
+        "display": "Somatic delusion disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268658008",
+        "display": "Specific academic or work inhibition"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "275473003",
+        "display": "Specific work inhibition"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "317816007",
+        "display": "Stockholm syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271952001",
+        "display": "Stress and adjustment reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192044009",
+        "display": "Stress reaction causing mixed disturbance of emotion and conduct"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "92501000119101",
+        "display": "Stress reaction with psychomotor agitation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "162218007",
+        "display": "Stress-related problem"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "42868002",
+        "display": "Subchronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "27387000",
+        "display": "Subchronic disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14291003",
+        "display": "Subchronic disorganized schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191561004",
+        "display": "Subchronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79866005",
+        "display": "Subchronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76566000",
+        "display": "Subchronic residual schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "70814008",
+        "display": "Subchronic residual schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191569002",
+        "display": "Subchronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16990005",
+        "display": "Subchronic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111482003",
+        "display": "Subchronic schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85861002",
+        "display": "Subchronic undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "7025000",
+        "display": "Subchronic undifferentiated schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "4997005",
+        "display": "Thyrotoxicosis factitia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "88740003",
+        "display": "Thyrotoxicosis factitia with thyrotoxic crisis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "368361000119108",
+        "display": "Thyrotoxicosis factitia without thyrotoxic crisis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17155009",
+        "display": "Trichotillomania"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "23148009",
+        "display": "Undifferentiated attention deficit disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111484002",
+        "display": "Undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "39610001",
+        "display": "Undifferentiated schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268662002",
+        "display": "Unsocial childhood truancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "702356009",
+        "display": "PPM-X syndrome"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.0",
+        "display": "Paranoid schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.1",
+        "display": "Disorganized schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.2",
+        "display": "Catatonic schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.3",
+        "display": "Undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.5",
+        "display": "Residual schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.81",
+        "display": "Schizophreniform disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.89",
+        "display": "Other schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.9",
+        "display": "Schizophrenia, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F21",
+        "display": "Schizotypal disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F22",
+        "display": "Delusional disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F23",
+        "display": "Brief psychotic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F24",
+        "display": "Shared psychotic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.0",
+        "display": "Schizoaffective disorder, bipolar type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.1",
+        "display": "Schizoaffective disorder, depressive type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.8",
+        "display": "Other schizoaffective disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.9",
+        "display": "Schizoaffective disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F28",
+        "display": "Other psychotic disorder not due to a substance or known physiological condition"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F29",
+        "display": "Unspecified psychosis not due to a substance or known physiological condition"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.10",
+        "display": "Manic episode without psychotic symptoms, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.11",
+        "display": "Manic episode without psychotic symptoms, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.12",
+        "display": "Manic episode without psychotic symptoms, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.13",
+        "display": "Manic episode, severe, without psychotic symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.2",
+        "display": "Manic episode, severe with psychotic symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.3",
+        "display": "Manic episode in partial remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.4",
+        "display": "Manic episode in full remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.8",
+        "display": "Other manic episodes"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F30.9",
+        "display": "Manic episode, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.0",
+        "display": "Bipolar disorder, current episode hypomanic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.10",
+        "display": "Bipolar disorder, current episode manic without psychotic features, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.11",
+        "display": "Bipolar disorder, current episode manic without psychotic features, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.12",
+        "display": "Bipolar disorder, current episode manic without psychotic features, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.13",
+        "display": "Bipolar disorder, current episode manic without psychotic features, severe"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.2",
+        "display": "Bipolar disorder, current episode manic severe with psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.30",
+        "display": "Bipolar disorder, current episode depressed, mild or moderate severity, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.31",
+        "display": "Bipolar disorder, current episode depressed, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.32",
+        "display": "Bipolar disorder, current episode depressed, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.4",
+        "display": "Bipolar disorder, current episode depressed, severe, without psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.5",
+        "display": "Bipolar disorder, current episode depressed, severe, with psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.60",
+        "display": "Bipolar disorder, current episode mixed, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.61",
+        "display": "Bipolar disorder, current episode mixed, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.62",
+        "display": "Bipolar disorder, current episode mixed, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.63",
+        "display": "Bipolar disorder, current episode mixed, severe, without psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.64",
+        "display": "Bipolar disorder, current episode mixed, severe, with psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.70",
+        "display": "Bipolar disorder, currently in remission, most recent episode unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.71",
+        "display": "Bipolar disorder, in partial remission, most recent episode hypomanic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.72",
+        "display": "Bipolar disorder, in full remission, most recent episode hypomanic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.73",
+        "display": "Bipolar disorder, in partial remission, most recent episode manic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.74",
+        "display": "Bipolar disorder, in full remission, most recent episode manic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.75",
+        "display": "Bipolar disorder, in partial remission, most recent episode depressed"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.76",
+        "display": "Bipolar disorder, in full remission, most recent episode depressed"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.77",
+        "display": "Bipolar disorder, in partial remission, most recent episode mixed"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.78",
+        "display": "Bipolar disorder, in full remission, most recent episode mixed"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.81",
+        "display": "Bipolar II disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.89",
+        "display": "Other bipolar disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.0",
+        "display": "Major depressive disorder, single episode, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.1",
+        "display": "Major depressive disorder, single episode, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.2",
+        "display": "Major depressive disorder, single episode, severe without psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.3",
+        "display": "Major depressive disorder, single episode, severe with psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.4",
+        "display": "Major depressive disorder, single episode, in partial remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.5",
+        "display": "Major depressive disorder, single episode, in full remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.81",
+        "display": "Premenstrual dysphoric disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.89",
+        "display": "Other specified depressive episodes"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.8",
+        "display": "Other depressive episodes"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.9",
+        "display": "Major depressive disorder, single episode, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F32.A",
+        "display": "Depression, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.0",
+        "display": "Major depressive disorder, recurrent, mild"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.1",
+        "display": "Major depressive disorder, recurrent, moderate"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.2",
+        "display": "Major depressive disorder, recurrent severe without psychotic features"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.3",
+        "display": "Major depressive disorder, recurrent, severe with psychotic symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.40",
+        "display": "Major depressive disorder, recurrent, in remission, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.41",
+        "display": "Major depressive disorder, recurrent, in partial remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.42",
+        "display": "Major depressive disorder, recurrent, in full remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.8",
+        "display": "Other recurrent depressive disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F33.9",
+        "display": "Major depressive disorder, recurrent, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.0",
+        "display": "Cyclothymic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.1",
+        "display": "Dysthymic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.81",
+        "display": "Disruptive mood dysregulation disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.89",
+        "display": "Other specified persistent mood disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.8",
+        "display": "Other persistent mood [affective] disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F34.9",
+        "display": "Persistent mood [affective] disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F39",
+        "display": "Unspecified mood [affective] disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F42.2",
+        "display": "Mixed obsessional thoughts and acts"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F42.3",
+        "display": "Hoarding disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F42.4",
+        "display": "Excoriation (skin-picking) disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F42.8",
+        "display": "Other obsessive-compulsive disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F42.9",
+        "display": "Obsessive-compulsive disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F42",
+        "display": "Obsessive-compulsive disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.0",
+        "display": "Acute stress reaction"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.10",
+        "display": "Post-traumatic stress disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.11",
+        "display": "Post-traumatic stress disorder, acute"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.12",
+        "display": "Post-traumatic stress disorder, chronic"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.20",
+        "display": "Adjustment disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.21",
+        "display": "Adjustment disorder with depressed mood"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.22",
+        "display": "Adjustment disorder with anxiety"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.23",
+        "display": "Adjustment disorder with mixed anxiety and depressed mood"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.24",
+        "display": "Adjustment disorder with disturbance of conduct"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.25",
+        "display": "Adjustment disorder with mixed disturbance of emotions and conduct"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.29",
+        "display": "Adjustment disorder with other symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.8",
+        "display": "Other reactions to severe stress"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F43.9",
+        "display": "Reaction to severe stress, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F44.89",
+        "display": "Other dissociative and conversion disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F53.0",
+        "display": "Postpartum depression"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F53.1",
+        "display": "Puerperal psychosis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F53",
+        "display": "Mental and behavioral disorders associated with the puerperium, not elsewhere classified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.0",
+        "display": "Paranoid personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.1",
+        "display": "Schizoid personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.2",
+        "display": "Antisocial personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.3",
+        "display": "Borderline personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.4",
+        "display": "Histrionic personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.5",
+        "display": "Obsessive-compulsive personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.6",
+        "display": "Avoidant personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.7",
+        "display": "Dependent personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.81",
+        "display": "Narcissistic personality disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.89",
+        "display": "Other specific personality disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F60.9",
+        "display": "Personality disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.0",
+        "display": "Pathological gambling"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.1",
+        "display": "Pyromania"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.2",
+        "display": "Kleptomania"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.3",
+        "display": "Trichotillomania"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.81",
+        "display": "Intermittent explosive disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.89",
+        "display": "Other impulse disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F63.9",
+        "display": "Impulse disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.10",
+        "display": "Factitious disorder imposed on self, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.11",
+        "display": "Factitious disorder imposed on self, with predominantly psychological signs and symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.12",
+        "display": "Factitious disorder imposed on self, with predominantly physical signs and symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.13",
+        "display": "Factitious disorder imposed on self, with combined psychological and physical signs and symptoms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.8",
+        "display": "Other specified disorders of adult personality and behavior"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F68.A",
+        "display": "Factitious disorder imposed on another"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F84.0",
+        "display": "Autistic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F84.2",
+        "display": "Rett's syndrome"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F84.3",
+        "display": "Other childhood disintegrative disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F84.5",
+        "display": "Asperger's syndrome"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F84.8",
+        "display": "Other pervasive developmental disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F84.9",
+        "display": "Pervasive developmental disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F90.0",
+        "display": "Attention-deficit hyperactivity disorder, predominantly inattentive type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F90.1",
+        "display": "Attention-deficit hyperactivity disorder, predominantly hyperactive type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F90.2",
+        "display": "Attention-deficit hyperactivity disorder, combined type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F90.8",
+        "display": "Attention-deficit hyperactivity disorder, other type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F90.9",
+        "display": "Attention-deficit hyperactivity disorder, unspecified type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F91.0",
+        "display": "Conduct disorder confined to family context"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F91.1",
+        "display": "Conduct disorder, childhood-onset type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F91.2",
+        "display": "Conduct disorder, adolescent-onset type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F91.3",
+        "display": "Oppositional defiant disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F91.8",
+        "display": "Other conduct disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F91.9",
+        "display": "Conduct disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F93.0",
+        "display": "Separation anxiety disorder of childhood"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F93.8",
+        "display": "Other childhood emotional disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F93.9",
+        "display": "Childhood emotional disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F94.0",
+        "display": "Selective mutism"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F94.1",
+        "display": "Reactive attachment disorder of childhood"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F94.2",
+        "display": "Disinhibited attachment disorder of childhood"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F94.8",
+        "display": "Other childhood disorders of social functioning"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F94.9",
+        "display": "Childhood disorder of social functioning, unspecified"
+      }
+    ]
+  }
+}

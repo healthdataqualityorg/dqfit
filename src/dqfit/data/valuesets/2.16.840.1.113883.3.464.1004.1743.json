@@ -1,0 +1,120 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33267",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:15:26.837-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1743",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1743"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cholesterol_Test_Result_or_Finding",
+  "title": "Cholesterol Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:44-04:00",
+    "total": 16,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "439953004",
+        "display": "Elevated cholesterol/high density lipoprotein ratio"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "365793008",
+        "display": "Cholesterol level - finding"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "365794002",
+        "display": "Serum cholesterol level - finding"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "365796000",
+        "display": "Serum triglyceride levels - finding"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "365795001",
+        "display": "Triglyceride level - finding"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "259557002",
+        "display": "High density lipoprotein triglyceride"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "67991000119104",
+        "display": "Serum cholesterol abnormal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442234001",
+        "display": "Serum cholesterol borderline high"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442350007",
+        "display": "Serum cholesterol borderline low"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166830008",
+        "display": "Serum cholesterol raised"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166831007",
+        "display": "Serum cholesterol very high"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442193004",
+        "display": "Serum triglycerides borderline high"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442480001",
+        "display": "Serum triglycerides borderline low"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166848004",
+        "display": "Serum triglycerides raised"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "707122004",
+        "display": "Triglyceride in high density lipoprotein subfraction 2"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "707123009",
+        "display": "Triglyceride in high density lipoprotein subfraction 3"
+      }
+    ]
+  }
+}

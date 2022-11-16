@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33075",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:53:38.131-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1918",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1918"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Herpes_Zoster_Recombinant_Vaccine_Procedure",
+  "title": "Herpes Zoster Recombinant Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:56-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90750",
+        "display": "Zoster (shingles) vaccine (HZV), recombinant, subunit, adjuvanted, for intramuscular use"
+      }
+    ]
+  }
+}

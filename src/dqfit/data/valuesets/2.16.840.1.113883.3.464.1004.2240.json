@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33636",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:58:31.185-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.2240",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.2240"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Anaphylaxis_Due_to_Diphtheria_Tetanus_or_Pertussis_Vaccine",
+  "title": "Anaphylaxis Due to Diphtheria, Tetanus or Pertussis Vaccine",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:43-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428281000124107",
+        "display": "Anaphylaxis due to diphtheria and tetanus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428291000124105",
+        "display": "Anaphylaxis due to tetanus, diphtheria and acellular pertussis vaccine"
+      }
+    ]
+  }
+}

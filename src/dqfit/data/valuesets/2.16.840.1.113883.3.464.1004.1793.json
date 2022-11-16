@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33559",
+  "meta": {
+    "lastUpdated": "2022-03-02T22:21:47.712-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1793",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1793"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Varicella_Zoster_(VZV)_Immunization",
+  "title": "Varicella Zoster (VZV) Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:59-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "94",
+        "display": "measles, mumps, rubella, and varicella virus vaccine"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "21",
+        "display": "varicella virus vaccine"
+      }
+    ]
+  }
+}

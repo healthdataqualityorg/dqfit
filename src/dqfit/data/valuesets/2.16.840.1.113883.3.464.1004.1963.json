@@ -1,0 +1,72 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33303",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:51:46.539-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1963",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1963"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "PSA_Lab_Test_Exclusion",
+  "title": "PSA Lab Test Exclusion",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:45-04:00",
+    "total": 8,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443174008",
+        "display": "Measurement of prostate specific antigen using ultrasensitive assay"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0103",
+        "display": "Prostate cancer screening; prostate specific antigen test (psa)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "2857-1",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "35741-8",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "83112-3",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma by Immunoassay"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "84153",
+        "display": "Prostate specific antigen (PSA); total"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63476009",
+        "display": "Prostate specific antigen measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443969004",
+        "display": "Quantitative measurement of mass concentration of prostate specific antigen in serum or plasma"
+      }
+    ]
+  }
+}

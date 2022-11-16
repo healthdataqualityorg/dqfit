@@ -1,0 +1,72 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33280",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:48:02.920-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1755",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1755"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "HbA1c_Lab_Test",
+  "title": "HbA1c Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:49-04:00",
+    "total": 8,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43396009",
+        "display": "Hemoglobin A1c measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313835008",
+        "display": "HbA1c measurement (DCCT aligned)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "4548-4",
+        "display": "Hemoglobin A1c/Hemoglobin.total in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "4549-2",
+        "display": "Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "17856-6",
+        "display": "Hemoglobin A1c/Hemoglobin.total in Blood by HPLC"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "96595-4",
+        "display": "Hemoglobin A1c/Hemoglobin.total in DBS"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "83036",
+        "display": "Hemoglobin; glycosylated (A1C)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "83037",
+        "display": "Hemoglobin; glycosylated (A1C) by device cleared by FDA for home use"
+      }
+    ]
+  }
+}

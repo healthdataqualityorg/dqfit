@@ -1,0 +1,96 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33598",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:06:01.495-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.2217",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.2217"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Acetaminophen_Benzhydrocodone_Medications",
+  "title": "Acetaminophen Benzhydrocodone Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:20-04:00",
+    "total": 12,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2118728",
+        "display": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2118730",
+        "display": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet [Apadaz]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2001358",
+        "display": "acetaminophen 325 MG / benzhydrocodone 6.12 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2001364",
+        "display": "acetaminophen 325 MG / benzhydrocodone 6.12 MG Oral Tablet [Apadaz]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2118732",
+        "display": "acetaminophen 325 MG / benzhydrocodone 8.16 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "2118734",
+        "display": "acetaminophen 325 MG / benzhydrocodone 8.16 MG Oral Tablet [Apadaz]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702034001",
+        "display": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702034101",
+        "display": "acetaminophen 325 MG / benzhydrocodone 6.12 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702034201",
+        "display": "acetaminophen 325 MG / benzhydrocodone 8.16 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702034301",
+        "display": "acetaminophen 325 MG / benzhydrocodone 4.08 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702034401",
+        "display": "acetaminophen 325 MG / benzhydrocodone 6.12 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "10702034501",
+        "display": "acetaminophen 325 MG / benzhydrocodone 8.16 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

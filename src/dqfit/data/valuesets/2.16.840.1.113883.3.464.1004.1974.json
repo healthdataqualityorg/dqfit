@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33085",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:02:26.076-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1974",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1974"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Influenza_Virus_LAIV_Immunization",
+  "title": "Influenza Virus LAIV Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:37-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "111",
+        "display": "influenza virus vaccine, live, attenuated, for intranasal use"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "149",
+        "display": "influenza, live, intranasal, quadrivalent"
+      }
+    ]
+  }
+}

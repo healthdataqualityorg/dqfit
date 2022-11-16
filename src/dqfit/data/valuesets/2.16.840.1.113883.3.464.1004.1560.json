@@ -1,0 +1,864 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33617",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:29:03.267-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1560",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1560"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Hydrocodone_Ibuprofen_Medications",
+  "title": "Hydrocodone Ibuprofen Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:33-04:00",
+    "total": 140,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "859315",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "859317",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet [Ibudone]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "859331",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet [Reprexain]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "1542988",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet [Xylon]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858770",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858772",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet [Reprexain]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858778",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858780",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet [Ibudone]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858784",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet [Reprexain]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858798",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "858838",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet [Vicoprofen]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00074227712",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00074227714",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00074227754",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603358421",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603358621",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603389721",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00603389728",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107000401",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107000405",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107000411",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "13107000499",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037800",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037802",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037810",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037814",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037820",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037821",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037825",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037828",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037830",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037850",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037860",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261037890",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358017312",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356058630",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356080460",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063034915",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063034920",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063034930",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063034960",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865050030",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865050049",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865050051",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865050060",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865050062",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865050090",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999058830",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999058860",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50991057801",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50991057901",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51021091030",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "51021091090",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959052212",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959052215",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959052220",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959052230",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959052240",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073800",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073802",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073810",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073812",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073815",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073820",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073830",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073840",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073850",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073860",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959073890",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746011601",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746011701",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746014501",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746014505",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746014601",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289034815",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289094415",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289094420",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289094430",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289094460",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700063960",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664010213",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664010218",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664010283",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664010288",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664020383",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664020388",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028008",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028013",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028018",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028083",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028088",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028108",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028113",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028118",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028183",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664028188",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60846090001",
+        "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60846090101",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919029630",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "62037052401",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629295801",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629295802",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629295803",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629295804",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629295805",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629295806",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874110601",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874110602",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874110603",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63874110606",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66869011810",
+        "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66869012810",
+        "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296128205",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67296165507",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071027430",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071027460",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071027490",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084084101",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084084109",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084084111",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009400",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009401",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009402",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009403",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009404",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009405",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009406",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009407",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009408",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335009409",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010400",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010401",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010402",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010403",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010404",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010405",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010406",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010407",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010408",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335010409",
+        "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

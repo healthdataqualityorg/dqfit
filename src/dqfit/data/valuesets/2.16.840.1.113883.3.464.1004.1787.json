@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33553",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:56:36.498-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1787",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1787"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Rotavirus_Vaccine_(2_Dose_Schedule)_Procedure",
+  "title": "Rotavirus Vaccine (2 Dose Schedule) Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:54-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "434741000124104",
+        "display": "Rotavirus vaccination, 2 dose schedule"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90681",
+        "display": "Rotavirus vaccine, human, attenuated (RV1), 2 dose schedule, live, for oral use"
+      }
+    ]
+  }
+}

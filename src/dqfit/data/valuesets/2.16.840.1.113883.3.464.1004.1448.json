@@ -1,0 +1,126 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33038",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:12:34.035-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1448",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1448"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cerebrospinal_Fluid_Leak",
+  "title": "Cerebrospinal Fluid Leak",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:49-04:00",
+    "total": 17,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "230744007",
+        "display": "Cerebrospinal fluid leak"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723154002",
+        "display": "Post cerebral ventricular shunt leak"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "427758000",
+        "display": "Cerebrospinal fluid leak from mouth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "429759002",
+        "display": "Cerebrospinal fluid leak from nose and mouth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "193064009",
+        "display": "Cerebrospinal fluid leak from spinal puncture"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68382005",
+        "display": "Cerebrospinal fluid otorrhea"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85638002",
+        "display": "Cerebrospinal fluid rhinorrhea"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232280003",
+        "display": "Post-traumatic cerebrospinal otorrhea"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "213210005",
+        "display": "Postoperative cerebrospinal fluid leak"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232281004",
+        "display": "Postoperative cerebrospinal otorrhea"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G96.00",
+        "display": "Cerebrospinal fluid leak, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G96.01",
+        "display": "Cranial cerebrospinal fluid leak, spontaneous"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G96.02",
+        "display": "Spinal cerebrospinal fluid leak, spontaneous"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G96.08",
+        "display": "Other cranial cerebrospinal fluid leak"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G96.09",
+        "display": "Other spinal cerebrospinal fluid leak"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G96.0",
+        "display": "Cerebrospinal fluid leak"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "G97.0",
+        "display": "Cerebrospinal fluid leak from spinal puncture"
+      }
+    ]
+  }
+}

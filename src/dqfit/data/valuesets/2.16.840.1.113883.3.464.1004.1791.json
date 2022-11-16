@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33116",
+  "meta": {
+    "lastUpdated": "2022-03-02T22:07:02.322-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1791",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1791"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Tdap_Immunization",
+  "title": "Tdap Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:42-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "115",
+        "display": "tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed"
+      }
+    ]
+  }
+}

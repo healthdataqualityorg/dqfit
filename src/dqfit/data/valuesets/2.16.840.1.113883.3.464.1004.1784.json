@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33304",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:52:08.440-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1784",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1784"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "PSA_Test_Result_or_Finding",
+  "title": "PSA Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:46-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166160000",
+        "display": "Prostate specific antigen abnormal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166159005",
+        "display": "Prostate specific antigen normal"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "396152005",
+        "display": "Raised prostate specific antigen"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33452",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:34:30.097-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1450",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1450"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Palliative_Care_Encounter",
+  "title": "Palliative Care Encounter",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:27-04:00",
+    "total": 10,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "305284002",
+        "display": "Admission by palliative care physician"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "305381007",
+        "display": "Admission to palliative care department"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713281006",
+        "display": "Consultation for palliative care"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G9054",
+        "display": "Oncology; primary focus of visit; supervising, coordinating or managing care of patient with terminal cancer or for whom other medical illness prevents further cancer treatment; includes symptom management, end-of-life care planning, management of palliative therapies (for use in a medicare-approved demonstration project)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "4901000124101",
+        "display": "Palliative care education"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "M1017",
+        "display": "Patient admitted to palliative care services"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "305824005",
+        "display": "Seen by palliative care medicine service"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "305686008",
+        "display": "Seen by palliative care physician"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441874000",
+        "display": "Seen by palliative care service"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z51.5",
+        "display": "Encounter for palliative care"
+      }
+    ]
+  }
+}

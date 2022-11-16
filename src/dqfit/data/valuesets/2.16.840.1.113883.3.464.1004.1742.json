@@ -1,0 +1,246 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33266",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:15:04.395-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1742",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1742"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cholesterol_Lab_Test",
+  "title": "Cholesterol Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:46-04:00",
+    "total": 37,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "2093-3",
+        "display": "Cholesterol [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "2085-9",
+        "display": "Cholesterol in HDL [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "77068002",
+        "display": "Cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "275972003",
+        "display": "Cholesterol screening"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "82465",
+        "display": "Cholesterol, serum or whole blood, total"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "9830-1",
+        "display": "Cholesterol.total/Cholesterol in HDL [Mass Ratio] in Serum or Plasma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104586006",
+        "display": "Cholesterol/triglyceride ratio measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "315017003",
+        "display": "Fasting cholesterol level"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412827004",
+        "display": "Fluid sample triglyceride measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28036006",
+        "display": "High density lipoprotein cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104583003",
+        "display": "HDL/total cholesterol ratio measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104584009",
+        "display": "IDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104784006",
+        "display": "Lipids, triglycerides measurement"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "83718",
+        "display": "Lipoprotein, direct measurement; high density cholesterol (HDL cholesterol)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "83722",
+        "display": "Lipoprotein, direct measurement; small dense LDL cholesterol"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271245006",
+        "display": "Measurement of serum triglyceride level"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443915001",
+        "display": "Measurement of total cholesterol and triglycerides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167073006",
+        "display": "Plasma fasting HDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167084004",
+        "display": "Plasma fasting triglyceride measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "314035000",
+        "display": "Plasma HDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167072001",
+        "display": "Plasma random HDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167083005",
+        "display": "Plasma random triglyceride measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "390956002",
+        "display": "Plasma total cholesterol level"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "167082000",
+        "display": "Plasma triglyceride measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166838001",
+        "display": "Serum fasting HDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166849007",
+        "display": "Serum fasting triglyceride measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166832000",
+        "display": "Serum HDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166839009",
+        "display": "Serum random HDL cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "166850007",
+        "display": "Serum random triglyceride measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "412808005",
+        "display": "Serum total cholesterol measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "121868005",
+        "display": "Total cholesterol measurement"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "3043-7",
+        "display": "Triglyceride [Mass/volume] in Blood"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "2571-8",
+        "display": "Triglyceride [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104990004",
+        "display": "Triglyceride and ester in HDL measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104991000",
+        "display": "Triglyceride and ester in IDL measurement"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "84478",
+        "display": "Triglycerides"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14740000",
+        "display": "Triglycerides measurement"
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33313",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:09:14.522-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1738",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1738"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Antipsychotic_Combination_Medications",
+  "title": "Antipsychotic Combination Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:51-04:00",
+    "total": 55,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "856706",
+        "display": "amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "856720",
+        "display": "amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "856797",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "856825",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "856840",
+        "display": "amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "403970",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "725076",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule [Symbyax]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "721787",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "725080",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule [Symbyax]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "403969",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "725064",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule [Symbyax]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "403971",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "725068",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule [Symbyax]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "403972",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "725072",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule [Symbyax]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323030",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323101",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323130",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323133",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323230",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323301",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323330",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323333",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323401",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323430",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00002323433",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093550356",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093550456",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093550556",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093550656",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00093550756",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378004201",
+        "display": "amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378007301",
+        "display": "amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378033001",
+        "display": "amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378033005",
+        "display": "amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378044201",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378044205",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378057401",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378057405",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781219131",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781219231",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781219331",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781219431",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00781219531",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291065230",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291065330",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291065430",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291065530",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291065630",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884025011",
+        "display": "fluoxetine 25 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884025111",
+        "display": "fluoxetine 50 MG / olanzapine 6 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884025211",
+        "display": "fluoxetine 25 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884025311",
+        "display": "fluoxetine 50 MG / olanzapine 12 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884027711",
+        "display": "fluoxetine 25 MG / olanzapine 3 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49999055130",
+        "display": "amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

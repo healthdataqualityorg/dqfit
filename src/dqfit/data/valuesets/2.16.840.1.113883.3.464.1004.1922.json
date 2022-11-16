@@ -1,0 +1,37 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33109",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:39:45.046-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1922",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1922"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Pneumococcal_Polysaccharide_23_Vaccine_Procedure",
+  "title": "Pneumococcal Polysaccharide 23 Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:39-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "571631000119106",
+        "display": "Administration of pneumococcal polysaccharide 23 valent vaccine"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90732",
+        "display": "Pneumococcal polysaccharide vaccine, 23-valent (PPSV23), adult or immunosuppressed patient dosage, when administered to individuals 2 years or older, for subcutaneous or intramuscular use"
+      }
+    ]
+  }
+}

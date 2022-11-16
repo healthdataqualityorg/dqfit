@@ -1,0 +1,83 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33122",
+  "meta": {
+    "lastUpdated": "2022-03-02T22:18:16.090-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1256",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1256"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Unilateral_Mastectomy",
+  "title": "Unilateral Mastectomy",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:40:24-04:00",
+    "total": 9,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "19240",
+        "display": "Mastectomy, modified radical, including axillary lymph nodes, with or without pectoralis minor muscle, but excluding pectoralis major muscle"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "19307",
+        "display": "Mastectomy, modified radical, including axillary lymph nodes, with or without pectoralis minor muscle, but excluding pectoralis major muscle"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "19220",
+        "display": "Mastectomy, radical, including pectoral muscles, axillary and internal mammary lymph nodes (Urban type operation)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "19306",
+        "display": "Mastectomy, radical, including pectoral muscles, axillary and internal mammary lymph nodes (Urban type operation)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "19200",
+        "display": "Mastectomy, radical, including pectoral muscles, axillary lymph nodes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "19305",
+        "display": "Mastectomy, radical, including pectoral muscles, axillary lymph nodes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "19180",
+        "display": "Mastectomy, simple, complete"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "19303",
+        "display": "Mastectomy, simple, complete"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "19304",
+        "display": "Mastectomy, subcutaneous"
+      }
+    ]
+  }
+}

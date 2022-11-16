@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33108",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:39:33.692-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1921",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1921"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Pneumococcal_Polysaccharide_23_Immunization",
+  "title": "Pneumococcal Polysaccharide 23 Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:39-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "33",
+        "display": "pneumococcal polysaccharide vaccine, 23 valent"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33550",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:39:14.326-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1782",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1782"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Pneumococcal_Conjugate_Vaccine_Procedure",
+  "title": "Pneumococcal Conjugate Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:53-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0009",
+        "display": "Administration of pneumococcal vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "434751000124102",
+        "display": "Pneumococcal conjugate vaccination"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90670",
+        "display": "Pneumococcal conjugate vaccine, 13 valent (PCV13), for intramuscular use"
+      }
+    ]
+  }
+}

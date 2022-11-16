@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33060",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:58:13.557-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1750",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1750"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "sDNA_FIT_Test_Result_or_Finding",
+  "title": "sDNA FIT Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:09-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "708699002",
+        "display": "Stool DNA-based colorectal cancer screening positive"
+      }
+    ]
+  }
+}

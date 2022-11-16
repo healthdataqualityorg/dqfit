@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33552",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:56:25.392-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1786",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1786"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Rotavirus_(3_Dose_Schedule)_Immunization",
+  "title": "Rotavirus (3 Dose Schedule) Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:54-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "122",
+        "display": "rotavirus vaccine, unspecified formulation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "116",
+        "display": "rotavirus, live, pentavalent vaccine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33047",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:19:40.067-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1521",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1521"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cochlear_Implant_Device",
+  "title": "Cochlear Implant Device",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:53-04:00",
+    "total": 24,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "L8614",
+        "display": "Cochlear device, includes all internal and external components"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "701568002",
+        "display": "Cochlear implant assessment system"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "701524004",
+        "display": "Cochlear implant evaluation/programming application software"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "726648005",
+        "display": "Cochlear implant magnet"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "725511003",
+        "display": "Cochlear implant magnet inserter/remover"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "467396002",
+        "display": "Cochlear implant system"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "467624000",
+        "display": "Cochlear implant system battery pack"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "468054007",
+        "display": "Cochlear implant system coil"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "467286008",
+        "display": "Cochlear implant system coil cable"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "711586008",
+        "display": "Cochlear implant system coil cover"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "708553008",
+        "display": "Cochlear implant system component"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "711589001",
+        "display": "Cochlear implant system connector"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "467600008",
+        "display": "Cochlear implant system electrode array assembly"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "738554003",
+        "display": "Cochlear implant system external kit"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "738555002",
+        "display": "Cochlear implant system external magnet"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "467453006",
+        "display": "Cochlear implant system sound processor"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "711593007",
+        "display": "Cochlear implant system sound processor audio earhook"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "711587004",
+        "display": "Cochlear implant system sound processor earhook"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "711588009",
+        "display": "Cochlear implant system sound processor off-ear holder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "736873004",
+        "display": "Cochlear implant system sound processor speaker"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "711590005",
+        "display": "Cochlear implant system sound processor/coil decorative cover"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "L8628",
+        "display": "Cochlear implant, external controller component, replacement"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "L8619",
+        "display": "Cochlear implant, external speech processor and controller, integrated system, replacement"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "L8627",
+        "display": "Cochlear implant, external speech processor, component, replacement"
+      }
+    ]
+  }
+}

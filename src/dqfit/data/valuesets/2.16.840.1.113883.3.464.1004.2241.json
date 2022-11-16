@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33638",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:38:02.870-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.2241",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.2241"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Encephalitis_Due_to_Diphtheria_Tetanus_or_Pertussis_Vaccine",
+  "title": "Encephalitis Due to Diphtheria, Tetanus or Pertussis Vaccine",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:43-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192711008",
+        "display": "Post diphtheria vaccination encephalitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192712001",
+        "display": "Post pertussis vaccination encephalitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192710009",
+        "display": "Post tetanus vaccination encephalitis"
+      }
+    ]
+  }
+}

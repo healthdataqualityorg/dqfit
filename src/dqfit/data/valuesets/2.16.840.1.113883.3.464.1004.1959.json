@@ -1,0 +1,174 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33061",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:40:40.346-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1959",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1959"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "FOBT_Lab_Test",
+  "title": "FOBT Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:05-04:00",
+    "total": 25,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "82274",
+        "display": "Blood, occult, by fecal hemoglobin determination by immunoassay, qualitative, feces, 1-3 simultaneous determinations"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "82270",
+        "display": "Blood, occult, by peroxidase activity (eg, guaiac), qualitative; feces, consecutive collected specimens with single determination, for colorectal neoplasm screening (ie, patient was provided 3 cards or single triple card for consecutive collection)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0328",
+        "display": "Colorectal cancer screening; fecal occult blood test, immunoassay, 1-3 simultaneous"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442554004",
+        "display": "Guaiac test for occult blood in feces specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "27396-1",
+        "display": "Hemoglobin.gastrointestinal [Mass/mass] in Stool"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "2335-8",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "14563-1",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --1st specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "14564-9",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --2nd specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "14565-6",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --3rd specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "12503-9",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --4th specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "12504-7",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --5th specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "27401-9",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --6th specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "27925-7",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --7th specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "27926-5",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool --8th specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "80372-6",
+        "display": "Hemoglobin.gastrointestinal [Presence] in Stool by Rapid immunoassay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "58453-2",
+        "display": "Hemoglobin.gastrointestinal.lower [Mass/volume] in Stool by Immunoassay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "29771-3",
+        "display": "Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "57905-2",
+        "display": "Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "56490-6",
+        "display": "Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --2nd specimen"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "56491-4",
+        "display": "Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --3rd specimen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442563002",
+        "display": "Measurement of occult blood in single stool specimen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441579003",
+        "display": "Measurement of occult blood in stool specimen using immunoassay"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442516004",
+        "display": "Measurement of occult blood in three separate stool specimens"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442067009",
+        "display": "Measurement of occult blood in two separate stool specimens"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "104435004",
+        "display": "Screening for occult blood in feces"
+      }
+    ]
+  }
+}

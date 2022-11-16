@@ -1,0 +1,66 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33609",
+  "meta": {
+    "lastUpdated": "2022-03-24T15:18:46.405-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1553",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1553"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Aspirin_Oxycodone_Medications",
+  "title": "Aspirin Oxycodone Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:29-04:00",
+    "total": 7,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "848768",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "848928",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet [Endodan Reformulated May 2009]"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "848772",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet [Percodan Reformulated May 2009]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378611701",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591355101",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60951031070",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68308084501",
+        "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

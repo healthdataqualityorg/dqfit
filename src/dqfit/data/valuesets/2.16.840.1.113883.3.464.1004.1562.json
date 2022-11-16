@@ -1,0 +1,1644 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33604",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:06:33.483-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1562",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1562"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Acetaminophen_Tramadol_Medications",
+  "title": "Acetaminophen Tramadol Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:26-04:00",
+    "total": 270,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "999729",
+        "display": "acetaminophen 250 MG / tramadol hydrochloride 50 MG Oral Capsule"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "836395",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "836397",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet [Ultracet]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378808801",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00378808805",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "12634094060",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038900",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038902",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038920",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038930",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038940",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038960",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038990",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33261038998",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33342020211",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33342020212",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33342020215",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33342020244",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358034330",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358034350",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358034360",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "33358034390",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "35356066060",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42291083290",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42571011901",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42571011905",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42571011923",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42571011932",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42571011990",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063059901",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063059915",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063059920",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063059930",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063059960",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063078220",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063078230",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063078260",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063083720",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063083730",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063083760",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046930",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046940",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046951",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046960",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "45865046990",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884094601",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "49884094605",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090091900",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090091901",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090091902",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090091903",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090091904",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090370500",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50090370502",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268077411",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50268077415",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50436629101",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458065010",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "50458065060",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066600",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066602",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066620",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066628",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066630",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066640",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066656",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066660",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959066690",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081400",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081404",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081410",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081412",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081415",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081416",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081418",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081420",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081428",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081430",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081440",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081460",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959081490",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004000",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004002",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004003",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004010",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004014",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004020",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004021",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004028",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004030",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004040",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004060",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004090",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217004098",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217018002",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217018020",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217018030",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217018060",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53217018090",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746061701",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746061705",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746061710",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "53746061730",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289061720",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289089515",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289089520",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289089530",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55289089560",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700012420",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700012430",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700012460",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "55700012490",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664053713",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664053718",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664053788",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60429050001",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60429050005",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505264401",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505264403",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505264405",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505264408",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60505264409",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760005320",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760005330",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760033520",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60760092220",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919006730",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919006760",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919006771",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919006772",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919006790",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919023030",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919033530",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919033560",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919033572",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187008430",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187008460",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187058530",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187058560",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63187058590",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340600",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340601",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340602",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340603",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340604",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340605",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340606",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340607",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340608",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629340609",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629490101",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629490102",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629490103",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629490104",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629490105",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "64038005903",
+        "display": "acetaminophen 250 MG / tramadol hydrochloride 50 MG Oral Capsule",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162061703",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162061710",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162061711",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65162061750",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65841075801",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65841075805",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65841075810",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65862092201",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65862092205",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65862092210",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65862092230",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65862092278",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "65862092299",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267046820",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267046840",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267046860",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67877032201",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67877032205",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "67877032210",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028720",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028730",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028740",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028760",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028790",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071028791",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071135900",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071201006",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071235101",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071304402",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071304403",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68071304406",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084013901",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084013911",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084082501",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68084082511",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382033401",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382033405",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68382033410",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098501",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098502",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098503",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098504",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098505",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098506",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098508",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788098509",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765201",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765202",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765203",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765204",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765205",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765206",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765208",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788765209",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771201",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771202",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771203",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771204",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771205",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771206",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771208",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788771209",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785502",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785503",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788785509",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996801",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996802",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996803",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996804",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996805",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996806",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996808",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "68788996809",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69844004901",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69844004902",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518167200",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70518278400",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205062530",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205062560",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71205062590",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011101",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011102",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011103",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011104",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011105",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011106",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335011107",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015101",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015102",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015103",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015104",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015105",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015106",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015107",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335015108",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061901",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061902",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061903",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061904",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061905",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061906",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335061907",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174201",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174202",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174203",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174204",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174205",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174206",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "71335174207",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010501",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010502",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010503",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010510",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "76420010530",
+        "display": "acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

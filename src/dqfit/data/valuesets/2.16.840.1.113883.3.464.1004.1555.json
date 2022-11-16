@@ -1,0 +1,96 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33610",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:10:10.275-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1555",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1555"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Belladonna_Opium_Medications",
+  "title": "Belladonna Opium Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:29-04:00",
+    "total": 12,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "312104",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "312107",
+        "display": "belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574704001",
+        "display": "belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574704004",
+        "display": "belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574704012",
+        "display": "belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574704501",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574704504",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00574704512",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629843501",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629843601",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "73577003012",
+        "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "73577006012",
+        "display": "belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

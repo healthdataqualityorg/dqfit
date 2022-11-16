@@ -1,0 +1,535 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33110",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:53:53.694-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1352",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1352"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Psychotic_Disorders",
+  "title": "Psychotic Disorders",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:40-04:00",
+    "total": 85,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191548004",
+        "display": "Acute exacerbation of chronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "191539009",
+        "display": "Acute exacerbation of chronic disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191564007",
+        "display": "Acute exacerbation of chronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191555002",
+        "display": "Acute exacerbation of chronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191572009",
+        "display": "Acute exacerbation of chronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191531007",
+        "display": "Acute exacerbation of chronic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191547009",
+        "display": "Acute exacerbation of subchronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191563001",
+        "display": "Acute exacerbation of subchronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191554003",
+        "display": "Acute exacerbation of subchronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191571002",
+        "display": "Acute exacerbation of subchronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268624000",
+        "display": "Acute paranoid reaction"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "278853003",
+        "display": "Acute schizophrenia-like psychotic disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "268617001",
+        "display": "Acute schizophrenic episode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231489001",
+        "display": "Acute transient psychotic disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441704009",
+        "display": "Affective psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "274952002",
+        "display": "Borderline schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5464005",
+        "display": "Brief reactive psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191542003",
+        "display": "Catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111483008",
+        "display": "Catatonic schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191577003",
+        "display": "Cenesthopathic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68995007",
+        "display": "Chronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "12939007",
+        "display": "Chronic disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35218008",
+        "display": "Chronic disorganized schizophrenia with acute exacerbation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191562006",
+        "display": "Chronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31658008",
+        "display": "Chronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71103003",
+        "display": "Chronic residual schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30336007",
+        "display": "Chronic residual schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191570001",
+        "display": "Chronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83746006",
+        "display": "Chronic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "29599000",
+        "display": "Chronic undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79204003",
+        "display": "Chronic undifferentiated schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35252006",
+        "display": "Disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31373002",
+        "display": "Disorganized schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416340002",
+        "display": "Late onset schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191559008",
+        "display": "Latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441833000",
+        "display": "Lethal catatonia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "64905009",
+        "display": "Paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63181006",
+        "display": "Paranoid schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191680007",
+        "display": "Psychogenic paranoid psychosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69322001",
+        "display": "Psychotic disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231437006",
+        "display": "Reactive psychoses"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "26025008",
+        "display": "Residual schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "51133006",
+        "display": "Residual schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "68890003",
+        "display": "Schizoaffective disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38368003",
+        "display": "Schizoaffective disorder, bipolar type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "84760002",
+        "display": "Schizoaffective disorder, depressive type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "271428004",
+        "display": "Schizoaffective disorder, manic type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "270901009",
+        "display": "Schizoaffective disorder, mixed type"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191567000",
+        "display": "Schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191574005",
+        "display": "Schizoaffective schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "58214004",
+        "display": "Schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "4926007",
+        "display": "Schizophrenia in remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191526005",
+        "display": "Schizophrenic disorders"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "247804008",
+        "display": "Schizophrenic prodrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191527001",
+        "display": "Simple schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "42868002",
+        "display": "Subchronic catatonic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "27387000",
+        "display": "Subchronic disorganized schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14291003",
+        "display": "Subchronic disorganized schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191561004",
+        "display": "Subchronic latent schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79866005",
+        "display": "Subchronic paranoid schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76566000",
+        "display": "Subchronic residual schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "70814008",
+        "display": "Subchronic residual schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "191569002",
+        "display": "Subchronic schizoaffective schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16990005",
+        "display": "Subchronic schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111482003",
+        "display": "Subchronic schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "85861002",
+        "display": "Subchronic undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "7025000",
+        "display": "Subchronic undifferentiated schizophrenia with acute exacerbations"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111484002",
+        "display": "Undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "39610001",
+        "display": "Undifferentiated schizophrenia in remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.0",
+        "display": "Paranoid schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.1",
+        "display": "Disorganized schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.2",
+        "display": "Catatonic schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.3",
+        "display": "Undifferentiated schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.5",
+        "display": "Residual schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.81",
+        "display": "Schizophreniform disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.89",
+        "display": "Other schizophrenia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F20.9",
+        "display": "Schizophrenia, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F21",
+        "display": "Schizotypal disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F23",
+        "display": "Brief psychotic disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.0",
+        "display": "Schizoaffective disorder, bipolar type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.1",
+        "display": "Schizoaffective disorder, depressive type"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.8",
+        "display": "Other schizoaffective disorders"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F25.9",
+        "display": "Schizoaffective disorder, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F28",
+        "display": "Other psychotic disorder not due to a substance or known physiological condition"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F29",
+        "display": "Unspecified psychosis not due to a substance or known physiological condition"
+      }
+    ]
+  }
+}

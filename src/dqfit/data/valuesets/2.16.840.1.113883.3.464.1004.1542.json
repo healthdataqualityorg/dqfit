@@ -1,0 +1,96 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33621",
+  "meta": {
+    "lastUpdated": "2022-03-24T15:19:53.553-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1542",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1542"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Levorphanol_Medications",
+  "title": "Levorphanol Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:36-04:00",
+    "total": 12,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "197873",
+        "display": "levorphanol tartrate 2 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2022.02.07.21AB",
+        "code": "2058845",
+        "display": "levorphanol tartrate 3 MG Oral Tablet"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00406222401",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527323637",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527323737",
+        "display": "levorphanol tartrate 3 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358010210",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42358010310",
+        "display": "levorphanol tartrate 3 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "57664076288",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629209301",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69543041210",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "69543041710",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "70954023610",
+        "display": "levorphanol tartrate 2 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

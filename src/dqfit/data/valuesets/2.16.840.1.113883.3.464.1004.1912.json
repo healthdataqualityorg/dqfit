@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33079",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:56:46.040-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1912",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1912"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "History_of_Total_Colectomy",
+  "title": "History of Total Colectomy",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:08-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "119771000119101",
+        "display": "History of total colectomy"
+      }
+    ]
+  }
+}

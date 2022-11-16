@@ -1,0 +1,162 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33099",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:28:21.199-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1399",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1399"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Other_Bipolar_Disorder",
+  "title": "Other Bipolar Disorder",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:38-04:00",
+    "total": 23,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "83225003",
+        "display": "Bipolar II disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "48937005",
+        "display": "Bipolar II disorder, most recent episode hypomanic"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16295005",
+        "display": "Bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43568002",
+        "display": "Bipolar II disorder, most recent episode major depressive with atypical features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "22407005",
+        "display": "Bipolar II disorder, most recent episode major depressive with catatonic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "34315001",
+        "display": "Bipolar II disorder, most recent episode major depressive with melancholic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30687003",
+        "display": "Bipolar II disorder, most recent episode major depressive with postpartum onset"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "723905008",
+        "display": "Bipolar type II disorder currently in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1196001",
+        "display": "Chronic bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "71294008",
+        "display": "Mild bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35846004",
+        "display": "Moderate bipolar II disorder, most recent episode major depressive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "789061003",
+        "display": "Rapid cycling bipolar II disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371604007",
+        "display": "Severe bipolar II disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "30520009",
+        "display": "Severe bipolar II disorder, most recent episode major depressive with psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19300006",
+        "display": "Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "20960007",
+        "display": "Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "81319007",
+        "display": "Severe bipolar II disorder, most recent episode major depressive without psychotic features"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "12969000",
+        "display": "Severe bipolar II disorder, most recent episode major depressive, in full remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "67002003",
+        "display": "Severe bipolar II disorder, most recent episode major depressive, in partial remission"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35722002",
+        "display": "Severe bipolar II disorder, most recent episode major depressive, in remission"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.81",
+        "display": "Bipolar II disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.89",
+        "display": "Other bipolar disorder"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      }
+    ]
+  }
+}

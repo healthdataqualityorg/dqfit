@@ -1,0 +1,1345 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33069",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:57:08.854-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1110",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1110"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "HIV",
+  "title": "HIV",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:11:05-04:00",
+    "total": 219,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421695000",
+        "display": "Abnormal weight loss associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421851008",
+        "display": "Acquired hemolytic anemia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713533000",
+        "display": "Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "62479008",
+        "display": "AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10746341000119109",
+        "display": "Acquired immune deficiency syndrome complicating childbirth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "236406007",
+        "display": "Acquired immune deficiency syndrome-related nephropathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "91923005",
+        "display": "AIDS virus infection associated with pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420721002",
+        "display": "AIDS-associated disorder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420395004",
+        "display": "Acute endocarditis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713511002",
+        "display": "Acute endocarditis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111880001",
+        "display": "Acute HIV infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421312009",
+        "display": "Agranulocytosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713530002",
+        "display": "Agranulocytosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420543008",
+        "display": "Anemia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713349004",
+        "display": "Anemia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421102007",
+        "display": "Aplastic anemia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713508003",
+        "display": "Aplastic anemia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "90681000119107",
+        "display": "Asymptomatic human immunodeficiency virus A1 infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "90691000119105",
+        "display": "Asymptomatic human immunodeficiency virus A2 infection"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "V08",
+        "display": "Asymptomatic human immunodeficiency virus [HIV] infection status"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "91947003",
+        "display": "Asymptomatic human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "91948008",
+        "display": "Asymptomatic human immunodeficiency virus infection in pregnancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420544002",
+        "display": "Bacterial pneumonia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713544008",
+        "display": "Bacterial pneumonia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421706001",
+        "display": "Blindness associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713897006",
+        "display": "Burkitt lymphoma co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422003001",
+        "display": "Cachexia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713297001",
+        "display": "Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421047005",
+        "display": "Candidiasis of lung associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421710003",
+        "display": "Candidiasis of mouth associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713497004",
+        "display": "Candidiasis of mouth co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713523008",
+        "display": "Cardiomyopathy co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421998001",
+        "display": "Central nervous disorder associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420718004",
+        "display": "Central nervous system demyelinating disease associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "697965002",
+        "display": "Cholangitis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "838377003",
+        "display": "Chronic hepatitis C co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713446007",
+        "display": "Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422337001",
+        "display": "Coccidioidomycosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "422074008",
+        "display": "Coccidiosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "15928141000119107",
+        "display": "Human immunodeficiency virus infection with cognitive impairment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276665006",
+        "display": "Congenital acquired immune deficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "52079000",
+        "display": "Congenital human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "276666007",
+        "display": "Congenital human immunodeficiency virus positive status syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442662004",
+        "display": "Increased human immunodeficiency virus (HIV) viral load"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421403008",
+        "display": "Cryptococcosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421529006",
+        "display": "Dementia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713844000",
+        "display": "Dementia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713543002",
+        "display": "Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420877009",
+        "display": "Dermatomycosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713718006",
+        "display": "Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713571008",
+        "display": "Disorder of central nervous system co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713299003",
+        "display": "Disorder of eye proper co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713300006",
+        "display": "Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713504001",
+        "display": "Disorder of kidney co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713527009",
+        "display": "Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713484001",
+        "display": "Disorder of respiratory system co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713340000",
+        "display": "Disorder of skin co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713503007",
+        "display": "Disorder of spinal cord co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713967004",
+        "display": "Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421077004",
+        "display": "Disseminated candidiasis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713445006",
+        "display": "Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422177004",
+        "display": "Dyspnea associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420244003",
+        "display": "Encephalitis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "840498003",
+        "display": "Encephalitis caused by human immunodeficiency virus type 1"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "840442003",
+        "display": "Encephalitis caused by human immunodeficiency virus type 2"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422089004",
+        "display": "Encephalomyelitis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421827003",
+        "display": "Encephalopathy associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713510001",
+        "display": "Enlargement of liver co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713316008",
+        "display": "Eruption of skin co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "733835007",
+        "display": "Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421660003",
+        "display": "Failure to thrive in infant associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420900006",
+        "display": "Fatigue associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713887002",
+        "display": "Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713505000",
+        "display": "Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713298006",
+        "display": "Heart disease co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420384005",
+        "display": "Hematopoietic system disease associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713444005",
+        "display": "Hemophagocytic syndrome co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421230000",
+        "display": "Hepatomegaly associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422127002",
+        "display": "Herpes zoster associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420945005",
+        "display": "Histoplasmosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "432218001",
+        "display": "History of asymptomatic human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "76981000119106",
+        "display": "Human immunodeficiency virus (HIV) infection category B1"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "76991000119109",
+        "display": "Human immunodeficiency virus (HIV) infection category B2"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40780007",
+        "display": "Human immunodeficiency virus I infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735522008",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735521001",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735524009",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735523003",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735526006",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with malaria"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735525005",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735528007",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with malaria"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "735527002",
+        "display": "Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "042",
+        "display": "Human immunodeficiency virus [HIV] disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713742005",
+        "display": "Human immunodeficiency virus antibody positive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "699433000",
+        "display": "Human immunodeficiency virus carrier"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "721166000",
+        "display": "Human immunodeficiency virus complicating pregnancy childbirth and the puerperium"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "398329009",
+        "display": "Human immunodeficiency virus encephalitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "397763006",
+        "display": "Human immunodeficiency virus encephalopathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "235726002",
+        "display": "Human immunodeficiency virus enteropathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "406109008",
+        "display": "Human immunodeficiency virus enzyme-linked immunosorbent assay test positive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10755671000119100",
+        "display": "Human immunodeficiency virus in mother complicating childbirth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "86406008",
+        "display": "Human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186706006",
+        "display": "Human immunodeficiency virus infection constitutional disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87117006",
+        "display": "HIV infection with acute lymphadenitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "315019000",
+        "display": "HIV infection with aseptic meningitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "48794007",
+        "display": "HIV infection with infectious mononucleosis-like syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186707002",
+        "display": "Human immunodeficiency virus infection with neurological disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186708007",
+        "display": "Human immunodeficiency virus infection with secondary clinical infectious disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "230180003",
+        "display": "Human immunodeficiency virus leukoencephalopathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "240103002",
+        "display": "Human immunodeficiency virus myopathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "165816005",
+        "display": "HIV positive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "235009000",
+        "display": "Human immunodeficiency virus-associated periodontitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422194002",
+        "display": "Hyperhidrosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "420687005",
+        "display": "Ill-defined intestinal infection associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "714464009",
+        "display": "Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713732008",
+        "display": "Aspergillosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "771119002",
+        "display": "Infection caused by Coccidia co-occurrent with acquired immunodeficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713729005",
+        "display": "Coccidiosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713845004",
+        "display": "Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713722001",
+        "display": "Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713734009",
+        "display": "Dermatophytosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "771127006",
+        "display": "Infection caused by Isospora co-occurrent with acquired immunodeficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713881001",
+        "display": "Microsporidiosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713545009",
+        "display": "Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713490002",
+        "display": "Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713342008",
+        "display": "Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713339002",
+        "display": "Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "771126002",
+        "display": "Infection caused by Toxoplasma gondii co-occurrent with acquired immunodeficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713730000",
+        "display": "Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713733003",
+        "display": "Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "719522009",
+        "display": "Candidiasis of upper respiratory tract co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "445945000",
+        "display": "Infectious disease associated with acquired immune deficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421454008",
+        "display": "Infectious gastroenteritis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713570009",
+        "display": "Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421708000",
+        "display": "Infective arthritis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713532005",
+        "display": "Infective arthritis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420321004",
+        "display": "Intestinal malabsorption associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "733834006",
+        "display": "Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "421510000",
+        "display": "Isosporiasis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713546005",
+        "display": "Isosporiasis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420524008",
+        "display": "Kaposi's sarcoma associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "414604009",
+        "display": "Leukoplakia of tongue associated with HIV disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422189002",
+        "display": "Low vision associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713507008",
+        "display": "Lymphadenopathy co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420801006",
+        "display": "Malaise associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422282000",
+        "display": "Malignant neoplasm associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713572001",
+        "display": "Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421020000",
+        "display": "Microsporidiosis associated with acquired immunodeficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1142055000",
+        "display": "Human immunodeficiency virus modified skin disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713964006",
+        "display": "Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420818005",
+        "display": "Mycobacteriosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421315006",
+        "display": "Myelitis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713341001",
+        "display": "Myelitis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420452002",
+        "display": "Myelopathy associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421929001",
+        "display": "Myocarditis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713318009",
+        "display": "Myocarditis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713695001",
+        "display": "Nephrotic syndrome co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422136003",
+        "display": "Neuralgia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713278001",
+        "display": "Neuralgia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "422012004",
+        "display": "Neuritis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713506004",
+        "display": "Neuritis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "230598008",
+        "display": "Neuropathy due to human immunodeficiency virus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416729007",
+        "display": "Neutropenia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421431004",
+        "display": "Nocardiosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "442537007",
+        "display": "Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421983003",
+        "display": "Noninfectious gastroenteritis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420691000",
+        "display": "Nutritional deficiency associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713880000",
+        "display": "Opportunistic mycosis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "402901009",
+        "display": "Oral hairy leukoplakia associated with HIV disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420774007",
+        "display": "Organic brain syndrome associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713491003",
+        "display": "Organic brain syndrome co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420614009",
+        "display": "Organic dementia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "722557007",
+        "display": "Parkinsonism due to human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "405631006",
+        "display": "Pediatric human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420787001",
+        "display": "Pneumococcal pneumonia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420403001",
+        "display": "Pneumocystosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421671002",
+        "display": "Pneumonia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421597001",
+        "display": "Polyneuropathy associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713489006",
+        "display": "Polyneuropathy co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421023003",
+        "display": "Presenile dementia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713488003",
+        "display": "Presenile dementia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713325002",
+        "display": "Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1142045004",
+        "display": "Primary human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421283008",
+        "display": "Primary lymphoma of brain associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420554003",
+        "display": "Progressive multifocal leukoencephalopathy associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713487008",
+        "display": "Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "697904001",
+        "display": "Pulmonary arterial hypertension associated with HIV infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713731001",
+        "display": "Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420658009",
+        "display": "Radiculitis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713320007",
+        "display": "Radiculitis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713526000",
+        "display": "Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "714083007",
+        "display": "Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713696000",
+        "display": "Renal failure syndrome co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421874007",
+        "display": "Respiratory disorder associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420302007",
+        "display": "Reticulosarcoma associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713483007",
+        "display": "Reticulosarcoma co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420308006",
+        "display": "Retinal vascular changes associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421460008",
+        "display": "Retinopathy associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420549007",
+        "display": "Salivary gland disease associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420764009",
+        "display": "Salmonella infection associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "700053002",
+        "display": "Sepsis associated with acquired immunodeficiency syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421394009",
+        "display": "Skin disorder associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420281004",
+        "display": "Skin rash associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713275003",
+        "display": "Splenomegaly co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421883002",
+        "display": "Strongyloidiasis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421415007",
+        "display": "Subacute adenoviral encephalitis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713260006",
+        "display": "Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "420938005",
+        "display": "Subacute endocarditis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421272004",
+        "display": "Subacute myocarditis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "80191000119101",
+        "display": "Symptomatic human immunodeficiency virus (HIV) I infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "81000119104",
+        "display": "Symptomatic human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421766003",
+        "display": "Thrombocytopenia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "421666009",
+        "display": "Toxoplasmosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421571007",
+        "display": "Tuberculosis associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "230202002",
+        "display": "Vacuolar myelopathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "421508002",
+        "display": "Viral pneumonia associated with AIDS"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "713531003",
+        "display": "Visual impairment co-occurrent with human immunodeficiency virus infection"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B20",
+        "display": "Human immunodeficiency virus [HIV] disease"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z21",
+        "display": "Asymptomatic human immunodeficiency virus [HIV] infection status"
+      }
+    ]
+  }
+}

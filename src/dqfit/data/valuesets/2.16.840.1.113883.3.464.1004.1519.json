@@ -1,0 +1,42 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33040",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:14:04.060-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1519",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1519"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Chemotherapy_Encounter",
+  "title": "Chemotherapy Encounter",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:50-04:00",
+    "total": 3,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z51.0",
+        "display": "Encounter for antineoplastic radiation therapy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z51.11",
+        "display": "Encounter for antineoplastic chemotherapy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z51.12",
+        "display": "Encounter for antineoplastic immunotherapy"
+      }
+    ]
+  }
+}

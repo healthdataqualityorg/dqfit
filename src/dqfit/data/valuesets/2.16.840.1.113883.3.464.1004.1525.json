@@ -1,0 +1,264 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33264",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:13:21.030-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1525",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1525"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cervical_Cytology_Lab_Test",
+  "title": "Cervical Cytology Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:30-04:00",
+    "total": 40,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "33717-0",
+        "display": "Cervical AndOr vaginal cytology study"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416107004",
+        "display": "Cervical cytology test"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "47528-5",
+        "display": "Cytology report of Cervical or vaginal smear or scraping Cyto stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "47527-7",
+        "display": "Cytology report of Cervical or vaginal smear or scraping Cyto stain.thin prep"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "19774-9",
+        "display": "Cytology study comment Cervical or vaginal smear or scraping Cyto stain"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88147",
+        "display": "Cytopathology smears, cervical or vaginal; screening by automated system under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88148",
+        "display": "Cytopathology smears, cervical or vaginal; screening by automated system with manual rescreening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88142",
+        "display": "Cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation; manual screening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88174",
+        "display": "Cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation; screening by automated system, under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88143",
+        "display": "Cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation; with manual screening and rescreening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88175",
+        "display": "Cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation; with screening by automated system and manual rescreening or review, under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88141",
+        "display": "Cytopathology, cervical or vaginal (any reporting system), requiring interpretation by physician"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88164",
+        "display": "Cytopathology, slides, cervical or vaginal (the Bethesda System); manual screening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88166",
+        "display": "Cytopathology, slides, cervical or vaginal (the Bethesda System); with manual screening and computer-assisted rescreening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88167",
+        "display": "Cytopathology, slides, cervical or vaginal (the Bethesda System); with manual screening and computer-assisted rescreening using cell selection and review under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88165",
+        "display": "Cytopathology, slides, cervical or vaginal (the Bethesda System); with manual screening and rescreening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88150",
+        "display": "Cytopathology, slides, cervical or vaginal; manual screening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88152",
+        "display": "Cytopathology, slides, cervical or vaginal; with manual screening and computer-assisted rescreening under physician supervision"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "88153",
+        "display": "Cytopathology, slides, cervical or vaginal; with manual screening and rescreening under physician supervision"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "19762-4",
+        "display": "General categories [Interpretation] of Cervical or vaginal smear or scraping by Cyto stain"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "417036008",
+        "display": "Liquid based cervical cytology screening"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "440623000",
+        "display": "Microscopic examination of cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "448651000124104",
+        "display": "Microscopic examination of cervical Papanicolaou smear and Human papillomavirus deoxyribonucleic acid detection cotesting"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "19765-7",
+        "display": "Microscopic observation [Identifier] in Cervical or vaginal smear or scraping by Cyto stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "19766-5",
+        "display": "Microscopic observation [Identifier] in Cervical or vaginal smear or scraping by Cyto stain Narrative"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "10524-7",
+        "display": "Microscopic observation [Identifier] in Cervix by Cyto stain"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "18500-9",
+        "display": "Microscopic observation [Identifier] in Cervix by Cyto stain.thin prep"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0147",
+        "display": "Screening cytopathology smears, cervical or vaginal, performed by automated system under physician supervision"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0148",
+        "display": "Screening cytopathology smears, cervical or vaginal, performed by automated system with manual rescreening"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0141",
+        "display": "Screening cytopathology smears, cervical or vaginal, performed by automated system, with manual rescreening, requiring interpretation by physician"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0124",
+        "display": "Screening cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation, requiring interpretation by physician"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0123",
+        "display": "Screening cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation, screening by cytotechnologist under physician supervision"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0143",
+        "display": "Screening cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation, with manual screening and rescreening by cytotechnologist under physician supervision"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0145",
+        "display": "Screening cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation, with screening by automated system and manual rescreening under physician supervision"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0144",
+        "display": "Screening cytopathology, cervical or vaginal (any reporting system), collected in preservative fluid, automated thin layer preparation, with screening by automated system, under physician supervision"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "171149006",
+        "display": "Screening for malignant neoplasm of cervix"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "P3000",
+        "display": "Screening papanicolaou smear, cervical or vaginal, up to three smears, by technician under physician supervision"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "P3001",
+        "display": "Screening papanicolaou smear, cervical or vaginal, up to three smears, requiring interpretation by physician"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "Q0091",
+        "display": "Screening papanicolaou smear; obtaining, preparing and conveyance of cervical or vaginal smear to laboratory"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "19764-0",
+        "display": "Statement of adequacy [Interpretation] of Cervical or vaginal smear or scraping by Cyto stain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33019",
+  "meta": {
+    "lastUpdated": "2022-03-02T19:41:37.021-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1514",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1514"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "42_Weeks_Gestation",
+  "title": "42 Weeks Gestation",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:15-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36428009",
+        "display": "Gestation period, 42 weeks"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z3A.42",
+        "display": "42 weeks gestation of pregnancy"
+      }
+    ]
+  }
+}

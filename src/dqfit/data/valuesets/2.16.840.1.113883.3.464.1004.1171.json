@@ -1,0 +1,180 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33538",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:14:41.353-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1171",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1171"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Measles",
+  "title": "Measles",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:49-04:00",
+    "total": 26,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "240483006",
+        "display": "Atypical measles"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "424306000",
+        "display": "Exanthem due to measles virus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "161419000",
+        "display": "H/O: measles"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "105841000119101",
+        "display": "Immunity to measles by positive serology"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14189004",
+        "display": "Measles"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186561002",
+        "display": "Measles complicated by meningitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "371111005",
+        "display": "Measles immune"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28463004",
+        "display": "Measles keratitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "60013002",
+        "display": "Measles keratoconjunctivitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "74918002",
+        "display": "Measles myocarditis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "406592004",
+        "display": "Measles of the central nervous system"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38921001",
+        "display": "Measles with complication"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186562009",
+        "display": "Measles with intestinal complications"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111873003",
+        "display": "Measles without complication"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "240484000",
+        "display": "Modified measles"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195900001",
+        "display": "Pneumonia due to measles"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "417145006",
+        "display": "Rubeola retinopathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "359686005",
+        "display": "Van Bogaert's sclerosing leukoencephalitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.0",
+        "display": "Measles complicated by encephalitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.1",
+        "display": "Measles complicated by meningitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.2",
+        "display": "Measles complicated by pneumonia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.3",
+        "display": "Measles complicated by otitis media"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.4",
+        "display": "Measles with intestinal complications"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.81",
+        "display": "Measles keratitis and keratoconjunctivitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.89",
+        "display": "Other measles complications"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B05.9",
+        "display": "Measles without complication"
+      }
+    ]
+  }
+}

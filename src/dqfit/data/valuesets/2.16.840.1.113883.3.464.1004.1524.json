@@ -1,0 +1,253 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33265",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:13:45.108-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1524",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1524"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cervical_Cytology_Result_or_Finding",
+  "title": "Cervical Cytology Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:31-04:00",
+    "total": 38,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "439888000",
+        "display": "Abnormal cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441667007",
+        "display": "Abnormal cervical Papanicolaou smear with positive human papillomavirus deoxyribonucleic acid test"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "309081009",
+        "display": "Abnormal cervical smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441094005",
+        "display": "Atypical endocervical cells on cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441219009",
+        "display": "Atypical glandular cells on cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441087007",
+        "display": "Atypical squamous cells of undetermined significance on cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441088002",
+        "display": "Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "268543007",
+        "display": "Cancer cervix - screening done"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168407000",
+        "display": "Cannot exclude glandular neoplasia on cervical smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "439776006",
+        "display": "Cervical Papanicolaou smear positive for malignant neoplasm"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168408005",
+        "display": "Cervical smear - atrophic changes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "700400001",
+        "display": "Cervical smear - borderline change in endocervical cells"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "700399008",
+        "display": "Cervical smear - borderline change in squamous cells"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168410007",
+        "display": "Cervical smear - borderline changes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168414003",
+        "display": "Cervical smear - inflammatory change"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168424006",
+        "display": "Cervical smear - koilocytosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "269959007",
+        "display": "Cervical smear - mild dyskaryosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "310841002",
+        "display": "Cervical smear - mild inflammation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "269961003",
+        "display": "Cervical smear - moderate dyskaryosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "310842009",
+        "display": "Cervical smear - moderate inflammation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "269958004",
+        "display": "Cervical smear - negative"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168415002",
+        "display": "Cervical smear - no inflammation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "269960002",
+        "display": "Cervical smear - severe dyskaryosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168416001",
+        "display": "Cervical smear - severe inflammation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "269963000",
+        "display": "Cervical smear - viral inflammation unspecified"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "269957009",
+        "display": "Cervical smear result"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416032004",
+        "display": "Cervicovaginal cytology normal or benign"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416033009",
+        "display": "Cervicovaginal cytology: High grade squamous intraepithelial lesion or carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416030007",
+        "display": "Cervicovaginal cytology: Low grade squamous intraepithelial lesion"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "98791000119102",
+        "display": "Cytological evidence of malignancy on cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "250538001",
+        "display": "Dyskaryosis on cervical smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "439074000",
+        "display": "Dysplasia on cervical smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "62061000119107",
+        "display": "High grade squamous intraepithelial lesion on cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "62051000119105",
+        "display": "Low grade squamous intraepithelial lesion on cervical Papanicolaou smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1155766001",
+        "display": "Nuclear abnormality in cervical smear"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "168406009",
+        "display": "Severe dyskaryosis on cervical smear cannot exclude invasive carcinoma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "281101005",
+        "display": "Smear NAD - no endocervical cells"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "275805003",
+        "display": "Viral changes on cervical smear"
+      }
+    ]
+  }
+}

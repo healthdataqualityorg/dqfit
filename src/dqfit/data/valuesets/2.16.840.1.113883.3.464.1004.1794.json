@@ -1,0 +1,61 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33560",
+  "meta": {
+    "lastUpdated": "2022-03-02T22:21:58.767-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1794",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1794"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Varicella_Zoster_(VZV)_Vaccine_Procedure",
+  "title": "Varicella Zoster (VZV) Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:59-04:00",
+    "total": 6,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "425897001",
+        "display": "Administration of first dose of Varicella-zoster vaccine for chickenpox"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428502009",
+        "display": "Administration of second dose of Varicella-zoster vaccine for chickenpox"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "571611000119101",
+        "display": "Administration of varicella live vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "473164004",
+        "display": "History of varicella vaccination"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90710",
+        "display": "Measles, mumps, rubella, and varicella vaccine (MMRV), live, for subcutaneous use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90716",
+        "display": "Varicella virus vaccine (VAR), live, for subcutaneous use"
+      }
+    ]
+  }
+}

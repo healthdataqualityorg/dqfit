@@ -1,0 +1,174 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33627",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:37:19.530-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1557",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1557"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Naloxone_Pentazocine_Medications",
+  "title": "Naloxone Pentazocine Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:40-04:00",
+    "total": 25,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "312289",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00591039501",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43063014220",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386068001",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "43386068005",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054502",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054510",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054512",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054515",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054520",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054524",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054530",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054535",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054540",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054550",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054560",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "52959054590",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "60429057001",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "61919055630",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63304050601",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629320601",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629320602",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629320603",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267048730",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "66267048740",
+        "display": "naloxone 0.5 MG / pentazocine 50 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

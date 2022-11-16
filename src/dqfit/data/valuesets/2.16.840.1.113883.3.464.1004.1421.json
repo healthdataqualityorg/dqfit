@@ -1,0 +1,84 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33037",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:23:56.344-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1421",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1421"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "CT_Colonography",
+  "title": "CT Colonography",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:04-04:00",
+    "total": 10,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "60515-4",
+        "display": "CT Colon and Rectum W air contrast PR"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "72531-7",
+        "display": "CT Colon and Rectum W contrast IV and W air contrast PR"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "82688-3",
+        "display": "CT Colon and Rectum WO and W contrast IV and W air contrast PR"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "79071-7",
+        "display": "CT Colon and Rectum WO contrast IV and W air contrast PR"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "79101-2",
+        "display": "CT Colon and Rectum for screening W air contrast PR"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "79069-1",
+        "display": "CT Colon and Rectum for screening WO contrast IV and W air contrast PR"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "74262",
+        "display": "Computed tomographic (CT) colonography, diagnostic, including image postprocessing; with contrast material(s) including non-contrast images, if performed"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "74261",
+        "display": "Computed tomographic (CT) colonography, diagnostic, including image postprocessing; without contrast material"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "74263",
+        "display": "Computed tomographic (CT) colonography, screening, including image postprocessing"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "418714002",
+        "display": "Virtual CT colonoscopy"
+      }
+    ]
+  }
+}

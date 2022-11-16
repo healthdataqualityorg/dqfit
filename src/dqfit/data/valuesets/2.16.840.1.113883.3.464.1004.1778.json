@@ -1,0 +1,55 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33295",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:16:53.412-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1778",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1778"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Meningococcal_Vaccine_Procedure",
+  "title": "Meningococcal Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:47:11-04:00",
+    "total": 5,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "390892002",
+        "display": "Meningitis ACW & Y vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428271000124109",
+        "display": "Meningococcal conjugate vaccination"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90734",
+        "display": "Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, diphtheria toxoid carrier (MenACWY-D) or CRM197 carrier (MenACWY-CRM), for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90619",
+        "display": "Meningococcal conjugate vaccine, serogroups A, C, W, Y, quadrivalent, tetanus toxoid carrier (MenACWY-TT), for intramuscular use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90733",
+        "display": "Meningococcal polysaccharide vaccine, serogroups A, C, Y, W-135, quadrivalent (MPSV4), for subcutaneous use"
+      }
+    ]
+  }
+}

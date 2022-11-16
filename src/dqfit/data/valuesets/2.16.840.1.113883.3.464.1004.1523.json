@@ -1,0 +1,593 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33287",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:59:18.022-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1523",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1523"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Hysterectomy_With_No_Residual_Cervix",
+  "title": "Hysterectomy With No Residual Cervix",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:33-04:00",
+    "total": 93,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "447771005",
+        "display": "Abdominal hysterectomy and excision of periuterine tissue"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "387626007",
+        "display": "Amputation of cervix"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58953",
+        "display": "Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58954",
+        "display": "Bilateral salpingo-oophorectomy with omentectomy, total abdominal hysterectomy and radical dissection for debulking; with pelvic lymphadenectomy and limited para-aortic lymphadenectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58956",
+        "display": "Bilateral salpingo-oophorectomy with total omentectomy, total abdominal hysterectomy for malignancy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "46226009",
+        "display": "Cervicectomy with synchronous colporrhaphy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "51925",
+        "display": "Closure of vesicouterine fistula; with hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "24293001",
+        "display": "Excision of cervical stump by abdominal approach"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "41566006",
+        "display": "Excision of cervical stump by vaginal approach"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57540",
+        "display": "Excision of cervical stump, abdominal approach;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57545",
+        "display": "Excision of cervical stump, abdominal approach; with pelvic floor repair"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57550",
+        "display": "Excision of cervical stump, vaginal approach;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57555",
+        "display": "Excision of cervical stump, vaginal approach; with anterior and/or posterior repair"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57556",
+        "display": "Excision of cervical stump, vaginal approach; with repair of enterocele"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "287924009",
+        "display": "Excision of cervix stump"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.61",
+        "display": "Laparoscopic radical abdominal hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "236891001",
+        "display": "Laparoscopic radical hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "708878003",
+        "display": "Robot assisted laparoscopic radical hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.71",
+        "display": "Laparoscopic radical vaginal hysterectomy [LRVH]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.41",
+        "display": "Laparoscopic total abdominal hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "414575003",
+        "display": "Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "236888001",
+        "display": "Laparoscopic total hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "708877008",
+        "display": "Robot assisted laparoscopic total hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.51",
+        "display": "Laparoscopically assisted vaginal hysterectomy (LAVH)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58575",
+        "display": "Laparoscopy, surgical, total hysterectomy for resection of malignancy (tumor debulking), with omentectomy including salpingo-oophorectomy, unilateral or bilateral, when performed"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58548",
+        "display": "Laparoscopy, surgical, with radical hysterectomy, with bilateral total pelvic lymphadenectomy and para-aortic lymph node sampling (biopsy), with removal of tube(s) and ovary(s), if performed"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58570",
+        "display": "Laparoscopy, surgical, with total hysterectomy, for uterus 250 g or less;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58571",
+        "display": "Laparoscopy, surgical, with total hysterectomy, for uterus 250 g or less; with removal of tube(s) and/or ovary(s)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58572",
+        "display": "Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58573",
+        "display": "Laparoscopy, surgical, with total hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58550",
+        "display": "Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58552",
+        "display": "Laparoscopy, surgical, with vaginal hysterectomy, for uterus 250 g or less; with removal of tube(s) and/or ovary(s)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58553",
+        "display": "Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58554",
+        "display": "Laparoscopy, surgical, with vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "82418001",
+        "display": "Manchester operation on uterus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "28301000",
+        "display": "Manchester-Fothergill operation on uterus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.69",
+        "display": "Other and unspecified radical abdominal hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.79",
+        "display": "Other and unspecified radical vaginal hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.49",
+        "display": "Other and unspecified total abdominal hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.59",
+        "display": "Other and unspecified vaginal hysterectomy"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "68.8",
+        "display": "Pelvic evisceration"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58240",
+        "display": "Pelvic exenteration for gynecologic malignancy, with total abdominal hysterectomy or cervicectomy, with or without removal of tube(s), with or without removal of ovary(s), with removal of bladder and ureteral transplantations, and/or abdominoperineal resection of rectum and colon and colostomy, or any combination thereof"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "307771009",
+        "display": "Radical abdominal hysterectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58210",
+        "display": "Radical abdominal hysterectomy, with bilateral total pelvic lymphadenectomy and para-aortic lymph node sampling (biopsy), with or without removal of tube(s), with or without removal of ovary(s)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "440383008",
+        "display": "Radical trachelectomy with bilateral total pelvic lymphadenectomy and paraaortic lymph node biopsy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "116142003",
+        "display": "Radical hysterectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57531",
+        "display": "Radical trachelectomy, with bilateral total pelvic lymphadenectomy and para-aortic lymph node sampling biopsy, with or without removal of tube(s), with or without removal of ovary(s)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "35955002",
+        "display": "Radical vaginal hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "88144003",
+        "display": "Removal of ectopic interstitial uterine pregnancy requiring total hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "176697007",
+        "display": "Repair of vaginal prolapse and amputation of cervix uteri"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58951",
+        "display": "Resection (initial) of ovarian, tubal or primary peritoneal malignancy with bilateral salpingo-oophorectomy and omentectomy; with total abdominal hysterectomy, pelvic and limited para-aortic lymphadenectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "59135",
+        "display": "Surgical treatment of ectopic pregnancy; interstitial, uterine pregnancy requiring total hysterectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58150",
+        "display": "Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s);"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58152",
+        "display": "Total abdominal hysterectomy (corpus and cervix), with or without removal of tube(s), with or without removal of ovary(s); with colpo-urethrocystopexy (eg, Marshall-Marchetti-Krantz, Burch)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "116143008",
+        "display": "Total abdominal hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "446446002",
+        "display": "Total abdominal hysterectomy and removal of vaginal cuff"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767611008",
+        "display": "Total abdominal hysterectomy using intrafascial technique"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "116144002",
+        "display": "Total abdominal hysterectomy with bilateral salpingo-oophorectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58200",
+        "display": "Total abdominal hysterectomy, including partial vaginectomy, with para-aortic and pelvic lymph node sampling, with or without removal of tube(s), with or without removal of ovary(s)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "116140006",
+        "display": "Total hysterectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767610009",
+        "display": "Total hysterectomy via vaginal approach"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "767612001",
+        "display": "Total hysterectomy via vaginal approach using intrafascial technique"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "739671004",
+        "display": "Total hysterectomy with left oophorectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "740515000",
+        "display": "Total hysterectomy with left salpingectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "739673001",
+        "display": "Total hysterectomy with left salpingo-oophorectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "86477000",
+        "display": "Total hysterectomy with removal of both tubes and ovaries"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "739672006",
+        "display": "Total hysterectomy with right oophorectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "740514001",
+        "display": "Total hysterectomy with right salpingectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "739674007",
+        "display": "Total hysterectomy with right salpingo-oophorectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "27950001",
+        "display": "Total hysterectomy with unilateral removal of ovary"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "31545000",
+        "display": "Total hysterectomy with unilateral removal of tube"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "59750000",
+        "display": "Total hysterectomy with unilateral removal of tube and ovary"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "446679008",
+        "display": "Total laparoscopic excision of uterus by abdominal approach"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "57530",
+        "display": "Trachelectomy (cervicectomy), amputation of cervix (separate procedure)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58260",
+        "display": "Vaginal hysterectomy, for uterus 250 g or less;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58267",
+        "display": "Vaginal hysterectomy, for uterus 250 g or less; with colpo-urethrocystopexy (Marshall-Marchetti-Krantz type, Pereyra type) with or without endoscopic control"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58262",
+        "display": "Vaginal hysterectomy, for uterus 250 g or less; with removal of tube(s), and/or ovary(s)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58263",
+        "display": "Vaginal hysterectomy, for uterus 250 g or less; with removal of tube(s), and/or ovary(s), with repair of enterocele"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58270",
+        "display": "Vaginal hysterectomy, for uterus 250 g or less; with repair of enterocele"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58290",
+        "display": "Vaginal hysterectomy, for uterus greater than 250 g;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "inactive": true,
+        "version": "2022.2.21AB",
+        "code": "58293",
+        "display": "Vaginal hysterectomy, for uterus greater than 250 g; with colpo-urethrocystopexy (Marshall-Marchetti-Krantz type, Pereyra type) with or without endoscopic control"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58291",
+        "display": "Vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58292",
+        "display": "Vaginal hysterectomy, for uterus greater than 250 g; with removal of tube(s) and/or ovary(s), with repair of enterocele"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58294",
+        "display": "Vaginal hysterectomy, for uterus greater than 250 g; with repair of enterocele"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58285",
+        "display": "Vaginal hysterectomy, radical (Schauta type operation)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58275",
+        "display": "Vaginal hysterectomy, with total or partial vaginectomy;"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "58280",
+        "display": "Vaginal hysterectomy, with total or partial vaginectomy; with repair of enterocele"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "361223008",
+        "display": "Wertheim operation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "361222003",
+        "display": "Wertheim-Meigs abdominal hysterectomy"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "0UTC0ZZ",
+        "display": "Resection of Cervix, Open Approach"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "0UTC4ZZ",
+        "display": "Resection of Cervix, Percutaneous Endoscopic Approach"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "0UTC7ZZ",
+        "display": "Resection of Cervix, Via Natural or Artificial Opening"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "0UTC8ZZ",
+        "display": "Resection of Cervix, Via Natural or Artificial Opening Endoscopic"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "1998",
+        "code": "56308",
+        "display": "Laparoscopy, surgical; with vaginal hysterectomy with or without removal of tube(s), with or without removal of ovary(s) (laparoscopic assisted vaginal hysterectomy)"
+      }
+    ]
+  }
+}

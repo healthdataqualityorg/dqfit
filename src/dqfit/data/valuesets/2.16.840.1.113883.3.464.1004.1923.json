@@ -1,0 +1,54 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33114",
+  "meta": {
+    "lastUpdated": "2022-03-02T22:06:40.200-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1923",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1923"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Td_Immunization",
+  "title": "Td Immunization",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:38:41-04:00",
+    "total": 5,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "139",
+        "display": "Td(adult) unspecified formulation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "09",
+        "display": "tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use (2 Lf of tetanus toxoid and 2 Lf of diphtheria toxoid)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "113",
+        "display": "tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use (5 Lf of tetanus toxoid and 2 Lf of diphtheria toxoid)"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "138",
+        "display": "tetanus and diphtheria toxoids, not adsorbed, for adult use"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/cvx",
+        "version": "2021.11.09",
+        "code": "115",
+        "display": "tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed"
+      }
+    ]
+  }
+}

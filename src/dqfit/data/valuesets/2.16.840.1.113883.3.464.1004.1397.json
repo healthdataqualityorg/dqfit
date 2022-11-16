@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33548",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:22:29.702-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1397",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1397"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Newborn_Hepatitis_B_Vaccine_Administered",
+  "title": "Newborn Hepatitis B Vaccine Administered",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:52-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "99.55",
+        "display": "Prophylactic administration of vaccine against other diseases"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "3E0234Z",
+        "display": "Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach"
+      }
+    ]
+  }
+}

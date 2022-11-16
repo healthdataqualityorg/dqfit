@@ -1,0 +1,66 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33628",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:38:43.433-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1541",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1541"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Opium_Medications",
+  "title": "Opium Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:41-04:00",
+    "total": 7,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "830196",
+        "display": "opium tincture 100 MG/ML Oral Solution"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00187420304",
+        "display": "opium tincture 100 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00187420316",
+        "display": "opium tincture 100 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42799021701",
+        "display": "opium tincture 100 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "42799021702",
+        "display": "opium tincture 100 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "62559015304",
+        "display": "opium tincture 100 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "63629196501",
+        "display": "opium tincture 100 MG/ML Oral Solution",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

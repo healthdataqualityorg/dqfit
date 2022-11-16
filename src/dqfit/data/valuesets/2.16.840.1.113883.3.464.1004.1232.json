@@ -1,0 +1,198 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33555",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:57:15.726-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1232",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1232"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Rubella",
+  "title": "Rubella",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:55-04:00",
+    "total": 29,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "19431000",
+        "display": "Arthritis due to rubella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "51490003",
+        "display": "Disease due to Rubivirus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "128191000",
+        "display": "Encephalomyelitis due to rubella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232312000",
+        "display": "Endocochlear rubella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79303006",
+        "display": "Expanded rubella syndrome"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "240485004",
+        "display": "Hemorrhagic rubella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "161421005",
+        "display": "H/O: rubella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10082001",
+        "display": "Progressive rubella panencephalitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "36653000",
+        "display": "Rubella"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "165792000",
+        "display": "Rubella antibody present - immune"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "253227001",
+        "display": "Rubella cataract"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186570004",
+        "display": "Rubella deafness"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "192689006",
+        "display": "Rubella encephalitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "406112006",
+        "display": "Rubella enzyme-linked immunosorbent assay test result, greater than 10iu/ml rubella specific IgG detected"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "406113001",
+        "display": "Rubella enzyme-linked immunosorbent assay test result, greater than 15iu/ml rubella specific IgG detected"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10759761000119100",
+        "display": "Rubella in mother complicating childbirth"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13225007",
+        "display": "Rubella meningoencephalitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "64190005",
+        "display": "Rubella myocarditis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1092361000119109",
+        "display": "Rubella pneumonia"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231985001",
+        "display": "Rubella retinopathy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186567003",
+        "display": "Rubella with neurological complication"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.00",
+        "display": "Rubella with neurological complication, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.01",
+        "display": "Rubella encephalitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.02",
+        "display": "Rubella meningitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.09",
+        "display": "Other neurological complications of rubella"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.81",
+        "display": "Rubella pneumonia"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.82",
+        "display": "Rubella arthritis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.89",
+        "display": "Other rubella complications"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B06.9",
+        "display": "Rubella without complication"
+      }
+    ]
+  }
+}

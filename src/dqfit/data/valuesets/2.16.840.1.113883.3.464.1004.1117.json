@@ -1,0 +1,120 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33526",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:51:13.356-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1117",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1117"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Hepatitis_A",
+  "title": "Hepatitis A",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:39-04:00",
+    "total": 16,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "18917003",
+        "display": "Acute fulminating type A viral hepatitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "25102003",
+        "display": "Acute type A viral hepatitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79031007",
+        "display": "Anicteric type A viral hepatitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "206373002",
+        "display": "Congenital hepatitis A infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "16060001",
+        "display": "Hepatic coma due to viral hepatitis A"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "310875001",
+        "display": "Hepatitis A - current infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "278971009",
+        "display": "Hepatitis A immune"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "165997004",
+        "display": "Hepatitis A test positive"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "428030001",
+        "display": "History of hepatitis A"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "105801000119103",
+        "display": "Immunity to hepatitis A by positive serology"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43634002",
+        "display": "Relapsing type A viral hepatitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111879004",
+        "display": "Viral hepatitis A without hepatic coma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "424758008",
+        "display": "Viral hepatitis A without hepatic coma, without hepatitis delta"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40468003",
+        "display": "Viral hepatitis, type A"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B15.0",
+        "display": "Hepatitis A with hepatic coma"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B15.9",
+        "display": "Hepatitis A without hepatic coma"
+      }
+    ]
+  }
+}

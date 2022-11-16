@@ -1,0 +1,30 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33283",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:54:13.195-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1526",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1526"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "High_Risk_HPV_Test_Result_or_Finding",
+  "title": "High Risk HPV Test Result or Finding",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:33-04:00",
+    "total": 1,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "718591004",
+        "display": "Cytology examination positive for high risk human papillomavirus"
+      }
+    ]
+  }
+}

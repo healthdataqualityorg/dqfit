@@ -1,0 +1,120 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33302",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:51:23.765-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1783",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1783"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "PSA_Lab_Test",
+  "title": "PSA Lab Test",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:44-04:00",
+    "total": 16,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "395145001",
+        "display": "Free prostate specific antigen level"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "395146000",
+        "display": "Free:total prostate specific antigen ratio"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443174008",
+        "display": "Measurement of prostate specific antigen using ultrasensitive assay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "10886-0",
+        "display": "Prostate Specific Ag Free [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "83113-1",
+        "display": "Prostate Specific Ag Free [Mass/volume] in Serum or Plasma by Immunoassay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "12841-3",
+        "display": "Prostate Specific Ag Free/Prostate specific Ag.total in Serum or Plasma"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0103",
+        "display": "Prostate cancer screening; prostate specific antigen test (psa)"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "2857-1",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "35741-8",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "83112-3",
+        "display": "Prostate specific Ag [Mass/volume] in Serum or Plasma by Immunoassay"
+      },
+      {
+        "system": "http://loinc.org",
+        "version": "2.72.21AB",
+        "code": "33667-7",
+        "display": "Prostate specific Ag.protein bound [Mass/volume] in Serum or Plasma"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "84152",
+        "display": "Prostate specific antigen (PSA); complexed (direct measurement)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "84154",
+        "display": "Prostate specific antigen (PSA); free"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "84153",
+        "display": "Prostate specific antigen (PSA); total"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63476009",
+        "display": "Prostate specific antigen measurement"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "443969004",
+        "display": "Quantitative measurement of mass concentration of prostate specific antigen in serum or plasma"
+      }
+    ]
+  }
+}

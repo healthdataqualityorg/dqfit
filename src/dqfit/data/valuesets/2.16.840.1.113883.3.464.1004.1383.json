@@ -1,0 +1,690 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33032",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:04:24.573-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1383",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1383"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Behavioral_Health_Encounter",
+  "title": "Behavioral Health Encounter",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:39:10-04:00",
+    "total": 111,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0900",
+        "display": "General"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0901",
+        "display": "Electroshock treatment (ECT)"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0902",
+        "display": "Milieu therapy"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0903",
+        "display": "Play therapy"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0904",
+        "display": "Activity therapy"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0905",
+        "display": "Intensive outpatient services-psychiatric"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0907",
+        "display": "Community behavioral health program (day treatment)"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0911",
+        "display": "Rehabilitation"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0912",
+        "display": "Partial hospitalization-less intensive"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0913",
+        "display": "Partial hospitalization-intensive"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0914",
+        "display": "Individual therapy"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0915",
+        "display": "Group therapy"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0916",
+        "display": "Family therapy"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0917",
+        "display": "Biofeedback"
+      },
+      {
+        "system": "https://www.nubc.org/CodeSystem/RevenueCodes",
+        "version": "2012.05",
+        "code": "0919",
+        "display": "Other Behavioral health treatments"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0176",
+        "display": "Activity therapy, such as music, dance, art or play therapies not for recreation, related to the care and treatment of patient's disabling mental health problems, per session (45 minutes or more)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0040",
+        "display": "Assertive community treatment program, per diem"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0039",
+        "display": "Assertive community treatment, face-to-face, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0004",
+        "display": "Behavioral health counseling and therapy, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2012",
+        "display": "Behavioral health day treatment, per hour"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0002",
+        "display": "Behavioral health screening to determine eligibility for admission to treatment program"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99484",
+        "display": "Care management services for behavioral health conditions, at least 20 minutes of clinical staff time, directed by a physician or other qualified health care professional, per calendar month, with the following required elements: initial assessment or follow-up monitoring, including the use of applicable validated rating scales, behavioral health care planning in relation to behavioral/psychiatric health problems, including revision for patients who are not progressing or whose status changes, facilitating and coordinating treatment such as psychotherapy, pharmacotherapy, counseling and/or psychiatric consultation, and continuity of care with a designated member of the care team."
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0037",
+        "display": "Community psychiatric supportive treatment program, per diem"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0036",
+        "display": "Community psychiatric supportive treatment, face-to-face, per 15 minutes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "401277000",
+        "display": "Completion of mental health crisis plan"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2015",
+        "display": "Comprehensive community support services, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2016",
+        "display": "Comprehensive community support services, per diem"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2010",
+        "display": "Comprehensive medication services, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2000",
+        "display": "Comprehensive multidisciplinary evaluation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385721005",
+        "display": "Coping support assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385724002",
+        "display": "Coping support management"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "S9485",
+        "display": "Crisis intervention mental health services, per diem"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "S9484",
+        "display": "Crisis intervention mental health services, per hour"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2011",
+        "display": "Crisis intervention service, per 15 minutes"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "5694008",
+        "display": "Crisis intervention with follow-up"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "439141002",
+        "display": "Discharge by mental health primary care worker"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90870",
+        "display": "Electroconvulsive therapy (includes necessary monitoring)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385725001",
+        "display": "Emotional support assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385726000",
+        "display": "Emotional support education"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385727009",
+        "display": "Emotional support management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "90407005",
+        "display": "Evaluation of psychiatric state of patient"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "370803007",
+        "display": "Evaluation of psychosocial impact on plan of care"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90847",
+        "display": "Family psychotherapy (conjoint psychotherapy) (with patient present), 50 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90846",
+        "display": "Family psychotherapy (without the patient present), 50 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90853",
+        "display": "Group psychotherapy (other than of a multiple-family group)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0410",
+        "display": "Group psychotherapy other than of a multiple-family group, in a partial hospitalization setting, approximately 45 to 50 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90880",
+        "display": "Hypnotherapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "372067001",
+        "display": "Implementation of measures to provide psychological support"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90875",
+        "display": "Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 30 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90876",
+        "display": "Individual psychophysiological therapy incorporating biofeedback training by any modality (face-to-face with the patient), with psychotherapy (eg, insight oriented, behavior modifying or supportive psychotherapy); 45 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99492",
+        "display": "Initial psychiatric collaborative care management, first 70 minutes in the first calendar month of behavioral health care manager activities, in consultation with a psychiatric consultant, and directed by the treating physician or other qualified health care professional, with the following required elements: outreach to and engagement in treatment of a patient directed by the treating physician or other qualified health care professional, initial assessment of the patient, including administration of validated rating scales, with the development of an individualized treatment plan, review by the psychiatric consultant with modifications of the plan if recommended, entering patient in a registry and tracking patient follow-up and progress"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "165171009",
+        "display": "Initial psychiatric evaluation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79094001",
+        "display": "Initial psychiatric interview with mental status and evaluation"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "S9480",
+        "display": "Intensive outpatient psychiatric services, per diem"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0411",
+        "display": "Interactive group psychotherapy, in a partial hospitalization setting, approximately 45 to 50 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90887",
+        "display": "Interpretation or explanation of results of psychiatric, other medical examinations and procedures, or other accumulated data to family or other responsible persons, or advising them how to assist patient"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410234004",
+        "display": "Management of mental health treatment"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0034",
+        "display": "Medication training and support, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0031",
+        "display": "Mental health assessment, by non-physician"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410223002",
+        "display": "Mental health care assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410224008",
+        "display": "Mental health care education"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410225009",
+        "display": "Mental health care management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385887004",
+        "display": "Mental health history taking assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385889001",
+        "display": "Mental health history taking education"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385890005",
+        "display": "Mental health history taking management"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H0035",
+        "display": "Mental health partial hospitalization, treatment, less than 24 hours"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410226005",
+        "display": "Mental health promotion assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410227001",
+        "display": "Mental health promotion education"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410228006",
+        "display": "Mental health promotion management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410229003",
+        "display": "Mental health screening assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410230008",
+        "display": "Mental health screening education"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410231007",
+        "display": "Mental health screening management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410232000",
+        "display": "Mental health treatment assessment"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410233005",
+        "display": "Mental health treatment education"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90849",
+        "display": "Multiple-family group psychotherapy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90865",
+        "display": "Narcosynthesis for psychiatric diagnostic and therapeutic purposes (eg, sodium amobarbital (Amytal) interview)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "S0201",
+        "display": "Partial hospitalization services, less than 24 hours, per diem"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "91310009",
+        "display": "Patient follow-up to return when and if necessary"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90791",
+        "display": "Psychiatric diagnostic evaluation"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90792",
+        "display": "Psychiatric diagnostic evaluation with medical services"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "165190001",
+        "display": "Psychiatric evaluation for rehabilitation"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38756009",
+        "display": "Psychiatric evaluation of patient for criminal responsibility with report"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10997001",
+        "display": "Psychiatric evaluation of patient for testimentary capacity with report"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "88848003",
+        "display": "Psychiatric follow-up"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2013",
+        "display": "Psychiatric health facility service, per diem"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10197000",
+        "display": "Psychiatric interview and evaluation"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90845",
+        "display": "Psychoanalysis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "45392008",
+        "display": "Psychologic evaluation or test procedure"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2017",
+        "display": "Psychosocial rehabilitation services, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2018",
+        "display": "Psychosocial rehabilitation services, per diem"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90839",
+        "display": "Psychotherapy for crisis; first 60 minutes"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90832",
+        "display": "Psychotherapy, 30 minutes with patient"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90833",
+        "display": "Psychotherapy, 30 minutes with patient when performed with an evaluation and management service (List separately in addition to the code for primary procedure)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90834",
+        "display": "Psychotherapy, 45 minutes with patient"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90836",
+        "display": "Psychotherapy, 45 minutes with patient when performed with an evaluation and management service (List separately in addition to the code for primary procedure)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90837",
+        "display": "Psychotherapy, 60 minutes with patient"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90838",
+        "display": "Psychotherapy, 60 minutes with patient when performed with an evaluation and management service (List separately in addition to the code for primary procedure)"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2001",
+        "display": "Rehabilitation program, per 1/2 day"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0511",
+        "display": "Rural health clinic or federally qualified health center (rhc or fqhc) only, general care management, 20 minutes or more of clinical staff time for chronic care management services or behavioral health integration services directed by an rhc or fqhc practitioner (physician, np, pa, or cnm), per calendar month"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0512",
+        "display": "Rural health clinic or federally qualified health center (rhc/fqhc) only, psychiatric collaborative care model (psychiatric cocm), 60 minutes or more of clinical staff time for psychiatric cocm services directed by an rhc or fqhc practitioner (physician, np, pa, or cnm) and including services furnished by a behavioral health care manager and consultation with a psychiatric consultant, per calendar month"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0155",
+        "display": "Services of clinical social worker in home health or hospice settings, each 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2014",
+        "display": "Skills training and development, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0409",
+        "display": "Social work and psychological services, directly relating to and/or furthering the patient's rehabilitation goals, each 15 minutes, face-to-face; individual (services provided by a corf-qualified social worker or psychologist in a corf)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99493",
+        "display": "Subsequent psychiatric collaborative care management, first 60 minutes in a subsequent month of behavioral health care manager activities, in consultation with a psychiatric consultant, and directed by the treating physician or other qualified health care professional, with the following required elements: tracking patient follow-up and progress using the registry, with appropriate documentation, participation in weekly caseload consultation with the psychiatric consultant, ongoing collaboration with and coordination of the patient's mental health care with the treating physician or other qualified health care professional and any other treating mental health providers, additional review of progress and recommendations for changes in"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "225337009",
+        "display": "Suicide risk assessment"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2019",
+        "display": "Therapeutic behavioral services, per 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "H2020",
+        "display": "Therapeutic behavioral services, per diem"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90867",
+        "display": "Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; initial, including cortical mapping, motor threshold determination, delivery and management"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90868",
+        "display": "Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; subsequent delivery and management, per session"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90869",
+        "display": "Therapeutic repetitive transcranial magnetic stimulation (TMS) treatment; subsequent motor threshold re-determination with delivery and management"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0177",
+        "display": "Training and educational services related to the care and treatment of patient's disabling mental health problems per session (45 minutes or more)"
+      }
+    ]
+  }
+}

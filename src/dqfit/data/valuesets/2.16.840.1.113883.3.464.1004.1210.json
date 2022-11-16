@@ -1,0 +1,566 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33299",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:37:57.399-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1210",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1210"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Pharyngitis",
+  "title": "Pharyngitis",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:31:00-04:00",
+    "total": 90,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195658003",
+        "display": "Acute bacterial pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195671000",
+        "display": "Acute bacterial tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195669000",
+        "display": "Acute catarrhal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195666007",
+        "display": "Acute erythematous tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195667003",
+        "display": "Acute follicular tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195655000",
+        "display": "Acute gangrenous pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195670004",
+        "display": "Acute gangrenous tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232399005",
+        "display": "Acute herpes simplex pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232400003",
+        "display": "Acute herpes zoster pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "55355000",
+        "display": "Acute laryngopharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "302911003",
+        "display": "Acute lingual tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "363746003",
+        "display": "Acute pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195656004",
+        "display": "Acute phlegmonous pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195659006",
+        "display": "Acute pneumococcal pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195672007",
+        "display": "Acute pneumococcal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195660001",
+        "display": "Acute staphylococcal pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195673002",
+        "display": "Acute staphylococcal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17741008",
+        "display": "Acute tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10629271000119107",
+        "display": "Acute tonsillitis caused by Streptococcus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195657008",
+        "display": "Acute ulcerative pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195668008",
+        "display": "Acute ulcerative tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195662009",
+        "display": "Acute viral pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195676005",
+        "display": "Acute viral tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78430008",
+        "display": "Adenoviral pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195663004",
+        "display": "Allergic pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "63866002",
+        "display": "Atrophic pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "703468005",
+        "display": "Bacterial tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195803003",
+        "display": "Caseous tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232403001",
+        "display": "Chlamydial pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195782000",
+        "display": "Chronic follicular pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "2365002",
+        "display": "Chronic granular pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232406009",
+        "display": "Chronic pharyngeal candidiasis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "140004",
+        "display": "Chronic pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "133171000119105",
+        "display": "Chronic pharyngolaryngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "90979004",
+        "display": "Chronic tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232405008",
+        "display": "Chronic ulcerative pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "40766000",
+        "display": "Enteroviral lymphonodular pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "126664009",
+        "display": "Exudative pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "27878001",
+        "display": "Follicular tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "240444009",
+        "display": "Fusobacterial necrotizing tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "72430001",
+        "display": "Gangrenous pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "652005",
+        "display": "Gangrenous tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232401004",
+        "display": "Glandular fever pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186659004",
+        "display": "Herpangina"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "87326000",
+        "display": "Hypertrophic pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "312422001",
+        "display": "Infective pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195924009",
+        "display": "Influenza with pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195804009",
+        "display": "Lingular tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "240547000",
+        "display": "Lymphonodular coxsackie pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232402006",
+        "display": "Meningococcal pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "95885008",
+        "display": "Mycoplasmal pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "164256007",
+        "display": "O/E - follicular tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "164260005",
+        "display": "O/E - granular pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "126665005",
+        "display": "Oropharyngeal mucositis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "78911000",
+        "display": "Parainfluenza virus pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "405737000",
+        "display": "Pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195779005",
+        "display": "Pharyngitis keratosa"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195780008",
+        "display": "Pharyngitis sicca"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195709006",
+        "display": "Pharyngolaryngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "878818001",
+        "display": "Pharyngotonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "721586007",
+        "display": "Pharyngotonsillitis caused by Human herpes simplex virus"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "59471009",
+        "display": "Phlegmonous pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "76651006",
+        "display": "Pneumococcal pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "111816002",
+        "display": "Pneumococcal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10629231000119109",
+        "display": "Recurrent acute streptococcal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195677001",
+        "display": "Recurrent acute tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "31309002",
+        "display": "Respiratory syncytial virus pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "82228008",
+        "display": "Staphylococcal pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "11461005",
+        "display": "Staphylococcal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43878008",
+        "display": "Streptococcal sore throat"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "41582007",
+        "display": "Streptococcal tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "58031004",
+        "display": "Suppurative pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10351008",
+        "display": "Suppurative tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "90176007",
+        "display": "Tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "415724006",
+        "display": "Tonsillitis due to Gram negative bacteria"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "39271004",
+        "display": "Ulcerative pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "14465002",
+        "display": "Ulcerative tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "186963008",
+        "display": "Vincent's angina"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "232417005",
+        "display": "Vincent's tonsillitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1532007",
+        "display": "Viral pharyngitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "51209006",
+        "display": "Viral tonsillitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J02.0",
+        "display": "Streptococcal pharyngitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J02.8",
+        "display": "Acute pharyngitis due to other specified organisms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J02.9",
+        "display": "Acute pharyngitis, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J03.00",
+        "display": "Acute streptococcal tonsillitis, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J03.01",
+        "display": "Acute recurrent streptococcal tonsillitis"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J03.80",
+        "display": "Acute tonsillitis due to other specified organisms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J03.81",
+        "display": "Acute recurrent tonsillitis due to other specified organisms"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J03.90",
+        "display": "Acute tonsillitis, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J03.91",
+        "display": "Acute recurrent tonsillitis, unspecified"
+      }
+    ]
+  }
+}

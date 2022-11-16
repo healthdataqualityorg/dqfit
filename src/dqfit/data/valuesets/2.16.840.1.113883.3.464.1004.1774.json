@@ -1,0 +1,78 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33544",
+  "meta": {
+    "lastUpdated": "2022-03-02T21:15:13.243-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1774",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1774"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Measles_Mumps_and_Rubella_(MMR)_Vaccine_Procedure",
+  "title": "Measles, Mumps and Rubella (MMR) Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:43:51-04:00",
+    "total": 9,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "433733003",
+        "display": "Administration of second dose of measles and mumps and rubella and varicella virus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170433008",
+        "display": "Administration of second dose of measles and mumps and rubella vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "432636005",
+        "display": "Administration of measles and mumps and rubella and varicella virus vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "38598009",
+        "display": "Administration of measles and mumps and rubella vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "572511000119105",
+        "display": "Administration of live attenuated measles and mumps and rubella and varicella-zoster vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "571591000119106",
+        "display": "Administration of live attenuated measles, mumps, and rubella vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "150971000119104",
+        "display": "Measles, mumps and rubella vaccination given"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90707",
+        "display": "Measles, mumps and rubella virus vaccine (MMR), live, for subcutaneous use"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90710",
+        "display": "Measles, mumps, rubella, and varicella vaccine (MMRV), live, for subcutaneous use"
+      }
+    ]
+  }
+}

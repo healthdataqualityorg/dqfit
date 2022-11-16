@@ -1,0 +1,228 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33055",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:26:21.043-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1389",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1389"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Depression_Case_Management_Encounter",
+  "title": "Depression Case Management Encounter",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:39:13-04:00",
+    "total": 34,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "225333008",
+        "display": "Behavior management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "386230005",
+        "display": "Case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416584001",
+        "display": "Case management ended"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "425604002",
+        "display": "Case management follow up"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "416341003",
+        "display": "Case management started"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "T1016",
+        "display": "Case management, each 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "T2022",
+        "display": "Case management, per month"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410216003",
+        "display": "Communication care management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410328009",
+        "display": "Coping skills case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "737850002",
+        "display": "Day care case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "409022004",
+        "display": "Dispensing medication management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410335001",
+        "display": "Exercises case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "385828006",
+        "display": "Health promotion management"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99494",
+        "display": "Initial or subsequent psychiatric collaborative care management, each additional 30 minutes in a calendar month of behavioral health care manager activities, in consultation with a psychiatric consultant, and directed by the treating physician or other qualified health care professional (List separately in addition to code for primary procedure)"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99492",
+        "display": "Initial psychiatric collaborative care management, first 70 minutes in the first calendar month of behavioral health care manager activities, in consultation with a psychiatric consultant, and directed by the treating physician or other qualified health care professional, with the following required elements: outreach to and engagement in treatment of a patient directed by the treating physician or other qualified health care professional, initial assessment of the patient, including administration of validated rating scales, with the development of an individualized treatment plan, review by the psychiatric consultant with modifications of the plan if recommended, entering patient in a registry and tracking patient follow-up and progress"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99366",
+        "display": "Medical team conference with interdisciplinary team of health care professionals, face-to-face with patient and/or family, 30 minutes or more, participation by nonphysician qualified health care professional"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410346003",
+        "display": "Medication action/side effects case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "424490002",
+        "display": "Medication prescription case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410347007",
+        "display": "Medication set-up case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410219005",
+        "display": "Personal care management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "182832007",
+        "display": "Management of drug regimen"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410351009",
+        "display": "Relaxation/breathing techniques case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410352002",
+        "display": "Rest/sleep case management"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "G0512",
+        "display": "Rural health clinic or federally qualified health center (rhc/fqhc) only, psychiatric collaborative care model (psychiatric cocm), 60 minutes or more of clinical staff time for psychiatric cocm services directed by an rhc or fqhc practitioner (physician, np, pa, or cnm) and including services furnished by a behavioral health care manager and consultation with a psychiatric consultant, per calendar month"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410353007",
+        "display": "Safety case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410354001",
+        "display": "Screening case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410356004",
+        "display": "Signs/symptoms-mental/emotional case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410360001",
+        "display": "Spiritual care case management"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "99493",
+        "display": "Subsequent psychiatric collaborative care management, first 60 minutes in a subsequent month of behavioral health care manager activities, in consultation with a psychiatric consultant, and directed by the treating physician or other qualified health care professional, with the following required elements: tracking patient follow-up and progress using the registry, with appropriate documentation, participation in weekly caseload consultation with the psychiatric consultant, ongoing collaboration with and coordination of the patient's mental health care with the treating physician or other qualified health care professional and any other treating mental health providers, additional review of progress and recommendations for changes in"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410363004",
+        "display": "Support group case management"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410364005",
+        "display": "Support system case management"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "T1017",
+        "display": "Targeted case management, each 15 minutes"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/HCPCSReleaseCodeSets",
+        "version": "2022.1.21AB",
+        "code": "T2023",
+        "display": "Targeted case management; per month"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "410366007",
+        "display": "Wellness case management"
+      }
+    ]
+  }
+}

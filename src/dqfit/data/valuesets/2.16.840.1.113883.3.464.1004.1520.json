@@ -1,0 +1,36 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33048",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:20:00.045-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1520",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1520"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cochlear_Implant_Diagnosis",
+  "title": "Cochlear Implant Diagnosis",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:54-04:00",
+    "total": 2,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z96.20",
+        "display": "Presence of otological and audiological implant, unspecified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "Z96.21",
+        "display": "Cochlear implant status"
+      }
+    ]
+  }
+}

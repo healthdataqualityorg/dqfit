@@ -1,0 +1,65 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33073",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:53:08.036-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1917",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1917"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Herpes_Zoster_Live_Vaccine_Procedure",
+  "title": "Herpes Zoster Live Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:54-04:00",
+    "total": 6,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "412530002",
+        "display": "Varicella virus live vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "377008002",
+        "display": "Varicella virus vaccine live 1350pfu/0.5mL powder"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "407746005",
+        "display": "Varicella-zoster live attenuated vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "407933006",
+        "display": "Varicella-zoster live attenuated vaccine injection (pdr for recon)+solvent"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "424778000",
+        "display": "Varicella-zoster live attenuated vaccine powder 0.65mL vial + diluent"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90736",
+        "display": "Zoster (shingles) vaccine (HZV), live, for subcutaneous injection"
+      }
+    ]
+  }
+}

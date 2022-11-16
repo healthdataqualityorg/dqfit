@@ -1,0 +1,49 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33070",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:57:30.408-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1406",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1406"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "HIV_Type_2",
+  "title": "HIV Type 2",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:11:09-04:00",
+    "total": 4,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "72621000119104",
+        "display": "Human immunodeficiency virus (HIV) II infection category B1"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "79019005",
+        "display": "Human immunodeficiency virus II infection"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "079.53",
+        "display": "Human immunodeficiency virus, type 2 [HIV-2]"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "B97.35",
+        "display": "Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere"
+      }
+    ]
+  }
+}

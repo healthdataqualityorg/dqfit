@@ -1,0 +1,166 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33528",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:51:45.456-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1758",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1758"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Hepatitis_A_Vaccine_Procedure",
+  "title": "Hepatitis A Vaccine Procedure",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:42:40-04:00",
+    "total": 23,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "571511000119102",
+        "display": "Administration of adult hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "871754003",
+        "display": "Administration of booster dose of pediatric hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170437009",
+        "display": "Administration of booster dose of hepatitis A and B vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "394691002",
+        "display": "Administration of booster dose of hepatitis A and typhoid vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170381002",
+        "display": "Administration of booster dose of hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170378007",
+        "display": "Administration of first dose of pediatric hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170434002",
+        "display": "Administration of first dose of hepatitis A and B vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "314178008",
+        "display": "Administration of first dose of hepatitis A and typhoid vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "871752004",
+        "display": "Administration of second dose of pediatric hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170435001",
+        "display": "Administration of second dose of hepatitis A and B vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "314179000",
+        "display": "Administration of second hepatitis A and typhoid vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170379004",
+        "display": "Administration of second dose of hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "871753009",
+        "display": "Administration of third dose of pediatric hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170436000",
+        "display": "Administration of third dose of hepatitis A and B vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "170380001",
+        "display": "Administration of third dose of hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "312868009",
+        "display": "Administration of hepatitis A and B vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "314177003",
+        "display": "Administration of hepatitis A and typhoid vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "243789007",
+        "display": "Administration of hepatitis A vaccine"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "412743000",
+        "display": "Booster hepatitis A junior vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "313188000",
+        "display": "First hepatitis A junior vaccination"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90633",
+        "display": "Hepatitis A vaccine (HepA), pediatric/adolescent dosage-2 dose schedule, for intramuscular use"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "313189008",
+        "display": "Second hepatitis A junior vaccination"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "inactive": true,
+        "version": "2021.09.21AA",
+        "code": "412742005",
+        "display": "Third hepatitis A junior vaccination"
+      }
+    ]
+  }
+}

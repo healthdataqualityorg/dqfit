@@ -1,0 +1,120 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33646",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:37:18.872-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1294",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1294"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Electroconvulsive_Therapy",
+  "title": "Electroconvulsive Therapy",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:44:46-04:00",
+    "total": 16,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "284468008",
+        "display": "Bilateral electroconvulsive therapy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "90870",
+        "display": "Electroconvulsive therapy (includes necessary monitoring)"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "23835007",
+        "display": "Electroconvulsive therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "10470002",
+        "display": "Electronarcosis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313019002",
+        "display": "First treatment in a course of electroconvulsive therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1010696002",
+        "display": "Left unilateral electroconvulsive therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231079005",
+        "display": "Multiple electroconvulsive therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "231080008",
+        "display": "Multiple monitored electroconvulsive therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1010697006",
+        "display": "Right unilateral electroconvulsive therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "11075005",
+        "display": "Subconvulsive electroshock therapy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313020008",
+        "display": "Subsequent treatment in a course of electroconvulsive therapy"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "GZB0ZZZ",
+        "display": "Electroconvulsive Therapy, Unilateral-Single Seizure"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "GZB1ZZZ",
+        "display": "Electroconvulsive Therapy, Unilateral-Multiple Seizure"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "GZB2ZZZ",
+        "display": "Electroconvulsive Therapy, Bilateral-Single Seizure"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "GZB3ZZZ",
+        "display": "Electroconvulsive Therapy, Bilateral-Multiple Seizure"
+      },
+      {
+        "system": "https://www.cms.gov/Medicare/Coding/ICD10",
+        "version": "2022.1.21AA",
+        "code": "GZB4ZZZ",
+        "display": "Other Electroconvulsive Therapy"
+      }
+    ]
+  }
+}

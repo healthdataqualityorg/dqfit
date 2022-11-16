@@ -1,0 +1,150 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33046",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:19:20.047-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1447",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1447"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Cochlear_Implant",
+  "title": "Cochlear Implant",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:52-04:00",
+    "total": 21,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "438544006",
+        "display": "Adjustment of cochlear implant processor"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "265316002",
+        "display": "Attention to cochlear prosthesis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "69727009",
+        "display": "Cochlear device implantation with mastoidectomy"
+      },
+      {
+        "system": "http://www.ama-assn.org/go/cpt",
+        "version": "2022.2.21AB",
+        "code": "69930",
+        "display": "Cochlear device implantation, with or without mastoidectomy"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "307549001",
+        "display": "Cochlear prosthesis procedure"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "445959007",
+        "display": "CT of cochlear implant"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "439307003",
+        "display": "Diagnostic analysis of cochlear implant with programming"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "441372006",
+        "display": "Diagnostic analysis of cochlear implant with reprogramming"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "44218004",
+        "display": "Implantation of cochlear electrode"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "359612003",
+        "display": "Implantation of cochlear prosthetic device"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "359608009",
+        "display": "Implantation of cochlear prosthetic device, electrode and receiver"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "50676004",
+        "display": "Implantation of cochlear prosthetic device, multiple channels"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "43815004",
+        "display": "Implantation of cochlear prosthetic device, single channel"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "172733004",
+        "display": "Implantation of extracochlear prosthesis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "172732009",
+        "display": "Implantation of intracochlear prosthesis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "455051000124103",
+        "display": "Magnetic resonance imaging of cochlear implant"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "710576002",
+        "display": "Removal of cochlear implant"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "17084003",
+        "display": "Replacement of cochlear prosthesis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "497006",
+        "display": "Replacement of cochlear prosthesis, multiple channels"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "52132003",
+        "display": "Replacement of cochlear prosthesis, single channel"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "445844000",
+        "display": "X-ray of cochlear implant"
+      }
+    ]
+  }
+}

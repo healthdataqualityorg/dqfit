@@ -1,0 +1,90 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33614",
+  "meta": {
+    "lastUpdated": "2021-05-05T17:15:02.752-04:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1534",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1534"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "Codeine_Sulfate_Medications",
+  "title": "Codeine Sulfate Medications",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:36:31-04:00",
+    "total": 11,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "997170",
+        "display": "codeine sulfate 15 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "997287",
+        "display": "codeine sulfate 30 MG Oral Tablet"
+      },
+      {
+        "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+        "version": "2021.03.01.20AB",
+        "code": "997296",
+        "display": "codeine sulfate 60 MG Oral Tablet"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054024324",
+        "display": "codeine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054024424",
+        "display": "codeine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054024425",
+        "display": "codeine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00054024525",
+        "display": "codeine sulfate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527169801",
+        "display": "codeine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527169891",
+        "display": "codeine sulfate 30 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527169901",
+        "display": "codeine sulfate 60 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/ndc",
+        "code": "00527172791",
+        "display": "codeine sulfate 15 MG Oral Tablet",
+        "version": "2022.01.03.21AB"
+      }
+    ]
+  }
+}

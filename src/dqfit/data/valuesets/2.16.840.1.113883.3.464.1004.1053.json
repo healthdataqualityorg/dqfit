@@ -1,0 +1,126 @@
+{
+  "resourceType": "ValueSet",
+  "id": "33271",
+  "meta": {
+    "lastUpdated": "2022-03-02T20:23:07.706-05:00"
+  },
+  "url": "https://www.ncqa.org/fhir/valueset/2.16.840.1.113883.3.464.1004.1053",
+  "identifier": [
+    {
+      "value": "2.16.840.1.113883.3.464.1004.1053"
+    }
+  ],
+  "version": "2022-03-31",
+  "name": "COPD",
+  "title": "COPD",
+  "status": "active",
+  "expansion": {
+    "timestamp": "2022-03-24T18:10:59-04:00",
+    "total": 17,
+    "offset": 0,
+    "contains": [
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "195951007",
+        "display": "Acute exacerbation of chronic obstructive airways disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "1751000119100",
+        "display": "Acute exacerbation of chronic obstructive airways disease with asthma"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "285381006",
+        "display": "Acute infective exacerbation of chronic obstructive airways disease"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "496",
+        "display": "Chronic airway obstruction, not elsewhere classified"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "493.22",
+        "display": "Chronic obstructive asthma with (acute) exacerbation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "493.21",
+        "display": "Chronic obstructive asthma with status asthmaticus"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-9-cm",
+        "version": "2014.1.13AA",
+        "code": "493.20",
+        "display": "Chronic obstructive asthma, unspecified"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "13645005",
+        "display": "Chronic obstructive lung disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "106001000119101",
+        "display": "Chronic obstructive lung disease co-occurrent with acute bronchitis"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "196001008",
+        "display": "Chronic obstructive pulmonary disease with acute lower respiratory infection"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "135836000",
+        "display": "End stage chronic obstructive airways disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313296004",
+        "display": "Mild chronic obstructive pulmonary disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313297008",
+        "display": "Moderate chronic obstructive pulmonary disease"
+      },
+      {
+        "system": "http://snomed.info/sct",
+        "version": "2021.09.21AA",
+        "code": "313299006",
+        "display": "Severe chronic obstructive pulmonary disease"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J44.0",
+        "display": "Chronic obstructive pulmonary disease with (acute) lower respiratory infection"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J44.1",
+        "display": "Chronic obstructive pulmonary disease with (acute) exacerbation"
+      },
+      {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "version": "2022.1.21AA",
+        "code": "J44.9",
+        "display": "Chronic obstructive pulmonary disease, unspecified"
+      }
+    ]
+  }
+}
