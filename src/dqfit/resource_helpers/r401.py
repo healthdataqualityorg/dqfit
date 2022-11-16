@@ -1,9 +1,15 @@
 import pandas as pd
 
+
 class ResourceHelper:
     @staticmethod
     def get_id(resource) -> str:
         return resource["id"]
+
+    @staticmethod
+    def get_bundle_index(resource) -> str:
+        ## bundle index is feature we made
+        return resource.get("bundle_index")
 
     @staticmethod
     def get_type(resource) -> str:
@@ -28,7 +34,6 @@ class ResourceHelper:
                 except Exception as e:
                     # did this for the synthea data
                     date = resource["performedPeriod.start"]
-
             elif resourceType == "Condition":
                 date = resource.get("onsetDateTime", "")
             elif resourceType == "Observation":
@@ -74,16 +79,15 @@ class ResourceHelper:
         try:
             if resource["resourceType"] == "Patient":
                 key = f"{resource['id']}"
-            elif resource["resourceType"] in ["Claim","Immunization"]:
+            elif resource["resourceType"] in ["Claim", "Immunization"]:
                 key = resource["patient.reference"]
             else:
                 key = resource["subject.reference"]
-            key = key.replace("Patient/Patient.","")
-            key = key.replace("urn:uuid:","") # from synthea pass
+            key = key.replace("Patient/Patient.", "")
+            key = key.replace("urn:uuid:", "")  # from synthea pass
             return key.split(".")[-1]
         except Exception as e:
             print(e, resource)
-
 
     @staticmethod
     def get_patient_gender(resource) -> int:
@@ -101,8 +105,8 @@ class ResourceHelper:
     @staticmethod
     def get_patient_age_decile(resource) -> int:
         """
-            returns int 0-9
-            Enables normalization against US Census, e.g. census max is 85+
+        returns int 0-9
+        Enables normalization against US Census, e.g. census max is 85+
         """
         if resource["resourceType"] != "Patient":
             return None
