@@ -7,11 +7,6 @@ class ResourceHelper:
         return resource["id"]
 
     @staticmethod
-    def get_bundle_index(resource) -> str:
-        ## bundle index is feature we made
-        return resource.get("bundle_index")
-
-    @staticmethod
     def get_type(resource) -> str:
         return resource["resourceType"]
 
@@ -28,8 +23,8 @@ class ResourceHelper:
             elif resourceType == "MedicationDispense":
                 date = resource["whenHandedOver"]
             elif resourceType == "Procedure":
+                # hmm how to handle 
                 try:
-                    # looks like we are out of date
                     date = resource["performedDateTime"]
                 except Exception as e:
                     # did this for the synthea data
@@ -92,6 +87,11 @@ class ResourceHelper:
     @staticmethod
     def get_patient_gender(resource) -> int:
         return resource["gender"]
+
+    @staticmethod
+    def get_bundle_index(resource) -> str:
+        ## bundle index is feature we made
+        return resource.get("bundle_index")
 
     # @staticmethod
     # def get_patient_zip5(resource) -> int:

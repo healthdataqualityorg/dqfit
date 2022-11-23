@@ -1,8 +1,35 @@
 from typing import Union
 import json
 from zipfile import ZipFile
-
+from pathlib import Path
 import pandas as pd
+
+
+def valueset_query(oid) -> pd.DataFrame:
+    def _get_vs(oid: str) -> dict:
+        vs_path = f"data/valuesets/{oid}.json"
+        with open(vs_path, "r") as f:
+            vs = json.load(f)
+        return vs
+
+    return pd.DataFrame([_get_vs(oid)])
+
+
+def dim_weights_query(context: str) -> pd.DataFrame:
+    package_dir = Path(__file__).parent
+    return pd.read_csv(
+        f"{package_dir}/weights/{context}.csv", dtype={"dim_key": "str", "dim_weight": "float"}
+    )
+
+def bundles_query(path):
+    filetype = path.split(".")[-1]
+    if filetype == "feather":
+        bundles = pd.read_feather(path)
+    elif filetype == "zip":
+        zf = ZipFile(path)
+        bundles = [json.load(zf.open(f)) for f in zf.namelist()[1::]]
+        bundles = pd.DataFrame(bundles)
+    return bundles.reset_index().rename(columns={'index':'bundle_index'})
 
 
 class BundleQuery:
@@ -30,9 +57,7 @@ class CohortQuery:
 
     # def __init__(self, cohort_zip_path: str) -> None:
     #     .
-        
-    
-    
+
     def _load_zipfile(cohort_zip_path: str) -> pd.DataFrame:
         zf = ZipFile(cohort_zip_path)
         bundles = [json.load(zf.open(f)) for f in zf.namelist()[1::]]
@@ -45,54 +70,3 @@ class CohortQuery:
     # @staticmethod
     # def big_query() -> pd.DataFrame:
     #     ...
-
-
-def get_supported_resources(bundles: Union[pd.DataFrame, list]) -> pd.DataFrame:
-    if type(bundles) == list:
-        bundles = pd.DataFrame(bundles)
-    # MedicationDispense ? check to see where CQL examples sit with this
-    SUPPORTED_RESOURCES = [
-        "Patient",
-        "Procedure",
-        "Condition",
-        "Observation",
-        "Immunization",
-        # "AllergyIntolerance", getting erros on synthrea
-    ]
-    resources = pd.json_normalize(
-        bundles["entry"].explode()
-    )  # concise-ish but doesn't scale great
-    resources.columns = [col.replace("resource.", "") for col in resources.columns]
-    supported_resources = resources[resources["resourceType"].isin(SUPPORTED_RESOURCES)]
-    supported_resources = supported_resources.dropna(how="all", axis=1) # drop extra columns
-    supported_resources = supported_resources.reset_index(drop=True)
-    return supported_resources
-
-
-
-def get_resource_features(resources: pd.DataFrame) -> pd.DataFrame:
-    """
-        Takes in Resources, applies ResourceHelper Logic (which is where we can version)
-    """
-    features = pd.DataFrame()
-    feature_map = {
-        "_ref": ResourceHelper.get_patient_reference,
-        "id": ResourceHelper.get_id,
-        "resource_type": ResourceHelper.get_type,
-        "date": ResourceHelper.get_date,
-        "code": ResourceHelper.get_code, # -> codes?
-        "system": ResourceHelper.get_system,
-        "val": ResourceHelper.get_val,
-        "gender": ResourceHelper.get_patient_gender,
-        "age_decile": ResourceHelper.get_patient_age_decile,
-        # "zip5": ResourceHelper.get_patient_zip5,
-    }
-    for k, v in feature_map.items():
-        features[k] = resources.apply(v, axis=1) 
-
-    features['date'] = pd.to_datetime(features['date'])    
-    return features
-
-resources = get_supported_resources(bundles)
-resource_features = get_resource_features(resources)
-resource_features
