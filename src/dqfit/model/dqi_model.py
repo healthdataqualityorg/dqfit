@@ -81,7 +81,7 @@ class DQIModel:
             y="count",
             color="outcome",
             title=f"Cohort Outcomes",
-        ).show(renderer='notebook')
+        ).show()
 
     # def cohort_level_scores(self):
     #     fitness_scores

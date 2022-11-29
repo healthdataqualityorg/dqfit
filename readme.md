@@ -1,6 +1,6 @@
 # Data Quality Fitness Index Tool
 
-👷‍♂️  The Following Package is Under Construction. All feedback and ideas warmly welcomed.
+👷‍♂️  This package and concept is under construction. All feedback and ideas warmly welcomed. 
 
 ## Developer Quickstart
 

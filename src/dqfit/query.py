@@ -36,6 +36,10 @@ def bundles_query(path):
         bundles = pd.DataFrame(bundles)
     return bundles.reset_index().rename(columns={'index':'bundle_index'})
 
+def synthea_bundles_sample_query(n=100):
+    bundles = bundles_query("https://storage.googleapis.com/cdn.dqfit.org/cohort_synthea_100_bundles.feather")
+    return bundles[0:n]
+
 
 class BundleQuery:
 
