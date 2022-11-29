@@ -17,8 +17,10 @@ def valueset_query(oid) -> pd.DataFrame:
 
 def weights_query(context: list = None, version: str = "v0") -> pd.DataFrame:
     package_dir = Path(__file__).parent
+    weights_path = f"https://storage.googleapis.com/cdn.dqfit.org/weights/v0.csv"
+    # weights_path = f"{package_dir}/data/weights/{version}.csv"
     df = pd.read_csv(
-        f"{package_dir}/model/weights/{version}.csv", dtype={"dim_key": "str", "dim_weight": "float"}
+        weights_path, dtype={"dim_key": "str", "dim_weight": "float"}
     )
     if context:
         df = df[df['context'].isin(context)].reset_index(drop=True)
