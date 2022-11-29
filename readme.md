@@ -1,10 +1,10 @@
 # Data Quality Fitness Index Tool
 
-DQFIT is currently in high variance alpha stage
+👷‍♂️  The Following Package is Under Construction. All feedback and ideas warmly welcomed.
 
 ## Developer Quickstart
 
-To get started,  `pip install dqfit`
+[Getting Started: DQFIT on Google CoLab](https://colab.research.google.com/drive/1FhI_IaJ6C249rMAY7fBseh8JuPr9dkY-)
 
 
 ## Context
