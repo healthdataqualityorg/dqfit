@@ -19,7 +19,7 @@ class DQIModel:
 
     def fit(self, bundles):
         # hmm do I like this name better?
-        return self.patient_level_score(self, bundles)
+        return self.patient_level_score(bundles)
 
 
 
