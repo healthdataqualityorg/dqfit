@@ -12,7 +12,7 @@ class ResourceHelper:
 
     @staticmethod
     def get_val(resource):
-        return resource["valueQuantity.value"]
+        return resource.get("valueQuantity.value")
 
     @staticmethod
     def get_date(resource) -> str:
@@ -22,12 +22,10 @@ class ResourceHelper:
                 return None
             elif resourceType == "MedicationDispense":
                 date = resource["whenHandedOver"]
-            elif resourceType == "Procedure":
-                # hmm how to handle 
+            elif resourceType == "Procedure": # hmm how to handle 
                 try:
                     date = resource["performedDateTime"]
                 except Exception as e:
-                    # did this for the synthea data
                     date = resource["performedPeriod.start"]
             elif resourceType == "Condition":
                 date = resource.get("onsetDateTime", "")

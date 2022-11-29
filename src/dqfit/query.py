@@ -15,11 +15,14 @@ def valueset_query(oid) -> pd.DataFrame:
     return pd.DataFrame([_get_vs(oid)])
 
 
-def dim_weights_query(context: str) -> pd.DataFrame:
+def weights_query(context: list = None, version: str = "v0") -> pd.DataFrame:
     package_dir = Path(__file__).parent
-    return pd.read_csv(
-        f"{package_dir}/weights/{context}.csv", dtype={"dim_key": "str", "dim_weight": "float"}
+    df = pd.read_csv(
+        f"{package_dir}/model/weights/{version}.csv", dtype={"dim_key": "str", "dim_weight": "float"}
     )
+    if context:
+        df = df[df['context'].isin(context)].reset_index(drop=True)
+    return df
 
 def bundles_query(path):
     filetype = path.split(".")[-1]
