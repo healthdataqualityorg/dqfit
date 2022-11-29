@@ -1,13 +1,15 @@
 # Data Quality Fitness Index Tool
 
+DQFIT is currently in high variance alpha stage
 
-## alpha
+## Developer Quickstart
 
-# Quickstart
+To get started,  `pip install dqfit`
 
-[ WIP ]
 
-# The Value of High-Quality Data: Measuring Fitness and Trust in [Longitudinal health records]
+## Context
+
+### The Value of High-Quality Data: Measuring Fitness and Trust in [Longitudinal health records]
 
 alt-title: Trust is all you need
 
