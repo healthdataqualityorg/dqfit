@@ -7,7 +7,7 @@ from dqfit.query import weights_query
 
 
 class DQIModel:
-    def __init__(self, context: list =["BCSE","COLE"]) -> None:
+    def __init__(self, context: list = ["BCSE", "COLE"]) -> None:
         self.context = context
 
     @staticmethod
@@ -19,13 +19,8 @@ class DQIModel:
 
     def fit(self, bundles):
         # hmm do I like this name better?
-        return self.patient_level_score(bundles)
-
-
-
-    def patient_level_score(self, bundles):
         RF = ResourceFeatures.transform(bundles)
-        
+
         def _get_patient_features(resource_level_features):
             # tidy this up
             df = resource_level_features.copy()
@@ -36,7 +31,7 @@ class DQIModel:
             df["dim_weight"] = 1
             return df
 
-        dim_weights = weights_query(context = self.context)
+        dim_weights = weights_query(context=self.context)
         contexts = []
         for context in dim_weights["context"].unique():
             context_dim_weights = dim_weights[dim_weights["context"] == context]
@@ -57,26 +52,31 @@ class DQIModel:
         )
         fitness_scores = (
             D.groupby(["context", "bundle_index"])
-            .agg(patient_level_score=("dim_score", "sum"))
+            .agg(fit_score=("dim_score", "sum"))
             .reset_index()
         )
-        fitness_scores["outcome"] = fitness_scores["patient_level_score"].apply(
+        fitness_scores["outcome"] = fitness_scores["fit_score"].apply(
             self.set_pass_fail
         )
+        fitness_scores["outcome"] = pd.Categorical(
+            fitness_scores["outcome"], ["pass", "fail"])
+        fitness_scores = fitness_scores.sort_values(["context", "outcome", "fit_score"], ascending=[
+                                                    True, True, False]).reset_index(drop=True)
         return fitness_scores
 
     @staticmethod
     def visualize(scores):
-        
+
         print(scores['outcome'].value_counts(normalize=True))
         cohort_outcomes = (
             scores.groupby(["context", "outcome"])
             .agg(count=("outcome", "count"))
             .reset_index()
         )
-        
+
         px.bar(
-            cohort_outcomes.sort_values(["context","outcome"], ascending=False),
+            cohort_outcomes.sort_values(
+                ["context", "outcome"], ascending=True),
             x="context",
             y="count",
             color="outcome",
@@ -97,7 +97,6 @@ class DQIModel:
 
 # # could be an abstraction
 # class DQIModel:
-
 
 
 #     def __init__(self, context="systolic") -> None:
