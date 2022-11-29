@@ -17,6 +17,12 @@ class DQIModel:
         else:
             return "fail"
 
+    def fit(self, bundles):
+        # hmm do I like this name better?
+        return self.patient_level_score(self, bundles)
+
+
+
     def patient_level_score(self, bundles):
         RF = ResourceFeatures.transform(bundles)
         
