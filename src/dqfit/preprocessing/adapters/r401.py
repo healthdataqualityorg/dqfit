@@ -43,7 +43,7 @@ def get_patient_features(resource: dict) -> dict:
     
     return dict(
         _ref = resource.get("id"),
-        bundle_index = resource.get("bundle_index"),
+        # bundle_index = resource.get("bundle_index"),
         id = resource.get("id"),
         resource_type = resource.get("resourceType"), 
         gender = resource.get("gender"),
@@ -58,7 +58,7 @@ def get_procedure_features(resource: dict) -> dict:
     
     return dict(
         _ref = _get_subject_patient_reference(resource),
-        bundle_index = resource.get("bundle_index"),
+        # bundle_index = resource.get("bundle_index"),
         id = resource.get("id"),
         resource_type = resource.get("resourceType"),
         date = _get_iso_date(resource),
@@ -72,7 +72,7 @@ def get_condition_features(resource: dict) -> dict:
     
     return dict(
         _ref = _get_subject_patient_reference(resource),
-        bundle_index = resource.get("bundle_index"),
+        # bundle_index = resource.get("bundle_index"),
         id = resource.get("id"),
         resource_type = resource.get("resourceType"),
         date = _get_iso_date(resource),
@@ -91,7 +91,7 @@ def get_observation_features(resource: dict) -> dict:
     
     return dict(
         _ref = _get_subject_patient_reference(resource),
-        bundle_index = resource.get("bundle_index"),
+        # bundle_index = resource.get("bundle_index"),
         id = resource.get("id"),
         resource_type = resource.get("resourceType"),
         date = _get_iso_date(resource),
